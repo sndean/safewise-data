@@ -1,0 +1,54 @@
+#1
+
+Unalaska
+
++3
+map image of unalaska,ak
+Population 4,546
+Median Income $91,635
+VC Rate 2020, 2019, 2018 3.7, 3.4, 3.5
+PC Rate 2020, 2019, 2018 10.8, 6.5, 6.4
+
+#2
+
+Sitka
+
+-1
+map image of Sitka, AK
+Population 8,588
+Median Income $69,635
+VC Rate 2020, 2019, 2018 2.4, 1.6, 1.4
+PC Rate 2020, 2019, 2018 26.4, 18.7, 16.9
+
+#3
+
+Homer
+
+-1
+map image of Homer, AK
+Population 5,797
+Median Income $59,185
+VC Rate 2020, 2019, 2018 2.1, 1.9, 1.8
+PC Rate 2020, 2019, 2018 37.3, 36.8, 29.8
+
+#4
+
+Palmer
+
+-1
+map image of Palmer, AK
+Population 7,403
+Median Income $58,389
+VC Rate 2020, 2019, 2018 3.5, 2.8, 3.7
+PC Rate 2020, 2019, 2018 33.0, 34.0, 24.1
+
+#5
+
+Soldotna
+
++4
+Soldotna, Alaska
+Population 4,731
+Median Income $68,662
+VC Rate 2020, 2019, 2018 3.8, 7.0, 7.4
+PC Rate 2020, 2019, 2018 35.3, 49.6, 50.9

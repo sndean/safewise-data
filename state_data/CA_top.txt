@@ -1,0 +1,549 @@
+#1
+
+Danville
+
+0
+Danville, California
+Population 45,202
+Median Income $152,798
+VC Rate 2020, 2019, 2018 0.4, 0.4, 0.2
+PC Rate 2020, 2019, 2018 7.2, 7.8, 8.1
+
+#2
+
+Rancho Santa Margarita
+
++1
+Rancho Santa Margarita, California
+Population 48,918
+Median Income $106,939
+VC Rate 2020, 2019, 2018 0.9, 0.7, 1.0
+PC Rate 2020, 2019, 2018 6.5, 6.7, 5.4
+
+#3
+
+Moorpark
+
++22
+Moorpark, California
+Population 37,121
+Median Income $102,145
+VC Rate 2020, 2019, 2018 0.9, 1.3, 1.0
+PC Rate 2020, 2019, 2018 7.0, 9.0, 8.1
+
+#4
+
+Lincoln
+
++9
+Lincoln, California
+Population 48,364
+Median Income $78,647
+VC Rate 2020, 2019, 2018 0.7, 0.9, 0.6
+PC Rate 2020, 2019, 2018 8.6, 12.7, 11.5
+
+#5
+
+Aliso Viejo
+
++5
+Aliso Viejo, California
+Population 52,183
+Median Income $106,353
+VC Rate 2020, 2019, 2018 0.8, 0.8, 0.6
+PC Rate 2020, 2019, 2018 8.5, 7.6, 8.1
+
+#6
+
+Rancho Palos Verdes
+
++1
+Rancho Palos Verdes, California
+Population 42,464
+Median Income $124,552
+VC Rate 2020, 2019, 2018 0.8, 0.8, 0.6
+PC Rate 2020, 2019, 2018 9.2, 10.5, 9.7
+
+#7
+
+San Ramon
+
+-1
+San Ramon, California
+Population 76,569
+Median Income $142,718
+VC Rate 2020, 2019, 2018 0.6, 0.7, 0.5
+PC Rate 2020, 2019, 2018 10.3, 12.8, 10.7
+
+#8
+
+Mission Viejo
+
++9
+Mission Viejo, California
+Population 96,419
+Median Income $107,988
+VC Rate 2020, 2019, 2018 1.2, 1.0, 0.8
+PC Rate 2020, 2019, 2018 9.7, 10.0, 10.0
+
+#9
+
+Laguna Niguel
+
+0
+Laguna Niguel, California
+Population 66,806
+Median Income $99,206
+VC Rate 2020, 2019, 2018 1.2, 0.8, 1.0
+PC Rate 2020, 2019, 2018 9.6, 8.7, 11.3
+
+#10
+
+Yorba Linda
+
+-6
+Yucaipa, California
+Population 68,794
+Median Income $123,962
+VC Rate 2020, 2019, 2018 0.6, 0.7, 0.6
+PC Rate 2020, 2019, 2018 11.8, 10.4, 10.6
+
+#11
+
+Foster City
+
++11
+Foster City, California
+Population 34,993
+Median Income $136,383
+VC Rate 2020, 2019, 2018 1.0, 1.2, 0.9
+PC Rate 2020, 2019, 2018 10.7, 10.0, 10.1
+
+#12
+
+Irvine
+
+-10
+Irvine, California
+Population 288,052
+Median Income $95,573
+VC Rate 2020, 2019, 2018 0.6, 0.6, 0.6
+PC Rate 2020, 2019, 2018 12.7, 13.2, 14.0
+
+#13
+
+Poway
+
++5
+Poway, California
+Population 50,346
+Median Income $102,338
+VC Rate 2020, 2019, 2018 1.3, 1.1, 1.3
+PC Rate 2020, 2019, 2018 10.1, 11.4, 9.0
+
+#14
+
+Thousand Oaks
+
++14
+Thousand Oaks, California
+Population 129,319
+Median Income $103,793
+VC Rate 2020, 2019, 2018 1.0, 1.3, 1.3
+PC Rate 2020, 2019, 2018 11.4, 13.1, 13.0
+
+#15
+
+Murrieta
+
+-10
+Murrieta, California
+Population 114,706
+Median Income $80,373
+VC Rate 2020, 2019, 2018 0.8, 0.7, 0.4
+PC Rate 2020, 2019, 2018 12.3, 14.0, 14.4
+
+#16
+
+Oakley
+
++7
+Oakley, California
+Population 42,655
+Median Income $89,392
+VC Rate 2020, 2019, 2018 1.0, 1.3, 1.4
+PC Rate 2020, 2019, 2018 11.9, 11.8, 10.3
+
+#17
+
+Lake Forest
+
++29
+Lake Forest, California
+Population 85,302
+Median Income $96,963
+VC Rate 2020, 2019, 2018 1.9, 1.6, 1.3
+PC Rate 2020, 2019, 2018 8.9, 9.0, 8.9
+
+#18
+
+Santa Clarita
+
++34
+Santa Clarita, California
+Population 216,589
+Median Income $90,544
+VC Rate 2020, 2019, 2018 1.3, 1.6, 1.5
+PC Rate 2020, 2019, 2018 11.3, 14.2, 13.7
+
+#19
+
+Camarillo
+
++28
+Camarillo, California
+Population 68,218
+Median Income $92,780
+VC Rate 2020, 2019, 2018 1.1, 1.6, 1.8
+PC Rate 2020, 2019, 2018 12.3, 16.0, 16.5
+
+#20
+
+Chino Hills
+
+-9
+Chino Hills, California
+Population 81,117
+Median Income $102,746
+VC Rate 2020, 2019, 2018 0.9, 0.9, 0.7
+PC Rate 2020, 2019, 2018 13.3, 17.1, 12.8
+
+#21
+
+Pacifica
+
++57
+Pacifica, California
+Population 39,339
+Median Income $106,959
+VC Rate 2020, 2019, 2018 1.8, 2.2, 1.6
+PC Rate 2020, 2019, 2018 10.2, 13.4, 12.4
+
+#22
+
+Rocklin
+
+-6
+Rocklin, California
+Population 65,969
+Median Income $91,995
+VC Rate 2020, 2019, 2018 0.8, 1.0, 1.0
+PC Rate 2020, 2019, 2018 14.4, 17.8, 19.4
+
+#23
+
+Simi Valley
+
++17
+Simi Valley, California
+Population 127,222
+Median Income $93,516
+VC Rate 2020, 2019, 2018 1.7, 1.5, 1.4
+PC Rate 2020, 2019, 2018 11.7, 14.4, 12.3
+
+#24
+
+San Juan Capistrano
+
++58
+San Juan Capistrano, California
+Population 36,295
+Median Income $81,730
+VC Rate 2020, 2019, 2018 2.3, 2.2, 2.4
+PC Rate 2020, 2019, 2018 9.7, 12.3, 11.8
+
+#25
+
+San Marcos
+
++47
+San Marcos, California
+Population 98,088
+Median Income $70,417
+VC Rate 2020, 2019, 2018 2.1, 2.0, 2.1
+PC Rate 2020, 2019, 2018 10.7, 11.7, 12.1
+
+#26
+
+Eastvale
+
+-14
+Eastvale, California
+Population 64,642
+Median Income $110,685
+VC Rate 2020, 2019, 2018 1.0, 0.9, 1.2
+PC Rate 2020, 2019, 2018 14.8, 21.1, 21.1
+
+#27
+
+Cypress
+
++10
+Cypress, California
+Population 49,223
+Median Income $90,345
+VC Rate 2020, 2019, 2018 1.2, 1.4, 1.3
+PC Rate 2020, 2019, 2018 14.3, 14.8, 15.8
+
+#28
+
+Glendale
+
++2
+Glendale, California
+Population 204,724
+Median Income $58,657
+VC Rate 2020, 2019, 2018 1.0, 1.4, 1.1
+PC Rate 2020, 2019, 2018 15.2, 15.4, 17.0
+
+#29
+
+Encinitas
+
++24
+Encinitas, California
+Population 63,700
+Median Income $103,842
+VC Rate 2020, 2019, 2018 1.8, 1.7, 1.7
+PC Rate 2020, 2019, 2018 12.5, 14.5, 16.3
+
+#30
+
+Temple City
+
++11
+Temple City, California
+Population 36,484
+Median Income $69,853
+VC Rate 2020, 2019, 2018 1.8, 1.5, 1.3
+PC Rate 2020, 2019, 2018 12.9, 15.1, 15.9
+
+#31
+
+Folsom
+
+-23
+Folsom, California
+Population 78,916
+Median Income $106,718
+VC Rate 2020, 2019, 2018 1.1, 0.8, 1.0
+PC Rate 2020, 2019, 2018 15.8, 15.7, 17.9
+
+#32
+
+Novato
+
++18
+Novato, California
+Population 56,577
+Median Income $89,812
+VC Rate 2020, 2019, 2018 1.7, 1.6, 1.4
+PC Rate 2020, 2019, 2018 13.7, 16.3, 18.4
+
+#33
+
+Cupertino
+
+-9
+Cupertino, California
+Population 61,078
+Median Income $153,449
+VC Rate 2020, 2019, 2018 1.2, 1.3, 1.2
+PC Rate 2020, 2019, 2018 15.7, 15.9, 16.4
+
+#34
+
+San Clemente
+
++1
+San Clemente, California
+Population 65,509
+Median Income $101,843
+VC Rate 2020, 2019, 2018 1.7, 1.4, 1.1
+PC Rate 2020, 2019, 2018 13.7, 12.4, 12.1
+
+#35
+
+Morgan Hill
+
++13
+Morgan Hill, California
+Population 46,142
+Median Income $107,161
+VC Rate 2020, 2019, 2018 1.1, 1.6, 1.9
+PC Rate 2020, 2019, 2018 16.0, 15.9, 14.6
+
+#36
+
+Diamond Bar
+
+-22
+Diamond Bar, California
+Population 56,821
+Median Income $94,531
+VC Rate 2020, 2019, 2018 1.0, 1.0, 1.2
+PC Rate 2020, 2019, 2018 16.5, 18.3, 16.3
+
+#37
+
+Martinez
+
+-1
+Martinez, California
+Population 38,699
+Median Income $98,102
+VC Rate 2020, 2019, 2018 1.9, 1.4, 1.3
+PC Rate 2020, 2019, 2018 13.5, 16.0, 22.3
+
+#38
+
+Redwood City
+
++50
+Redwood City, California
+Population 88,161
+Median Income $99,026
+VC Rate 2020, 2019, 2018 2.0, 2.4, 1.9
+PC Rate 2020, 2019, 2018 14.2, 16.1, 17.3
+
+#39
+
+Orange
+
++5
+Orange, California
+Population 141,108
+Median Income $83,500
+VC Rate 2020, 2019, 2018 1.1, 1.5, 1.6
+PC Rate 2020, 2019, 2018 17.6, 18.3, 18.4
+
+#40
+
+Pleasanton
+
+-21
+Pleasanton, California
+Population 84,992
+Median Income $138,269
+VC Rate 2020, 2019, 2018 1.3, 1.2, 1.2
+PC Rate 2020, 2019, 2018 17.0, 19.7, 19.7
+
+#41
+
+Santee
+
++60
+Santee, California
+Population 58,781
+Median Income $81,430
+VC Rate 2020, 2019, 2018 1.9, 2.6, 1.9
+PC Rate 2020, 2019, 2018 15.1, 14.8, 15.6
+
+#42
+
+Hollister
+
++89
+Hollister, California
+Population 38,930
+Median Income $77,823
+VC Rate 2020, 2019, 2018 2.5, 3.4, 3.1
+PC Rate 2020, 2019, 2018 12.7, 10.3, 10.4
+
+#43
+
+Menlo Park
+
++2
+Menlo Park, California
+Population 34,694
+Median Income $132,928
+VC Rate 2020, 2019, 2018 1.2, 1.5, 0.9
+PC Rate 2020, 2019, 2018 17.5, 19.2, 18.5
+
+#44
+
+Yucaipa
+
+-10
+Yucaipa, California
+Population 54,001
+Median Income $58,166
+VC Rate 2020, 2019, 2018 1.9, 1.4, 2.1
+PC Rate 2020, 2019, 2018 15.2, 17.3, 21.6
+
+#45
+
+Elk Grove
+
++75
+Elk Grove, California
+Population 174,651
+Median Income $85,556
+VC Rate 2020, 2019, 2018 2.4, 3.2, 3.2
+PC Rate 2020, 2019, 2018 13.5, 13.0, 13.8
+
+#46
+
+Dana Point
+
++20
+Dana Point, California
+Population 34,019
+Median Income $90,310
+VC Rate 2020, 2019, 2018 2.0, 1.9, 1.9
+PC Rate 2020, 2019, 2018 14.8, 15.1, 16.3
+
+#47
+
+Sunnyvale
+
+-27
+Sunnyvale, California
+Population 155,637
+Median Income $118,314
+VC Rate 2020, 2019, 2018 1.6, 1.2, 1.0
+PC Rate 2020, 2019, 2018 16.3, 17.3, 13.9
+
+#48
+
+Daly City
+
++41
+Daly City, California
+Population 107,928
+Median Income $86,342
+VC Rate 2020, 2019, 2018 2.2, 2.5, 2.3
+PC Rate 2020, 2019, 2018 14.2, 14.5, 15.2
+
+#49
+
+Seaside
+
++55
+Seaside, California
+Population 34,303
+Median Income $57,653
+VC Rate 2020, 2019, 2018 2.7, 2.7, 3.7
+PC Rate 2020, 2019, 2018 13.0, 14.9, 17.4
+
+#50
+
+La Mirada
+
++25
+La Mirada, California
+Population 49,175
+Median Income $87,400
+VC Rate 2020, 2019, 2018 1.8, 2.1, 1.7
+PC Rate 2020, 2019, 2018 16.9, 18.4, 17.9

@@ -1,0 +1,216 @@
+#1
+
+Rainbow City
+
+New
+Rainbow City, Alabama
+Population 9,546
+Median Income $49,158
+VC Rate 2020, 2019, 2018 0.1, Not available, 5.0
+PC Rate 2020, 2019, 2018 5.2, Not available, 19.0
+
+#2
+
+Southside
+
++14
+Southside, Alabama
+Population 8,774
+Median Income $68,470
+VC Rate 2020, 2019, 2018 1.7, 1.7, 2.0
+PC Rate 2020, 2019, 2018 7.4, 12.2, 12.9
+
+#3
+
+Mountain Brook
+
+New
+Population 20,373
+Median Income $132,825
+VC Rate 2020, 2019, 2018 0.8, Not available, 0.7
+PC Rate 2020, 2019, 2018 11.2, Not available, 13.9
+
+#4
+
+Margaret
+
++6
+Margaret, Alabama
+Population 4,870
+Median Income $65,360
+Violent Crime Rate (per 1,000) 1.8, 1.3, 0.7
+Property Crime Rate (per 1,000) 8.8, 6.9, 5.2
+
+#5
+
+Helena
+
+0
+Helena, Alabama
+Population 19,387
+Median Income $84,110
+VC Rate 2020, 2019, 2018 3.1, 0.8, 1.3
+PC Rate 2020, 2019, 2018 6.8, 4.9, 6.2
+
+#6
+
+Vestavia Hills
+
+-2
+Vestavia Hills, Alabama
+Population 34,368
+Median Income $98,653
+VC Rate 2020, 2019, 2018 0.9, 0.7, 0.7
+PC Rate 2020, 2019, 2018 12.7, 12.2, 11.6
+
+#7
+
+Daleville
+
++14
+Population 5,096
+Median Income $38,657
+VC Rate 2020, 2019, 2018 1.6, 2.6, 2.2
+PC Rate 2020, 2019, 2018 11.0, 29.0, 12.3
+
+#8
+
+Pleasant Grove
+
+0
+Pleasant Grove, Alabama
+Population 10,105
+Median Income $64,761
+VC Rate 2020, 2019, 2018 1.6, 1.1, 2.6
+PC Rate 2020, 2019, 2018 12.6, 16.1, 19.3
+
+#9
+
+Satsuma
+
+-8
+Satsuma, Alabama
+Population 6,153
+Median Income $60,859
+VC Rate 2020, 2019, 2018 2.6, 0.3, 1.1
+PC Rate 2020, 2019, 2018 12.5, 8.1, 13.1
+
+#10
+
+Pelham
+
++2
+Pelham, Alabama
+Population 23,785
+Median Income $74,295
+VC Rate 2020, 2019, 2018 1.5, 1.4, 1.8
+PC Rate 2020, 2019, 2018 17.0, 21.6, 22.0
+
+#11
+
+Daphne
+
+-2
+Daphne, Alabama
+Population 26,618
+Median Income $65,739
+VC Rate 2020, 2019, 2018 1.4, 1.3, 1.4
+PC Rate 2020, 2019, 2018 17.4, 20.8, 19.7
+
+#12
+
+Glencoe
+
++2
+Glencoe, Alabama
+Population 5,151
+Median Income $49,957
+VC Rate 2020, 2019, 2018 1.6, 1.6, 2.3
+PC Rate 2020, 2019, 2018 16.9, 21.1, 16.5
+
+#13
+
+Alabaster
+
++6
+Alabaster, Alabama
+Population 33,501
+Median Income $74,383
+VC Rate 2020, 2019, 2018 2.7, 2.2, 2.9
+PC Rate 2020, 2019, 2018 17.3, 15.8, 14.8
+
+#14
+
+Moody
+
++32
+Moody, Alabama
+Population 5,130
+Median Income $49,957
+Violent Crime Rate (per 1,000) 1.56
+Property Crime Rate (per 1,000) 21.05
+
+#15
+
+Brent
+
++24
+Brent, Alabama
+Population 4,853
+Median Income $35,284
+VC Rate 2020, 2019, 2018 3.7, 4.1, 2.9
+PC Rate 2020, 2019, 2018 19.8, 33.2, 23.1
+
+#16
+
+Fairhope
+
++6
+Fairhope, Alabama
+Population 21,688
+Median Income $66,074
+VC Rate 2020, 2019, 2018 2.0, 2.6, 1.8
+VC Rate 2020, 2019, 2018 24.8, 30.0, 33.3
+
+#17
+
+Auburn
+
++12
+Population 65,585
+Median Income $42,600
+VC Rate 2020, 2019, 2018 3.7, 3.3, 3.3
+PC Rate 2020, 2019, 2018 21.3, 26.4, 17.6
+
+#18
+
+Athens
+
+-16
+Athens, Alabama
+Population 26,177
+Median Income $47,741
+VC Rate 2020, 2019, 2018 0.5, 0.5, 0.7
+PC Rate 2020, 2019, 2018 29.3, 26.7, 24.8
+
+#19
+
+Hartselle
+
+-6
+Hartselle, Alabama
+Population 14,385
+Median Income $57,041
+VC Rate 2020, 2019, 2018 4.2, 1.5, 1.2
+PC Rate 2020, 2019, 2018 24.5, 21.4, 22.8
+
+#20
+
+Spanish Fort
+
++16
+Spanish Fort, Alabama
+Population 8,923
+Median Income $74,731
+VC Rate 2020, 2019, 2018 3.7, 3.7, 1.8
+PC Rate 2020, 2019, 2018 27.6, 38.0, 21.8

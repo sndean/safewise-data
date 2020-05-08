@@ -1,0 +1,218 @@
+
+
+#1
+
+West Linn
+
+New
+Population 26,934
+Median Income $100,188
+VC Rate 2020, 2019, 2018 0.9, Not available, Not available
+PC Rate 2020, 2019, 2018 8.7, Not available, Not available
+
+#2
+
+Lake Oswego
+
+-1
+Lake Oswego, Oregon
+Population 39,557
+Median Income $93,993
+VC Rate 2020, 2019, 2018 0.5, 0.4, 0.8
+PC Rate 2020, 2019, 2018 13.4, 11.5, 11.5
+
+#3
+
+Monmouth
+
+0
+Monmouth, Oregon
+Population 10,457
+Median Income $36,748
+VC Rate 2020, 2019, 2018 1.2, 1.3, 1.4
+PC Rate 2020, 2019, 2018 13.8, 12.9, 19.6
+
+#4
+
+La Grande
+
+New
+La Grande, Oregon map
+Population 13,186
+Median Income $40,750
+VC Rate 2020, 2019, 2018 0.9, 1.4, 1.6
+PC Rate 2020, 2019, 2018 20.0, 21.4, 27.6
+
+#5
+
+Independence
+
++19
+Independence, Oregon
+Population 10,280
+Median Income $48,283
+VC Rate 2020, 2019, 2018 1.3, 2.8, 2.4
+PC Rate 2020, 2019, 2018 17.0, 14.7, 19.2
+
+#6
+
+St. Helens
+
+New
+St Helens, Oregon map
+Population 13,800
+Median Income $45,789
+VC Rate 2020, 2019, 2018 1.5, 1.6, 2.9
+PC Rate 2020, 2019, 2018 14.8, 18.1, 24.8
+
+#7
+
+Newberg-Dundee
+
+New
+Population 27,122
+Median Income $54,856
+VC Rate 2020, 2019, 2018 1.5, 1.4, 1.3
+PC Rate 2020, 2019, 2018 14.5, 0.0, 17.0
+
+#8
+
+Silverton
+
++3
+Silverton, Oregon
+Population 10,477
+Median Income $60,603
+VC Rate 2020, 2019, 2018 1.1, 1.8, 1.0
+PC Rate 2020, 2019, 2018 20.4, 21.5, 19.5
+
+#9
+
+Milwaukie
+
+-2
+Milwaukie, Oregon
+Population 20,873
+Median Income $58,911
+VC Rate 2020, 2019, 2018 1.7, 1.5, 1.4
+PC Rate 2020, 2019, 2018 14.8, 22.6, 21.3
+
+#10
+
+Forest Grove
+
++7
+Forest Grove, Oregon
+Population 24,560
+Median Income $54,503
+VC Rate 2020, 2019, 2018 1.7, 2.5, 2.0
+PC Rate 2020, 2019, 2018 17.7, 17.6, 21.3
+
+#11
+
+Bend
+
+-2
+Bend, Oregon
+Population 97,403
+Median Income $60,563
+VC Rate 2020, 2019, 2018 1.7, 1.6, 1.1
+PC Rate 2020, 2019, 2018 21.3, 20.9, 22.5
+
+#12
+
+Beaverton
+
+-2
+Beaverton, Oregon
+Population 98,616
+Median Income $64,619
+VC Rate 2020, 2019, 2018 1.9, 1.7, 1.4
+PC Rate 2020, 2019, 2018 20.7, 17.8, 14.3
+
+#13
+
+Canby
+
+-5
+Canby, Oregon
+Population 17,914
+Median Income $66,220
+VC Rate 2020, 2019, 2018 2.5, 1.6, 1.2
+PC Rate 2020, 2019, 2018 14.5, 12.7, 10.3
+
+#14
+
+Keizer
+
+0
+Kiezer, Oregon map
+Population 39,727
+Median Income $60,722
+VC Rate 2020, 2019, 2018 2.1, 2.0, 1.7
+PC Rate 2020, 2019, 2018 22.4, 21.0, 20.2
+
+#15
+
+Central Point
+
++3
+Central Point, Oregon
+Population 18,402
+Median Income $48,409
+VC Rate 2020, 2019, 2018 1.9, 2.6, 1.8
+PC Rate 2020, 2019, 2018 25.1, 25.7, 28.4
+
+#16
+
+Hillsboro
+
+0
+Hillsboro, Oregon
+Population 109,121
+Median Income $75,599
+VC Rate 2020, 2019, 2018 2.6, 2.5, 2.9
+PC Rate 2020, 2019, 2018 19.0, 20.0, 19.2
+
+#17
+
+Corvallis
+
+-13
+Corvallis, Oregon
+Population 58,491
+Median Income $46,285
+VC Rate 2020, 2019, 2018 1.6, 1.3, 1.3
+PC Rate 2020, 2019, 2018 31.4, 25.0, 27.8
+
+#18
+
+Tualatin
+
+-12
+Tualatin, Oregon
+Population 27,671
+Median Income $72,580
+VC Rate 2020, 2019, 2018 2.2, 1.4, 1.9
+PC Rate 2020, 2019, 2018 26.3, 30.7, 26.4
+
+#19
+
+Cornelius
+
++8
+Population 12,580
+Median Income $60,766
+VC Rate 2020, 2019, 2018 2.5, 3.0, 2.8
+PC Rate 2020, 2019, 2018 23.6, 18.6, 19.7
+
+#20
+
+Tigard
+
+-7
+Tigard, Oregon
+Population 53,880
+Median Income $70,120
+VC Rate 2020, 2019, 2018 2.1, 1.9, 2.4
+PC Rate 2020, 2019, 2018 28.9, 27.2, 28.8

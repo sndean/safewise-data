@@ -1,0 +1,549 @@
+#1
+
+Marco Island
+
++4
+Marco Island, Florida
+Population 18,122
+Median Income $72,905
+VC Rate 2020, 2019, 2018 0.3, 0.6, 0.1
+PC Rate 2020, 2019, 2018 5.4, 6.7, 5.2
+
+#2
+
+Weston
+
++1
+Weston, Florida
+Population 71,744
+Median Income $96,173
+VC Rate 2020, 2019, 2018 0.6, 0.6, 0.5
+PC Rate 2020, 2019, 2018 5.2, 6.4, 4.8
+
+#3
+
+Key Biscayne
+
+-2
+Key Biscayne, Florida
+Population 13,299
+Median Income $128,563
+VC Rate 2020, 2019, 2018 0.4, 0.2, 0.2
+PC Rate 2020, 2019, 2018 6.8, 11.7, 11.8
+
+#4
+
+Parkland
+
++2
+Parkland, Florida
+Population 33,760
+Median Income $131,525
+VC Rate 2020, 2019, 2018 1.1, 0.7, 0.6
+PC Rate 2020, 2019, 2018 7.1, 7.9, 5.4
+
+#5
+
+North Palm Beach
+
++18
+North Palm Beach, Florida
+Population 13,214
+Median Income $59,905
+VC Rate 2020, 2019, 2018 0.9, 1.3, 0.8
+PC Rate 2020, 2019, 2018 7.9, 10.3, 13.2
+
+#6
+
+Winter Springs
+
++14
+Winter Springs, Florida
+Population 37,137
+Median Income $65,908
+VC Rate 2020, 2019, 2018 1.5, 1.3, 1.5
+PC Rate 2020, 2019, 2018 7.4, 9.7, 12.5
+
+#7
+
+Port St. Lucie
+
++2
+Port St. Lucie, Florida
+Population 193,137
+Median Income $54,046
+VC Rate 2020, 2019, 2018 1.1, 1.0, 1.5
+PC Rate 2020, 2019, 2018 9.6, 11.3, 13.3
+
+#8
+
+Lynn Haven
+
++28
+Lynn Haven, Florida
+Population 21,285
+Median Income $60,913
+VC Rate 2020, 2019, 2018 1.3, 1.9, 2.6
+PC Rate 2020, 2019, 2018 9.5, 21.5, 21.4
+
+#9
+
+Oviedo
+
++31
+Oviedo, Florida
+Population 41,937
+Median Income $84,916
+VC Rate 2020, 2019, 2018 1.6, 2.0, 2.0
+PC Rate 2020, 2019, 2018 8.9, 10.1, 9.1
+
+#10
+
+Sebastian
+
++28
+Sebastian, Florida
+Population 25,672
+Median Income $49,655
+VC Rate 2020, 2019, 2018 1.2, 1.9, 1.7
+PC Rate 2020, 2019, 2018 10.9, 15.1, 19.1
+
+#11
+
+Cooper City
+
+-7
+Cooper City, Florida
+Population 36,896
+Median Income $98,029
+VC Rate 2020, 2019, 2018 1.0, 0.6, 0.9
+PC Rate 2020, 2019, 2018 11.7, 14.6, 11.9
+
+#12
+
+Naples
+
++1
+Naples, Florida
+Population 22,308
+Median Income $90,507
+VC Rate 2020, 2019, 2018 0.4, 1.0, 0.9
+PC Rate 2020, 2019, 2018 14.3, 17.5, 18.6
+
+#13
+
+Wellington
+
++20
+Wellington, Florida
+Population 66,080
+Median Income $85,172
+VC Rate 2020, 2019, 2018 1.2, 1.8, 1.8
+PC Rate 2020, 2019, 2018 12.6, 16.5, 16.0
+
+#14
+
+Niceville
+
+0
+Niceville, Florida
+Population 15,621
+Median Income $66,505
+VC Rate 2020, 2019, 2018 1.5, 1.0, 1.4
+PC Rate 2020, 2019, 2018 12.0, 16.3, 17.0
+
+#15
+
+Safety Harbor
+
+0
+Safety Harbor, Florida
+Population 17,985
+Median Income $65,047
+VC Rate 2020, 2019, 2018 1.3, 1.1, 1.1
+PC Rate 2020, 2019, 2018 12.6, 14.0, 13.9
+
+#16
+
+St. Cloud
+
++16
+St. Cloud, Florida
+Population 53,560
+Median Income $53,544
+VC Rate 2020, 2019, 2018 1.4, 1.7, 2.8
+PC Rate 2020, 2019, 2018 12.4, 11.9, 15.8
+
+#17
+
+Venice
+
++2
+Venice, Florida
+Population 23,362
+Median Income 55,568
+VC Rate 2020, 2019, 2018 1.1, 1.2, 1.1
+PC Rate 2020, 2019, 2018 13.8, 13.4, 16.6
+
+#18
+
+Lady Lake
+
++8
+Lady Lake, Florida
+Population 15,517
+Median Income $41,499
+VC Rate 2020, 2019, 2018 1.0, 1.4, 1.5
+PC Rate 2020, 2019, 2018 14.6, 16.8, 15.0
+
+#19
+
+Sunny Isles Beach
+
+-7
+Sunny Isles Beach, Florida
+Population 22,563
+Median Income $52,355
+VC Rate 2020, 2019, 2018 1.5, 1.0, 1.1
+PC Rate 2020, 2019, 2018 13.4, 15.4, 15.6
+
+#20
+
+Punta Gorda
+
+-13
+Punta Gorda, Florida
+Population 20,170
+Median Income $57,789
+VC Rate 2020, 2019, 2018 0.5, 0.8, 0.6
+PC Rate 2020, 2019, 2018 16.4, 12.8, 11.5
+
+#21
+
+Groveland
+
++48
+Groveland, Florida
+Population 14,342
+Median Income $58,273
+VC Rate 2020, 2019, 2018 1.7, 3.2, Not available
+PC Rate 2020, 2019, 2018 13.2, 15.6, Not available
+
+#22
+
+Sweetwater
+
++12
+Sweetwater, Florida
+Population 21,181
+Median Income $36,436
+VC Rate 2020, 2019, 2018 0.8, 1.8, 1.9
+PC Rate 2020, 2019, 2018 16.1, 27.1, 34.8
+
+#23
+
+Cape Coral
+
+-1
+Cape Coral, Florida
+Population 187,869
+Median Income $53,653
+VC Rate 2020, 2019, 2018 1.4, 1.3, 1.2
+PC Rate 2020, 2019, 2018 14.4, 15.7, 17.2
+
+#24
+
+Coral Springs
+
++13
+Coral Springs, Florida
+Population 134,640
+Median Income $70,768
+VC Rate 2020, 2019, 2018 1.6, 1.9, 1.6
+PC Rate 2020, 2019, 2018 15.1, 19.8, 18.4
+
+#25
+
+Jupiter
+
++4
+Jupiter, Florida
+Population 66,457
+Median Income $79,731
+VC Rate 2020, 2019, 2018 2.0, 1.6, 2.3
+PC Rate 2020, 2019, 2018 14.4, 18.5, 19.6
+
+#26
+
+Coconut Creek
+
+-2
+Coconut Creek, Florida
+Population 62,237
+Median Income $56,556
+VC Rate 2020, 2019, 2018 1.4, 1.3, 1.2
+PC Rate 2020, 2019, 2018 16.5, 19.0, 20.6
+
+#27
+
+Rockledge
+
++40
+Rockledge, Florida
+Population 27,852
+Median Income $61,686
+VC Rate 2020, 2019, 2018 2.2, 3.0, 3.1
+PC Rate 2020, 2019, 2018 14.6, 17.2, 19.0
+
+#28
+
+Edgewater
+
+-7
+Edgewater, Florida
+Population 22,643
+Median Income $47,133
+VC Rate 2020, 2019, 2018 1.1, 1.3, 1.0
+PC Rate 2020, 2019, 2018 18.1, 21.3, 11.4
+
+#29
+
+Margate
+
++16
+Margate, Florida
+Population 59,186
+Median Income $43,782
+VC Rate 2020, 2019, 2018 1.7, 2.0, 2.3
+PC Rate 2020, 2019, 2018 16.8, 17.8, 16.6
+
+#30
+
+Miramar
+
++33
+Miramar, Florida
+Population 143,103
+Median Income $66,560
+VC Rate 2020, 2019, 2018 2.4, 2.9, 3.2
+PC Rate 2020, 2019, 2018 14.9, 15.9, 19.5
+
+#31
+
+Dunedin
+
+-4
+Dunedin, Florida
+Population 36,723
+Median Income $46,563
+VC Rate 2020, 2019, 2018 1.4, 1.4, 1.5
+PC Rate 2020, 2019, 2018 17.8, 17.7, 19.1
+
+#32
+
+Lake Mary
+
++38
+Lake Mary, Florida
+Population 16,896
+Median Income $92,148
+VC Rate 2020, 2019, 2018 2.1, 3.2, 1.8
+PC Rate 2020, 2019, 2018 16.0, 15.3, 18.8
+
+#33
+
+North Port
+
+-2
+North Port, Florida
+Population 67,682
+Median Income $54,687
+VC Rate 2020, 2019, 2018 1.7, 1.7, 1.4
+PC Rate 2020, 2019, 2018 17.5, 12.0, 13.6
+
+#34
+
+Tavares
+
++13
+Venice, Florida
+Population 17,318
+Median Income $41,550
+VC Rate 2020, 2019, 2018 2.8, 2.2, 4.1
+PC Rate 2020, 2019, 2018 14.4, 17.1, 19.7
+
+#35
+
+Port Orange
+
+-33
+Port Orange, Florida
+Population 64,208
+Median Income $48,478
+VC Rate 2020, 2019, 2018 0.4, 0.5, 1.0
+PC Rate 2020, 2019, 2018 21.8, 25.0, 24.4
+
+#36
+
+Maitland
+
++5
+Maitland, Florida
+Population 17,846
+Median Income $66,502
+VC Rate 2020, 2019, 2018 2.1, 2.0, 1.6
+PC Rate 2020, 2019, 2018 17.0, 21.8, 26.6
+
+#37
+
+Royal Palm Beach
+
++7
+Royal Palm Beach, Florida
+Population 39,253
+Median Income $73,296
+VC Rate 2020, 2019, 2018 1.6, 2.0, 3.3
+PC Rate 2020, 2019, 2018 19.3, 20.3, 20.6
+
+#38
+
+Miami Lakes
+
+-27
+Miami Lakes, Florida
+Population 31,323
+Median Income $72,545
+VC Rate 2020, 2019, 2018 1.1, 1.0, 1.0
+PC Rate 2020, 2019, 2018 20.8, 19.7, 18.9
+
+#39
+
+Atlantic Beach
+
++39
+Atlantic Beach, Florida
+Population 13,750
+Median Income $72,946
+VC Rate 2020, 2019, 2018 2.2, 3.8, 3.5
+PC Rate 2020, 2019, 2018 17.9, 26.2, 25.9
+
+#40
+
+Pembroke Pines
+
+-5
+Pembroke Pines, Florida
+Population 173,053
+Median Income $65,805
+VC Rate 2020, 2019, 2018 1.8, 1.9, 2.0
+PC Rate 2020, 2019, 2018 19.3, 21.8, 22.2
+
+#41
+
+Clermont
+
++17
+Clermont, Florida
+Population 36,233
+Median Income $57,804
+VC Rate 2020, 2019, 2018 1.6, 2.8, 1.6
+PC Rate 2020, 2019, 2018 20.0, 23.9, 21.7
+
+#42
+
+Hialeah Gardens
+
+-17
+Hialeah Gardens, Florida
+Population 24,510
+Median Income $47,282
+VC Rate 2020, 2019, 2018 1.2, 1.4, 1.6
+PC Rate 2020, 2019, 2018 21.1, 20.5, 23.8
+
+#43
+
+Haines City
+
+-25
+Haines City, Florida
+Population 24,887
+Median Income $35,696
+VC Rate 2020, 2019, 2018 1.4, 1.2, 2.6
+PC Rate 2020, 2019, 2018 21.2, 21.6, 18.6
+
+#44
+
+Doral
+
+-28
+Doral, Florida
+Population 63,680
+Median Income $76,184
+VC Rate 2020, 2019, 2018 1.2, 1.1, 1.4
+PC Rate 2020, 2019, 2018 23.0, 29.2, 29.4
+
+#45
+
+Tarpon Springs
+
++30
+Tarpon Springs, Florida
+Population 25,603
+Median Income $45,973
+VC Rate 2020, 2019, 2018 2.0, 3.4, 4.2
+PC Rate 2020, 2019, 2018 20.7, 23.4, 23.8
+
+#46
+
+Coral Gables
+
+-18
+Coral Gables, Florida
+Population 51,716
+Median Income $96,887
+VC Rate 2020, 2019, 2018 1.3, 1.5, 1.5
+PC Rate 2020, 2019, 2018 23.7, 26.4, 29.8
+
+#47
+
+Village of Pinecrest
+
+-37
+Village of Pinecrest, Florida
+Population 19,854
+Median Income $153,417
+VC Rate 2020, 2019, 2018 1.3, 1.0, 1.3
+PC Rate 2020, 2019, 2018 23.8, 24.0, 29.0
+
+#48
+
+West Melbourne
+
+-9
+West Melbourne, Florida
+Population 22,665
+Median Income $59,464
+VC Rate 2020, 2019, 2018 1.2, 1.9, 1.5
+PC Rate 2020, 2019, 2018 24.3, 27.1, 27.1
+
+#49
+
+Tamarac
+
+-3
+Tamarac, Florida
+Population 66,454
+Median Income $45,474
+VC Rate 2020, 2019, 2018 3.1, 2.1, 2.0
+PC Rate 2020, 2019, 2018 18.6, 23.4, 21.2
+
+#50
+
+Hialeah
+
+-8
+Hialeah, Florida
+Population 241,778
+Median Income $31,012
+VC Rate 2020, 2019, 2018 2.2, 2.0, 2.4
+PC Rate 2020, 2019, 2018 22.1, 22.1, 23.4

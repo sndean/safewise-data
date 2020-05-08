@@ -1,0 +1,108 @@
+
+
+Addis
+
++4
+Addis, Louisiana
+Population 5,505
+Median Income $68,261
+VC Rate 2020, 2019, 2018 1.3, 1.8, 3.1
+PC Rate 2020, 2019, 2018 0.0, 0.0, 0.0
+
+#2
+
+Harahan
+
++5
+Harahan, Louisiana
+Population 9,424
+Median Income $65,082
+VC Rate 2020, 2019, 2018 1.3, 1.8, 1.0
+PC Rate 2020, 2019, 2018 11.2, 15.3, 13.5
+
+#3
+
+Tallulah
+
++5
+Tallulah, Louisiana
+Population 6,777
+Median Income $27,592
+VC Rate 2020, 2019, 2018 3.1, 1.9, Not available
+PC Rate 2020, 2019, 2018 3.4, 2.7, Not available
+
+#4
+
+Youngsville
+
+0
+Youngsville, Louisiana
+Population 14,370
+Median Income $85,208
+VC Rate 2020, 2019, 2018 0.8, 1.2, Not available
+PC Rate 2020, 2019, 2018 15.4, 12.4, Not available
+
+#5
+
+Mandeville
+
+-2
+Mandeville, Louisiana
+Population 12,371
+Median Income $70,609
+VC Rate 2020, 2019, 2018 1.3, 1.1, 2.1
+PC Rate 2020, 2019, 2018 17.5, 19.9, 21.7
+
+#6
+
+Scott
+
+-4
+Scott, Louisiana
+Population 8,810
+Median Income $48,170
+VC Rate 2020, 2019, 2018 1.7, 0.7, 0.8
+PC Rate 2020, 2019, 2018 18.0, 22.9, 25.6
+
+#7
+
+Minden
+
+-6
+Minden, Louisiana
+Population 12,215
+Median Income $28,450
+VC Rate 2020, 2019, 2018 1.5, 0.6, 2.1
+PC Rate 2020, 2019, 2018 20.5, 17.0, 19.9
+
+#8
+
+Jennings
+
++1
+Jennings, Louisiana
+Population 9,949
+Median Income $29,874
+VC Rate 2020, 2019, 2018 1.9, 2.1, 2.9
+PC Rate 2020, 2019, 2018 18.8, 38.1, 31.7
+
+#9
+
+DeRidder
+
+-3
+Population 10,820
+Median Income $42,356
+VC Rate 2020, 2019, 2018 0.9, 1.8, 1.8
+PC Rate 2020, 2019, 2018 27.8, 19.9, 17.5
+
+#10
+
+Westwego
+
++3
+Westwego, Louisiana
+Population 8,551
+Median Income $32,318
+VC Rate 2020, 2019, 2018 2.6, 2.6, 3.3
+PC Rate 2020, 2019, 2018 20.0, 19.6, 26.8

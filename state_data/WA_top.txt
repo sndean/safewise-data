@@ -1,0 +1,218 @@
+
+
+#1
+
+Snoqualmie
+
++0
+Snoqualmie, Washington
+Population 13,947
+Median Income $136,508
+VC Rate 2020, 2019, 2018 0.2, 0.1, 0.2
+PC Rate 2020, 2019, 2018 12.1, 10.8, 17.1
+
+#2
+
+West Richland
+
++10
+West Richland, Washington
+Population 15,012
+Median Income $86,686
+VC Rate 2020, 2019, 2018 0.7, 0.9, 0.8
+PC Rate 2020, 2019, 2018 8.3, 11.7, 9.4
+
+#3
+
+Camas
+
++0
+Camas, Washington
+Population 23,865
+Median Income $101,167
+VC Rate 2020, 2019, 2018 0.8, 0.6, 0.7
+PC Rate 2020, 2019, 2018 9.2, 16.3, 13.8
+
+#4
+
+Mercer Island
+
+-2
+Mercer Island, Washington
+Population 26,641
+Median Income $136,644
+VC Rate 2020, 2019, 2018 0.4, 0.3, 0.2
+PC Rate 2020, 2019, 2018 17.6, 18.1, 20.8
+
+#5
+
+Oak Harbor
+
++15
+Oak Harbor, Washington
+Population 23,330
+Median Income $48,857
+VC Rate 2020, 2019, 2018 1.0, 1.4, 2.1
+PC Rate 2020, 2019, 2018 6.9, 8.0, 14.1
+
+#6
+
+Bainbridge Island
+
++1
+Bainbridge Island, Washington
+Population 24,739
+Median Income $109,341
+VC Rate 2020, 2019, 2018 1.0, 0.6, 1.1
+PC Rate 2020, 2019, 2018 9.8, 10.8, 13.3
+
+#7
+
+Grandview
+
++24
+Grandview, Washington
+Population 11,163
+Median Income $41,373
+VC Rate 2020, 2019, 2018 0.6, 1.9, 1.5
+PC Rate 2020, 2019, 2018 18.4, 15.4, 20.9
+
+#8
+
+Mill Creek
+
++26
+Mill Creek, Washington
+Population 21,234
+Median Income $93,063
+VC Rate 2020, 2019, 2018 0.9, 2.1, 0.8
+PC Rate 2020, 2019, 2018 15.7, 21.6, 20.8
+
+#9
+
+Enumclaw
+
++2
+Enumclaw, Washington
+Population 11,882
+Median Income $55,082
+VC Rate 2020, 2019, 2018 0.8, 0.9, 1.4
+PC Rate 2020, 2019, 2018 19.3, 18.7, 24.9
+
+#10
+
+Pullman
+
+-2
+Pullman, Washington
+Population 33,896
+Median Income $30,548
+VC Rate 2020, 2019, 2018 1.2, 0.7, 1.5
+PC Rate 2020, 2019, 2018 10.9, 15.2, 20.1
+
+#11
+
+Lynden
+
+-7
+Lynden, Washington
+Population 14,612
+Median Income $62,478
+VC Rate 2020, 2019, 2018 1.2, 0.6, 0.7
+PC Rate 2020, 2019, 2018 14.0, 13.2, 9.7
+
+#12
+
+Lake Forest Park
+
+-3
+Lake Forest Park, Washington
+Population 13,504
+Median Income $101,429
+VC Rate 2020, 2019, 2018 1.0, 0.8, 0.7
+PC Rate 2020, 2019, 2018 19.4, 18.8, 18.9
+
+#13
+
+Sedro Woolley
+
++5
+Sedro Woolley, Washington
+Population 11,953
+Median Income $44,014
+VC Rate 2020, 2019, 2018 0.8, 1.3, 0.7
+PC Rate 2020, 2019, 2018 25.9, 30.9, 37.0
+
+#14
+
+Ferndale
+
++7
+Population 14,439
+Median Income $61,125
+VC Rate 2020, 2019, 2018 1.1, 1.5, 1.2
+PC Rate 2020, 2019, 2018 21.3, 21.0, 21.5
+
+#15
+
+Kirkland
+
+-5
+Kirkland, Washington
+Population 89,805
+Median Income $104,319
+VC Rate 2020, 2019, 2018 1.1, 0.8, 0.9
+PC Rate 2020, 2019, 2018 22.3, 24.5, 22.6
+
+#16
+
+Edgewood
+
++0
+Edgewood, Washington
+Population 11,510
+Median Income $90,544
+VC Rate 2020, 2019, 2018 1.3, 1.2, 1.9
+PC Rate 2020, 2019, 2018 20.1, 24.5, 25.5
+
+#17
+
+Washougal
+
++25
+Population 15,949
+Median Income $76,998
+VC Rate 2020, 2019, 2018 1.6, 2.4, 1.9
+PC Rate 2020, 2019, 2018 15.7, 12.5, 12.8
+
+#18
+
+East Wenatchee
+
+-1
+East Wenatchee, Washington
+Population 15,097
+Median Income $51,938
+VC Rate 2020, 2019, 2018 1.0, 1.2, 1.5
+PC Rate 2020, 2019, 2018 26.7, 27.7, 36.9
+
+#19
+
+Lake Stevens
+
++4
+Population 33,491
+Median Income $82,500
+VC Rate 2020, 2019, 2018 1.9, 1.5, 2.1
+PC Rate 2020, 2019, 2018 10.6, 12.9, 15.8
+
+#20
+
+Battle Ground
+
++8
+Battle Ground, Washington
+Population 21,002
+Median Income $64,888
+VC Rate 2020, 2019, 2018 1.5, 1.8, 1.3
+PC Rate 2020, 2019, 2018 19.2, 14.0, 18.9

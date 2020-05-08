@@ -1,0 +1,544 @@
+#1
+
+Fulshear
+
++23
+Fulshear, Texas
+Population 13,790
+Median Income $174,194
+VC Rate 2020, 2019, 2018 0.1, 0.7, 0.2
+PC Rate 2020, 2019, 2018 4.4, 6.6, 6.7
+
+#2
+
+Hutto
+
++30
+Hutto, Texas
+Population 26,924
+Median Income $76,433
+VC Rate 2020, 2019, 2018 0.4, 0.9, 0.8
+PC Rate 2020, 2019, 2018 3.2, 5.5, 7.4
+
+#3
+
+San Elizario
+
+New
+San Elizario, Texas
+Population 9,161
+Median Income $26,807
+VC Rate 2020, 2019, 2018 0.4, Not available, Not available
+PC Rate 2020, 2019, 2018 3.1, Not available, Not available
+
+#4
+
+Trophy Club
+
+0
+Trophy Club, Texas
+Population 13,090
+Median Income $139,156
+VC Rate 2020, 2019, 2018 0.2, 0.2, 0.9
+PC Rate 2020, 2019, 2018 5.3, 6.8, 6.3
+
+#5
+
+Fairview
+
+-2
+Fairview, Texas
+Population 9,220
+Median Income $78,221
+VC Rate 2020, 2019, 2018 0.2, 0.1, 0.2
+PC Rate 2020, 2019, 2018 5.7, 6.4, 6.1
+
+#6
+
+Colleyville
+
+-1
+Colleyville, Texas
+Population 27,262
+Median Income $164,682
+VC Rate 2020, 2019, 2018 0.3, 0.2, 0.2
+PC Rate 2020, 2019, 2018 5.5, 5.8, 5.7
+
+#7
+
+Fair Oaks Ranch
+
+0
+Fair Oaks Ranch, Texas
+Population 9,516
+Median Income $124,741
+VC Rate 2020, 2019, 2018 0.4, 0.3, 0.4
+PC Rate 2020, 2019, 2018 4.6, 4.6, 5.8
+
+#8
+
+West University Place
+
++9
+West University Place, Texas
+Population 15,759
+Median Income $243,226
+VC Rate 2020, 2019, 2018 0.1, 0.6, 0.6
+PC Rate 2020, 2019, 2018 7.0, 8.7, 8.3
+
+#9
+
+Memorial Villages
+
+-7
+Memorial Villages, Texas
+Population 12,402
+Median Income Not available
+VC Rate 2020, 2019, 2018 0.3, 0.1, 0.5
+PC Rate 2020, 2019, 2018 5.8, 6.9, 9.3
+
+#10
+
+Murphy
+
+-4
+Murphy, Texas
+Population 21,084
+Median Income $128,519
+VC Rate 2020, 2019, 2018 0.5, 0.3, 0.3
+PC Rate 2020, 2019, 2018 5.4, 6.1, 7.2
+
+#11
+
+Fate
+
+New
+Fate, Texas
+Population 13,003
+Median Income $102,426
+VC Rate 2020, 2019, 2018 0.7, 0.9, Not available
+PC Rate 2020, 2019, 2018 4.8, 3.5, Not available
+
+#12
+
+Horizon City
+
++19
+Horizon City, Texas
+Population 19,978
+Median Income $52,393
+VC Rate 2020, 2019, 2018 0.6, 0.8, 0.5
+PC Rate 2020, 2019, 2018 5.6, 6.0, 7.7
+
+#13
+
+Prairie View
+
++88
+Population 6,526
+Median Income $20,643
+VC Rate 2020, 2019, 2018 0.9, 1.8, 1.1
+PC Rate 2020, 2019, 2018 3.4, 3.8, 5.2
+
+#14
+
+Keller
+
+0
+Keller, Texas
+Population 48,439
+Median Income $126,013
+VC Rate 2020, 2019, 2018 0.5, 0.5, 0.6
+PC Rate 2020, 2019, 2018 6.6, 6.3, 5.6
+
+#15
+
+Highland Village
+
++3
+Highland Village, Texas
+Population 16,805
+Median Income $141,786
+VC Rate 2020, 2019, 2018 0.5, 0.7, 0.5
+PC Rate 2020, 2019, 2018 7.9, 9.9, 6.7
+
+#16
+
+Heath
+
+-4
+Heath, Texas
+Population 8,938
+Median Income $153,253
+VC Rate 2020, 2019, 2018 0.8, 0.5, 0.8
+PC Rate 2020, 2019, 2018 6.0, 7.2, 5.6
+
+#17
+
+Sachse
+
+-4
+Population 26,839
+Median Income $97,759
+VC Rate 2020, 2019, 2018 0.6, 0.5, 0.5
+PC Rate 2020, 2019, 2018 7.7, 11.2, 12.7
+
+#18
+
+Melissa
+
+-9
+Melissa, Texas
+Population 10,107
+Median Income $104,390
+VC Rate 2020, 2019, 2018 0.9, 0.4, 0.9
+PC Rate 2020, 2019, 2018 5.7, 3.7, 10.3
+
+#19
+
+Flower Mound
+
+-3
+Flower Mound, Texas
+Population 78,542
+Median Income $128,426
+VC Rate 2020, 2019, 2018 0.6, 0.6, 0.5
+PC Rate 2020, 2019, 2018 8.4, 9.2, 8.3
+
+#20
+
+Corinth
+
++39
+Corinth, Texas
+Population 21,352
+Median Income $91,336
+VC Rate 2020, 2019, 2018 0.6, 1.3, 1.7
+PC Rate 2020, 2019, 2018 8.9, 12.2, 8.9
+
+#21
+
+University Park
+
+-10
+University Park, Texas
+Population 25,516
+Median Income $211,741
+VC Rate 2020, 2019, 2018 0.2, 0.4, 0.6
+PC Rate 2020, 2019, 2018 11.8, 12.5, 12.1
+
+#22
+
+Whitehouse
+
++187
+Population 8,406
+Median Income $62,692
+VC Rate 2020, 2019, 2018 1.1, 4.2, Not available
+PC Rate 2020, 2019, 2018 6.3, 9.3, Not available
+
+#23
+
+Canyon
+
++56
+Population 15,608
+Median Income $47,425
+VC Rate 2020, 2019, 2018 0.9, 1.5, Not available
+PC Rate 2020, 2019, 2018 7.7, 6.1, Not available
+
+#24
+
+Friendswood
+
++12
+Friendswood, Texas
+Population 40,419
+Median Income $98,609
+VC Rate 2020, 2019, 2018 0.8, 0.9, 0.7
+PC Rate 2020, 2019, 2018 8.2, 8.0, 7.7
+
+#25
+
+Manvel
+
++14
+Manvel, Texas
+Population 11,097
+Median Income $90,195
+VC Rate 2020, 2019, 2018 1.2, 0.9, 0.5
+PC Rate 2020, 2019, 2018 6.5, 11.1, 12.5
+
+#26
+
+Wylie
+
++14
+Wylie, Texas
+Population 51,051
+Median Income $88,450
+VC Rate 2020, 2019, 2018 1.0, 0.9, 1.0
+PC Rate 2020, 2019, 2018 7.8, 8.7, 8.6
+
+#27
+
+Lakeview, Harrison County
+
+0
+Lakeview-Harrison County, Texas
+Population 6,388
+Median Income Not available
+VC Rate 2020, 2019, 2018 0.9, Not available, Not available
+PC Rate 2020, 2019, 2018 8.5, Not available, Not available
+
+#28
+
+Leander
+
++30
+Leander, Texas
+Population 53,637
+Median Income $89,649
+VC Rate 2020, 2019, 2018 0.9, 1.3, 1.1
+PC Rate 2020, 2019, 2018 9.3, 11.3, 11.2
+
+#29
+
+Southlake
+
+-10
+Southlake, Texas
+Population 32,639
+Median Income $207,917
+VC Rate 2020, 2019, 2018 0.3, 0.7, 0.6
+PC Rate 2020, 2019, 2018 13.8, 11.7, 12.9
+
+#30
+
+Woodway
+
++50
+Woodway, Texas
+Population 8,878
+Median Income $80,051
+VC Rate 2020, 2019, 2018 0.6, 1.6, 1.7
+PC Rate 2020, 2019, 2018 12.3, 10.2, 12.8
+
+#31
+
+Socorro
+
++36
+Socorro, Texas
+Population 34,327
+Median Income $33,464
+VC Rate 2020, 2019, 2018 1.3, 1.4, 1.3
+PC Rate 2020, 2019, 2018 7.3, 8.8, 9.1
+
+#32
+
+Crystal City
+
++116
+Crystal City, Texas
+Population 7,279
+Median Income $26,000
+VC Rate 2020, 2019, 2018 1.2, 2.7, 2.2
+PC Rate 2020, 2019, 2018 8.1, 8.1, 9.5
+
+#33
+
+Georgetown
+
++18
+Georgetown, Texas
+Population 74,709
+Median Income $67,753
+VC Rate 2020, 2019, 2018 1.0, 1.2, 1.3
+PC Rate 2020, 2019, 2018 9.8, 9.8, 10.5
+
+#34
+
+Cibolo
+
++10
+Cibolo, Texas
+Population 30,768
+Median Income $92,773
+VC Rate 2020, 2019, 2018 1.2, 1.1, 0.9
+PC Rate 2020, 2019, 2018 8.8, 9.7, 10.8
+
+#35
+
+Coppell
+
+-15
+Coppell, Texas
+Population 42,415
+Median Income $119,936
+VC Rate 2020, 2019, 2018 0.7, 0.7, 0.6
+PC Rate 2020, 2019, 2018 12.5, 12.7, 12.4
+
+#36
+
+River Oaks
+
+-11
+River Oaks, Texas
+Population 7,743
+Median Income $44,196
+VC Rate 2020, 2019, 2018 0.6, 0.8, 1.7
+PC Rate 2020, 2019, 2018 13.0, 17.2, 16.2
+
+#37
+
+Little Elm
+
+-8
+Little Elm, Texas
+Population 50,547
+Median Income $93,094
+VC Rate 2020, 2019, 2018 1.7, 0.8, 1.0
+PC Rate 2020, 2019, 2018 5.4, 5.8, 9.6
+
+#38
+
+Elgin
+
+New
+Population 9,918
+Median Income $48,333
+VC Rate 2020, 2019, 2018 1.2, Not available, 3.5
+PC Rate 2020, 2019, 2018 3.5, Not available, 19.7
+
+#39
+
+Mansfield
+
++11
+Mansfield, Texas
+Population 70,851
+Median Income $94,035
+VC Rate 2020, 2019, 2018 1.0, 1.2, 1.0
+PC Rate 2020, 2019, 2018 10.8, 12.0, 11.8
+
+#40
+
+Lockhart
+
++98
+Lockhart, Texas
+Population 13,944
+Median Income $53,570
+VC Rate 2020, 2019, 2018 0.9, 2.6, 2.6
+PC Rate 2020, 2019, 2018 12.3, 20.3, 23.4
+
+#41
+
+Forney
+
++11
+Forney, Texas
+Population 21,464
+Median Income $80,160
+VC Rate 2020, 2019, 2018 0.8, 1.2, 1.2
+PC Rate 2020, 2019, 2018 12.4, 14.9, 16.8
+
+#42
+
+Fredericksburg
+
+-14
+Fredericksburg, Texas
+Population 11,490
+Median Income $48,893
+VC Rate 2020, 2019, 2018 1.1, 0.8, 0.8
+PC Rate 2020, 2019, 2018 10.4, 12.8, 17.5
+
+#43
+
+Celina
+
+-20
+Celina, Texas
+Population 10,559
+Median Income $96,139
+VC Rate 2020, 2019, 2018 1.4, 0.7, 1.6
+PC Rate 2020, 2019, 2018 8.3, 13.0, 7.2
+
+#44
+
+Midlothian
+
+-10
+Midlothian, Texas
+Population 26,346
+Median Income $76,875
+VC Rate 2020, 2019, 2018 0.8, 0.9, 1.4
+PC Rate 2020, 2019, 2018 12.8, 16.9, 12.4
+
+#45
+
+Frisco
+
+-2
+Frisco, Texas
+Population 187,889
+Median Income $120,701
+VC Rate 2020, 2019, 2018 0.9, 1.0, 0.8
+PC Rate 2020, 2019, 2018 13.6, 14.9, 14.7
+
+#46
+
+Lakeway
+
++15
+Lakeway, Texas
+Population 15,722
+Median Income $124,556
+VC Rate 2020, 2019, 2018 1.4, 1.3, 1.2
+PC Rate 2020, 2019, 2018 9.8, 11.1, 13.7
+
+#47
+
+Allen
+
+-5
+Allen, Texas
+Population 103,168
+Median Income $104,132
+VC Rate 2020, 2019, 2018 1.1, 1.0, 0.8
+PC Rate 2020, 2019, 2018 12.4, 12.5, 11.3
+
+#48
+
+Floresville
+
++70
+Floresville, Texas
+Population 7,750
+Median Income $54,917
+VC Rate 2020, 2019, 2018 1.8, 2.1, 3.3
+PC Rate 2020, 2019, 2018 7.1, 20.8, 33.2
+
+#49
+
+Missouri City
+
++63
+Missouri City, Texas
+Population 75,628
+Median Income $88,896
+VC Rate 2020, 2019, 2018 1.3, 2.0, 1.9
+PC Rate 2020, 2019, 2018 10.8, 12.8, 16.7
+
+#50
+
+Monahans
+
++16
+Monahans, Texas
+Population 7,611
+Median Income $64,773
+VC Rate 2020, 2019, 2018 1.3, 1.4, 3.1
+PC Rate 2020, 2019, 2018 11.0, 10.7, 18.3

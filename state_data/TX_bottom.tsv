@@ -1,0 +1,239 @@
+51	Deer Park	34,155	0.9	14.4
+52	Helotes	9,456	0.6	16.3
+53	Royse City	13,104	1.5	9.8
+54	Cedar Park	79,087	1.2	12.2
+55	Anna	13,579	1.2	12.8
+56	McKinney	189,555	1.5	10.4
+57	Santa Fe	13,600	1.3	12.6
+58	Pearland	124,179	1	14.8
+59	Lumberton	12,948	1.4	11.8
+60	Lago Vista	6,923	1.7	10
+61	Bridge City	8,208	1.3	13
+62	Roma	11,506	2.2	7.1
+63	Hewitt	14,556	1.2	14
+64	Rockwall	45,183	0.9	16.6
+65	Seabrook	13,958	1.8	10.3
+66	Buda	18,028	1.1	15.4
+67	Graham	8,656	2.3	6.7
+68	Sugar Land	89,919	0.9	17.1
+69	Bellaire	19,076	1.4	13.9
+70	Kennedale	8,587	1.2	15.5
+71	League City	108,275	1	16.8
+72	Angleton	19,650	1.6	12.3
+73	Kyle	46,155	1.7	11.7
+74	Alamo Heights	8,629	1.3	15.2
+75	Del Rio	36,007	0.6	20.6
+76	Benbrook	23,924	1.2	17.2
+77	La Porte	35,591	1.8	12.8
+78	Highland Park	9,302	0.4	23.1
+79	Sulphur Springs	16,111	2.3	9.7
+80	Mission	85,368	1.1	18.7
+81	Watauga	24,757	1.9	12.9
+82	Joshua	8,019	1.6	15.3
+83	Carrollton	138,216	1.4	17.1
+84	Plano	289,897	1.4	17.1
+85	Rowlett	63,863	1.8	14.3
+86	Jersey Village	7,974	0.9	20.9
+87	The Colony	43,697	2.3	10.9
+88	Seagoville	16,981	0.7	22.6
+89	Dumas	14,790	1.5	17.5
+90	Round Rock	127,354	1.2	19.6
+91	Prosper	22,570	2.8	8.3
+92	Robinson	11,774	2.1	13.2
+93	Stephenville	21,400	1.4	18.9
+94	Bonham	10,203	1.7	17.1
+95	Waxahachie	36,225	2	14.5
+96	Richardson	119,480	1.1	21.1
+97	Ingleside	10,453	1.3	19.7
+98	Sealy	6,544	2.1	13.9
+99	Pearsall	10,525	1.3	19.9
+100	Weatherford	31,389	1.8	16.2
+101	Roanoke	8,489	2.5	11.7
+102	Princeton	10,749	1.8	17
+103	North Richland Hills	71,498	1.5	19.4
+104	Gatesville	12,377	1.9	16.9
+105	Boerne	17,008	1.6	20
+106	Bridgeport	6,691	3.3	7.6
+107	Portland	17,547	1.4	21.4
+108	White Settlement	18,082	1.8	18.7
+109	Crowley	15,777	1.1	24
+110	McAllen	144,363	0.8	26.7
+111	Schertz	41,383	2.3	16.2
+112	Alvin	26,798	2.1	17.4
+113	Hidalgo	14,133	3.1	10.4
+114	Euless	55,731	1.6	21.3
+115	Lake Jackson	27,568	1.8	20.1
+116	Jacinto City	10,675	1.6	21.7
+117	Galena Park	11,000	2.6	14.2
+118	Eagle Pass	29,329	1.9	20.5
+119	Azle	12,741	2	19.9
+120	Ennis	19,367	2.3	17.7
+121	Bedford	49,841	1.8	21.2
+122	Burnet	6,410	3.6	8.4
+123	Glenn Heights	13,375	2.6	15.6
+124	Grapevine	55,130	1.6	23.4
+125	Selma	11,742	2	20.4
+126	Dickinson	20,600	2.1	19.9
+127	Alton	17,805	3.2	12.2
+128	College Station	116,565	2	20.8
+129	New Braunfels	82,739	2.9	14.5
+130	Farmers Branch	38,495	1.7	24.1
+131	Cleburne	30,317	2.5	17.9
+132	Burleson	47,612	2.8	16.3
+133	Nederland	17,563	2.7	17.6
+134	Red Oak	13,095	1.7	25.7
+135	Kerrville	23,532	2.9	17
+136	Harker Heights	31,710	2	23.6
+137	Grand Prairie	196,535	2.5	19.8
+138	Silsbee	6,734	2.7	19.2
+139	Irving	243,940	2.1	23.6
+140	Keene	6,487	4.2	8.5
+141	Snyder	11,337	3	17.5
+142	Huntsville	41,651	3.2	16
+143	Kaufman	7,428	2.2	24
+144	Cedar Hill	49,253	1.7	28
+145	Midland	140,072	2.9	19.7
+146	Lewisville	107,560	2.6	22.3
+147	Pharr	80,814	2.9	19.6
+148	Dalhart	8,401	2.7	21.5
+149	Belton	22,248	2.6	23
+150	Bee Cave	7,253	2.2	25.6
+151	Lampasas	7,992	2.6	22.9
+152	El Paso	688,442	3.7	15.1
+153	Greenville	27,713	3	20.9
+154	Rio Grande City	14,617	4	13.3
+155	Freeport	12,185	4.1	13.1
+156	Commerce	9,307	3.4	18.1
+157	Conroe	87,544	2.5	24.9
+158	Decatur	6,826	2.5	25.2
+159	Hitchcock	8,038	3.2	19.8
+160	Andrews	13,845	4	14.4
+161	Taylor	17,225	2.9	22.5
+162	Perryton	8,675	3.5	18.9
+163	Burkburnett	11,221	2.9	23.8
+164	Plainview	20,569	2.9	24.5
+165	Liberty	9,334	3.5	19.7
+166	Port Neches	12,881	4.3	13.8
+167	Rosenberg	38,541	4.1	16
+168	Marble Falls	6,579	1.4	35.9
+169	Lake Dallas	8,084	4.6	12.6
+170	Kirby	8,807	3.3	22
+171	Denton	139,262	3.2	23.2
+172	Denison	24,623	3.7	19
+173	Garland	239,577	2.8	26.9
+174	Seguin	29,487	3	25.3
+175	Brownfield	9,698	4.2	16.2
+176	El Campo	11,764	3.7	20.5
+177	DeSoto	54,201	3.4	22.8
+178	Kilgore	14,978	2.8	27.3
+179	Universal City	20,825	3	26.2
+180	Katy	18,965	2.6	29.5
+181	Temple	75,706	3.1	25.6
+182	Haltom City	44,708	3.1	25.8
+183	Laredo	264,214	3.4	24.1
+184	Richmond	12,130	3.8	21
+185	Clute	11,695	3.3	24.8
+186	Brenham	17,116	3.8	21.4
+187	La Feria	7,384	4.2	18.7
+188	Live Oak	16,230	2.6	31.1
+189	Dayton	8,070	3	28.6
+190	Hondo	9,375	2.9	29.3
+191	San Marcos	66,157	4	21.4
+192	Sherman	42,448	3.5	25.2
+193	Killeen	148,007	3.9	22.5
+194	Copperas Cove	32,754	4.4	19.2
+195	Nacogdoches	33,703	3	29
+196	Manor	10,102	4.1	21.8
+197	Gladewater	6,402	3.7	24.4
+198	Groves	15,722	4.5	19.5
+199	Beeville	12,951	3.1	30.1
+200	Mineral Wells	14,729	3.5	26.9
+201	Bryan	85,152	3.9	24.3
+202	Kingsville	25,383	3.2	29.7
+203	San Juan	37,398	4.1	22.9
+204	Navasota	7,677	4.4	21.1
+205	Brownsville	184,461	3.8	26.2
+206	Hurst	39,292	2.4	36.2
+207	Uvalde	16,375	2.2	37.9
+208	Hillsboro	8,422	2.4	36.8
+209	Athens	12,704	4.3	22.5
+210	South Houston	17,619	4.1	24
+211	Pasadena	154,101	4.4	22.5
+212	Wharton	8,754	3.5	29.2
+213	Los Fresnos	7,947	5.3	16.6
+214	Lancaster	39,772	4.3	24.7
+215	Rockport	10,734	2	41.3
+216	Carthage	6,555	4	27.3
+217	Tyler	106,159	3.9	29.5
+218	Wichita Falls	104,738	3.7	30.9
+219	Victoria	67,766	4.1	27.8
+220	Pleasanton	10,627	2.8	38.2
+221	Vernon	10,259	4.5	26.2
+222	Edinburg	92,391	3.3	35.2
+223	Longview	81,660	4	30.7
+224	Brownwood	18,772	4.2	29.3
+225	San Angelo	101,084	3.7	33.5
+226	San Benito	24,559	2.6	41.5
+227	Forest Hill	13,037	4.1	30.9
+228	Terrell	18,104	4	32.1
+229	Arlington	400,920	4.4	29.4
+230	Mount Pleasant	16,291	3.9	34.1
+231	Borger	12,675	3.2	39.4
+232	Austin	973,344	3.8	34.6
+233	Jacksonville	14,960	5.1	25.1
+234	Leon Valley	11,598	2.9	42.2
+235	Jasper	7,602	2.8	43.5
+236	Seminole	7,725	6.7	14.5
+237	Sweetwater	10,530	4.7	29.2
+238	Abilene	122,480	4.8	28.8
+239	Gainesville	16,478	5.8	22
+240	Fort Worth	893,756	5	28.5
+241	Mesquite	144,558	4	36.2
+242	Texas City	49,044	4.8	30.4
+243	Baytown	77,539	3.9	37.5
+244	Granbury	10,228	2.4	48.3
+245	Lufkin	35,937	3.7	39
+246	Willis	6,515	6.1	21.6
+247	Weslaco	40,856	4	39
+248	Big Spring	28,001	5.4	28.4
+249	Galveston	50,896	5.2	30.2
+250	Richland Hills	8,089	4.7	35
+251	Bay City	17,517	4.2	39.2
+252	Fort Stockton	8,365	7.8	12.9
+253	Duncanville	39,618	5.4	31.6
+254	Hereford	14,812	6.5	23.5
+255	Converse	24,185	7.1	19.9
+256	Marshall	23,146	5.9	29.7
+257	Harlingen	65,525	4.2	42.6
+258	Mercedes	16,869	4.8	38.3
+259	Corsicana	23,660	5.7	32.3
+260	Lamesa	9,183	4.7	40.7
+261	Cleveland	8,171	4.7	42.5
+262	Port Arthur	55,643	7	26
+263	Pampa	17,412	5.9	37.5
+264	Waco	138,091	6.4	35.1
+265	La Marque	17,107	4.3	52.8
+266	Texarkana	37,460	4.6	51.1
+267	Alice	18,925	4.8	49.6
+268	Balch Springs	25,565	7	34.5
+269	San Antonio	1,539,328	6.3	39.9
+270	Henderson	13,241	6.5	39
+271	Addison	15,839	4.5	55.1
+272	Dallas	1,362,465	7.6	32.5
+273	Odessa	119,545	8.8	25.1
+274	Corpus Christi	328,614	7.6	36.4
+275	Paris	24,736	8.8	29.3
+276	Aransas Pass	8,280	5.8	53.5
+277	Alamo	19,840	6.6	48
+278	Levelland	13,646	9.1	31.2
+279	Raymondville	10,959	9.7	29
+280	Webster	11,194	4.2	69.1
+281	Amarillo	201,082	8.1	41.9
+282	Hempstead	7,969	10.9	25.3
+283	Pecos	10,094	12.3	16.2
+284	Houston,	2,344,966	10.3	40.1
+285	Beaumont	119,368	10.6	37.8
+286	Lubbock	257,372	10	45.6
+287	Bastrop	9,050	10.4	43
+288	Bellmead	10,587	12.9	62
+289	Humble	16,122	9	96.9

@@ -1,0 +1,109 @@
+#1
+
+Rexburg
+
+0
+Rexburg, Idaho
+Population 28,765
+Median Income $26,341
+VC Rate 2020, 2019, 2018 0.2, 0.4, 0.3
+PC Rate 2020, 2019, 2018 4.7, 6.1, 6.7
+
+#2
+
+Hailey
+
++3
+Hailey, Idaho
+Population 8,334
+Median Income $54,330
+VC Rate 2020, 2019, 2018 1.7, 1.6, 2.8
+PC Rate 2020, 2019, 2018 2.5, 5.3, 4.9
+
+#3
+
+Middleton
+
+-1
+Middleton, Idaho
+Population 7,762
+Median Income $43,462
+VC Rate 2020, 2019, 2018 1.4, 0.9, Not available
+PC Rate 2020, 2019, 2018 4.5, 8.4, Not available
+
+#4
+
+Rathdrum
+
++4
+Rathdrum, Idaho
+Population 8,508
+Median Income $53,024
+VC Rate 2020, 2019, 2018 0.6, 2.0, 1.0
+PC Rate 2020, 2019, 2018 11.0, 11.0, 25.0
+
+#5
+
+Preston
+
++2
+Preston, Idaho
+Population 5,411
+Median Income $42,321
+VC Rate 2020, 2019, 2018 1.3, 1.9, 0.8
+PC Rate 2020, 2019, 2018 6.8, 10.8, 14.8
+
+#6
+
+Moscow
+
+-3
+Moscow, Idaho
+Population 25,339
+Median Income $35,979
+VC Rate 2020, 2019, 2018 0.5, 1.3, 0.7
+PC Rate 2020, 2019, 2018 15.5, 24.7, 19.2
+
+#7
+
+Meridian
+
+-3
+Meridian, Idaho
+Population 103,774
+Median Income $64,375
+VC Rate 2020, 2019, 2018 1.6, 1.5, 1.1
+PC Rate 2020, 2019, 2018 12.1, 15.0, 15.5
+
+#8
+
+Emmett
+
++9
+Emmett, Idaho
+Population 6,871
+Median Income $35,465
+VC Rate 2020, 2019, 2018 2.2, 3.4, 3.8
+PC Rate 2020, 2019, 2018 9.9, 12.9, 15.4
+
+#9
+
+Payette
+
++4
+Payette, Idaho
+Population 7,430
+Median Income $50,300
+VC Rate 2020, 2019, 2018 2.2, 2.4, 3.7
+PC Rate 2020, 2019, 2018 13.3, 19.4, 16.4
+
+#10
+
+Post Falls
+
+-1
+Post Falls, Idaho
+Population 34,144
+Median Income $50,683
+VC Rate 2020, 2019, 2018 2.0, 2.0, 2.3
+PC Rate 2020, 2019, 2018 16.9, 22.6, 24.5

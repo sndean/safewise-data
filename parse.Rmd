@@ -1,0 +1,134 @@
+---
+title: "combine"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+library(RColorBrewer)
+library(ggrepel)
+
+theme_set(theme_bw(base_size = 18))
+
+theme2 <- theme(panel.grid.major = element_blank(),
+                panel.grid.minor = element_blank(),
+                axis.line = element_line(colour = "black"),
+                legend.title = element_text(color = "black"),
+                legend.text = element_text(color = "black"),
+                axis.text.x = element_text(size = 14, color = "black"),
+                axis.text.y = element_text(size = 16, color = "black"),
+                axis.title = element_text(color = "black"),
+                strip.text.x = element_text(size = 14, color = "black"),
+                strip.text.y = element_text(size = 14, color = "black"),
+                strip.background = element_blank()
+)
+```
+
+```{r}
+ChangeNames <- function(x) {
+    names(x) <- c('name', 'pop', 'VC', 'PC')
+    return(x)
+}
+
+combine_func <- function(x){
+  bind_rows(
+  lapply(
+    list(read_tsv(paste('state_data/', x, '_top.tsv', sep = ''), col_names = FALSE), 
+         read_tsv(paste('state_data/', x, '_bottom.tsv', sep = ''), col_names = FALSE) %>% select(-X1)
+         ), ChangeNames)) %>% 
+  mutate(state = x)
+}
+```
+
+```{bash}
+state=('OK')
+name=$(grep -A 2 '#' state_data/${state}_top.txt | grep '[A-z]')
+pop=$(grep 'Population' state_data/${state}_top.txt | awk '{print $2}')
+PC=$(grep 'PC' state_data/${state}_top.txt | cut -c26- | awk '{gsub("Not available,", "");sum = 0; for (i = 1; i <= NF; i++) sum += $i; sum /= NF; print sum}')
+VC=$(grep 'VC' state_data/${state}_top.txt | cut -c26- | awk '{gsub("Not available,", "");sum = 0; for (i = 1; i <= NF; i++) sum += $i; sum /= NF; print sum}')
+
+paste <(printf "${name[@]}") <(printf "${pop[@]}") <(printf "${VC[@]}") <(printf "${PC[@]}") > state_data/${state}_top.tsv
+```
+
+```{r, message=FALSE}
+df1 <- bind_rows(
+  combine_func('AL'),
+  combine_func('AK'), 
+  combine_func('AR'),  
+  combine_func('AZ'),
+  combine_func('CA'),
+  combine_func('CO'),
+  combine_func('CT'),
+  combine_func('DE'),
+  combine_func('FL'),
+  combine_func('GA'),
+  combine_func('ID'),
+  combine_func('IL'),
+  combine_func('IN'),
+  combine_func('KS'),
+  combine_func('LA'),
+  combine_func('KY'),
+  combine_func('MA'),
+  combine_func('MD'),
+  combine_func('ME'),
+# MI
+# MN
+# MO
+# MS
+# MT
+# ND
+# NE
+# NH
+# NJ
+# NM
+# NV
+# NY
+# OH
+  combine_func('OK'),# OK
+  combine_func('OR'),
+  combine_func('PA'),
+  combine_func('RI'),
+  combine_func('SC'),
+  combine_func('SD'),
+  combine_func('TN'),
+  combine_func('TX'),
+  combine_func('UT'),
+  combine_func('VA'),
+  combine_func('VT'),
+  combine_func('WA'),
+  combine_func('WI'),
+  combine_func('WV'),
+  combine_func('WY'), 
+  )
+```
+
+```{r, fig.width=11, fig.height=7}
+coul = brewer.pal(8, "Set1") 
+coul = colorRampPalette(coul)(45)
+
+df1 %>%
+  mutate(
+    label = case_when(
+      VC > 20 | PC > 80 ~ paste(name, state, sep = ', '),
+      TRUE ~ ''
+    )
+  ) %>% 
+  ggplot() +
+  geom_point(aes(VC, PC, size=pop, color=state)) +
+  geom_text_repel(aes(VC, PC, label = label),
+                  size = 3,
+                  box.padding = unit(0.25, "lines"),
+                  point.padding = unit(0.25, "lines"),
+                  show.legend = FALSE) +
+  theme2 +
+  guides(color=guide_legend(ncol=4)) +
+  scale_color_manual(values = coul) +
+  labs(x='Violent crime (per 1000)', y='Property crime (per 1000)', color='State')
+```
+
+
+
+
+
+
+

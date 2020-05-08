@@ -1,0 +1,548 @@
+#1
+
+Campton Hills
+
+0
+Campton Hills, Illinois
+Population 11,305
+Median Income $131,658
+VC Rate 2020, 2019, 2018 0.1, 0.0, 0.4
+PC Rate 2020, 2019, 2018 1.5, 1.6, 3.1
+
+#2
+
+Gilberts
+
+0
+Gilberts, Illinois
+Population 8,254
+Median Income $105,087
+VC Rate 2020, 2019, 2018 0.4, 0.1, 0.3
+PC Rate 2020, 2019, 2018 2.4, 7.2, 3.0
+
+#3
+
+Manhattan
+
++53
+Manhattan, Illinois
+Population 7,879
+Median Income $93,676
+VC Rate 2020, 2019, 2018 0.3, 0.7, 0.3
+PC Rate 2020, 2019, 2018 3.3, 4.6, 4.3
+
+#4
+
+Justice
+
+NEW
+Justice, Illinois
+Population 12,822
+Median Income $48,355
+VC Rate 2020, 2019, 2018 0.5, Not available, Not available
+PC Rate 2020, 2019, 2018 2.3, Not available, Not available
+
+#5
+
+Sandwich
+
++111
+Sandwich, Illinois
+Population 7,382
+Median Income $61,656
+VC Rate 2020, 2019, 2018 0.9, 1.2, 1.1
+PC Rate 2020, 2019, 2018 1.2, 5.0, 6.5
+
+#6
+
+Huntley
+
+-1
+Huntley, Illinois
+Population 27,637
+Median Income $75,587
+VC Rate 2020, 2019, 2018 0.3, 0.2, 0.3
+PC Rate 2020, 2019, 2018 3.6, 6.2, 8.1
+
+#7
+
+Hinsdale
+
++10
+Hinsdale, Illinois
+Population 17,831
+Median Income $171,453
+VC Rate 2020, 2019, 2018 0.1, 0.3, 0.3
+PC Rate 2020, 2019, 2018 5.5, 6.6, 10.2
+
+#8
+
+La Grange Park
+
++30
+La Grange Park, Illinois
+Population 13,411
+Median Income $90,890
+VC Rate 2020, 2019, 2018 0.4, 0.5, 0.2
+PC Rate 2020, 2019, 2018 4.6, 4.3, 7.7
+
+#9
+
+Bartlett
+
++23
+Bartlett, IL Map
+Population 41,140
+Median Income $99,957
+VC Rate 2020, 2019, 2018 0.5, 0.5, 0.8
+PC Rate 2020, 2019, 2018 4.1, 5.2, 6.0
+
+#10
+
+Pingree Grove
+
++24
+Pingree Grove, Illinois
+Population 8,867
+Median Income $78,433
+VC Rate 2020, 2019, 2018 0.3, 0.5, 0.7
+PC Rate 2020, 2019, 2018 5.4, 4.0, 2.8
+
+#11
+
+Palatine
+
++38
+Palatine, Illinois
+Population 68,648
+Median Income $76,633
+VC Rate 2020, 2019, 2018 0.4, 0.6, 0.5
+PC Rate 2020, 2019, 2018 5.2, 8.3, 8.6
+
+#12
+
+Buffalo Grove
+
+-6
+Buffalo Grove, Illinois
+Population 41,182
+Median Income $106,564
+VC Rate 2020, 2019, 2018 0.2, 0.2, 0.3
+PC Rate 2020, 2019, 2018 6.5, 5.4, 5.0
+
+#13
+
+Channahon
+
++55
+Channahon, Illinois
+Population 12,837
+Median Income $88,516
+VC Rate 2020, 2019, 2018 0.7, 0.7, 0.1
+PC Rate 2020, 2019, 2018 4.5, 4.4, 2.7
+
+#14
+
+Lakemoor
+
+NEW
+Lakemoor, Illinois
+Population 6,046
+Median Income $72,995
+VC Rate 2020, 2019, 2018 1.0, 0.0, 0.3
+PC Rate 2020, 2019, 2018 3.5, 6.9, 3.7
+
+#15
+
+Lisle
+
++3
+Lisle, Illinois
+Population 22,966
+Median Income $83,745
+VC Rate 2020, 2019, 2018 0.7, 0.3, 0.4
+PC Rate 2020, 2019, 2018 4.6, 7.0, 9.1
+
+#16
+
+Winfield
+
++12
+Winfield, Illinois
+Population 9,762
+Median Income $102,750
+VC Rate 2020, 2019, 2018 1.0, 0.4, 0.3
+PC Rate 2020, 2019, 2018 3.4, 9.0, 5.8
+
+#17
+
+Lindenhurst
+
++73
+Lindenhurst, Illinois
+Population 14,450
+Median Income $93,806
+VC Rate 2020, 2019, 2018 0.9, 1.0, 0.2
+PC Rate 2020, 2019, 2018 4.0, 4.5, 4.9
+
+#18
+
+Homer Glen
+
+-14
+Homer Glen, Illinois
+Population 24,638
+Median Income $97,254
+VC Rate 2020, 2019, 2018 0.4, 0.2, 0.2
+PC Rate 2020, 2019, 2018 6.0, 5.5, 4.8
+
+#19
+
+Lake Villa
+
++131
+Lake Villa, Illinois
+Population 8,726
+Median Income $92,951
+VC Rate 2020, 2019, 2018 1.0, 1.7, 1.2
+PC Rate 2020, 2019, 2018 3.8, 8.0, 5.4
+
+#20
+
+Clarendon Hills
+
++101
+Clarendon Hills, Illinois
+Population 8,751
+Median Income $113,447
+VC Rate 2020, 2019, 2018 0.8, 1.3, 0.7
+PC Rate 2020, 2019, 2018 4.8, 5.4, 3.7
+
+#21
+
+Deerfield
+
+-13
+Deerfield, Illinois
+Population 19,049
+Median Income $142,621
+VC Rate 2020, 2019, 2018 0.2, 0.3, 0.3
+PC Rate 2020, 2019, 2018 7.2, 6.8, 6.4
+
+#22
+
+Geneva
+
++5
+Geneva, Illinois
+Population 22,082
+Median Income $105,161
+VC Rate 2020, 2019, 2018 0.3, 0.4, 0.5
+PC Rate 2020, 2019, 2018 7.0, 8.2, 8.6
+
+#23
+
+Charleston
+
++147
+Charleston, Illinois
+Population 20,878
+Median Income $29,968
+VC Rate 2020, 2019, 2018 1.4, 2.1, 3.7
+PC Rate 2020, 2019, 2018 2.9, 5.4, 5.7
+
+#24
+
+Lake In the Hills
+
++59
+Lake in the Hills, Illinois
+Population 28,924
+Median Income $87,683
+VC Rate 2020, 2019, 2018 1.1, 0.9, 0.8
+PC Rate 2020, 2019, 2018 4.0, 2.1, 5.0
+
+#25
+
+South Elgin
+
+-8
+South Elgin, Illinois map
+Population 22,627
+Median Income $89,565
+VC Rate 2020, 2019, 2018 1.1, 1.3, 1.2
+PC Rate 2020, 2019, 2018 4.3, 8.2, 11.7
+
+#26
+
+Chester
+
++118
+Chester, Illinois
+Population 8,505
+Median Income $35,000
+VC Rate 2020, 2019, 2018 1.9, 1.5, 2.1
+PC Rate 2020, 2019, 2018 1.6, 2.8, 6.3
+
+#27
+
+Marengo
+
++31
+Marengo, Illinois
+Population 7,470
+Median Income $61,250
+VC Rate 2020, 2019, 2018 0.4, 0.7, 0.7
+PC Rate 2020, 2019, 2018 7.2, 9.7, 9.4
+
+#28
+
+Palos Hills
+
++17
+Palos Hills, Illinois
+Population 17,338
+Median Income $57,956
+VC Rate 2020, 2019, 2018 1.0, 0.6, 0.9
+PC Rate 2020, 2019, 2018 4.8, 5.5, 4.8
+
+#29
+
+Shorewood
+
++72
+Shorewood, Illinois
+Population 17,482
+Median Income $98,444
+VC Rate 2020, 2019, 2018 0.8, 1.0, 1.7
+PC Rate 2020, 2019, 2018 5.8, 8.2, 10.3
+
+#30
+
+Stickney
+
++69
+Stickney, Illinois
+Population 6,680
+Median Income $62,652
+VC Rate 2020, 2019, 2018 0.3, 1.0, 0.9
+PC Rate 2020, 2019, 2018 7.8, 10.6, 10.8
+
+#31
+
+Mundelein
+
++10
+Mundelein, Illinois
+Population 31,436
+Median Income $86,336
+VC Rate 2020, 2019, 2018 0.9, 0.5, 0.8
+PC Rate 2020, 2019, 2018 5.8, 7.7, 9.2
+
+#32
+
+Plano
+
+-23
+Plano, Illinois
+Population 11,692
+Median Income $59,631
+VC Rate 2020, 2019, 2018 0.8, 0.3, 0.0
+PC Rate 2020, 2019, 2018 6.2, 9.6, 9.5
+
+#33
+
+Edwardsville
+
++52
+Edwardsville, Illinois
+Population 25,054
+Median Income $72,832
+VC Rate 2020, 2019, 2018 0.5, 0.9, 1.3
+PC Rate 2020, 2019, 2018 7.4, 10.7, 11.5
+
+#34
+
+Hanover Park
+
++10
+Hanover Park, Illinois
+Population 37,971
+Median Income $70,401
+VC Rate 2020, 2019, 2018 1.1, 1.1, 1.0
+PC Rate 2020, 2019, 2018 5.1, 6.2, 6.7
+
+#35
+
+Lockport
+
+-25
+Lockport, Illinois
+Population 25,510
+Median Income $85,023
+VC Rate 2020, 2019, 2018 0.7, 0.3, 0.9
+PC Rate 2020, 2019, 2018 6.9, 8.4, 7.7
+
+#36
+
+Round Lake
+
++60
+Round Lake, Illinois
+Population 18,454
+Median Income $74,011
+VC Rate 2020, 2019, 2018 1.0, 1.0, 1.0
+PC Rate 2020, 2019, 2018 5.9, 5.7, 7.2
+
+#37
+
+Winnetka
+
++6
+Winnetka, Illinois
+Population 12,518
+Median Income $216,875
+VC Rate 2020, 2019, 2018 0.2, 0.6, 0.4
+PC Rate 2020, 2019, 2018 8.6, 11.6, 6.9
+
+#38
+
+Arlington Heights
+
++8
+Population 75,688
+Median Income $87,790
+VC Rate 2020, 2019, 2018 0.4, 0.6, 0.8
+PC Rate 2020, 2019, 2018 8.3, 8.7, 9.5
+
+#39
+
+Highland Park
+
+-4
+Highland Park, Illinois
+Population 29,764
+Median Income $137,450
+VC Rate 2020, 2019, 2018 0.8, 0.5, 0.7
+PC Rate 2020, 2019, 2018 6.7, 11.5, 8.9
+
+#40
+
+Hampshire
+
++147
+Hampshire, Illinois
+Population 6,466
+Median Income $99,362
+VC Rate 2020, 2019, 2018 1.7, 2.5, 1.6
+PC Rate 2020, 2019, 2018 3.6, 4.6, 5.4
+
+#41
+
+Winthrop Harbor
+
+-27
+Winthrop Harbor, Illinois
+Population 6,727
+Median Income $83,700
+VC Rate 2020, 2019, 2018 1.8, 0.3, 0.9
+PC Rate 2020, 2019, 2018 3.4, 4.9, 5.4
+
+#42
+
+Oswego
+
++11
+Oswego, Illinois
+Population 35,478
+Median Income $101,191
+VC Rate 2020, 2019, 2018 0.5, 0.6, 0.7
+PC Rate 2020, 2019, 2018 8.4, 10.0, 11.2
+
+#43
+
+Harvard
+
++72
+Harvard, Illinois
+Population 9,144
+Median Income $52,585
+VC Rate 2020, 2019, 2018 0.9, 1.2, 0.9
+PC Rate 2020, 2019, 2018 7.0, 8.1, 12.4
+
+#44
+
+Cary
+
++69
+Cary, Illinois
+Population 17,830
+Median Income $98,529
+VC Rate 2020, 2019, 2018 1.1, 1.2, 1.1
+PC Rate 2020, 2019, 2018 6.2, 3.7, 4.2
+
+#45
+
+Morton
+
++83
+Morton, Illinois
+Population 16,302
+Median Income $76,888
+VC Rate 2020, 2019, 2018 1.1, 1.4, 0.9
+PC Rate 2020, 2019, 2018 6.3, 8.8, 8.9
+
+#46
+
+Roselle
+
+-2
+Roselle, Illinois
+Population 22,799
+Median Income $81,346
+VC Rate 2020, 2019, 2018 0.4, 0.6, 0.8
+PC Rate 2020, 2019, 2018 9.0, 7.4, 8.2
+
+#47
+
+Glen Ellyn
+
++20
+Glen Ellyn, Illinois
+Population 28,079
+Median Income $105,609
+VC Rate 2020, 2019, 2018 0.7, 0.7, 0.9
+PC Rate 2020, 2019, 2018 7.7, 12.2, 8.6
+
+#48
+
+Bethalto
+
+-19
+Bethalto, Illinois Map
+Population 9,300
+Median Income $62,782
+VC Rate 2020, 2019, 2018 0.5, 0.4, 1.0
+PC Rate 2020, 2019, 2018 8.7, 17.9, 12.3
+
+#49
+
+Mahomet
+
+-29
+Mahomet, Illinois
+Population 8,672
+Median Income $97,621
+VC Rate 2020, 2019, 2018 1.2, 0.4, 0.5
+PC Rate 2020, 2019, 2018 6.5, 6.4, 3.9
+
+#50
+
+Glenwood
+
++88
+Glenwood, Illinois
+Population 8,864
+Median Income $57,566
+VC Rate 2020, 2019, 2018 1.2, 1.5, 1.4
+PC Rate 2020, 2019, 2018 6.2, 6.7, 15.5

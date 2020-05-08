@@ -1,0 +1,219 @@
+#1
+
+Ridgefield
+
+0
+Ridgefield, Connecticut
+Population 25,260
+Median Income $125,595
+VC Rate 2020, 2019, 2018 0.0, 0.0, 0.1
+PC Rate 2020, 2019, 2018 2.5, 4.4, 2.8
+
+#2
+
+Newtown
+
++6
+Newtown, Connecticut
+Population 28,015
+Median Income $108,667
+VC Rate 2020, 2019, 2018 0.2, 0.4, 0.1
+PC Rate 2020, 2019, 2018 4.4, 3.4, 3.0
+
+#3
+
+Greenwich
+
++3
+Greenwich, Connecticut
+Population 63,075
+Median Income $94,309
+VC Rate 2020, 2019, 2018 0.1, 0.3, 0.2
+PC Rate 2020, 2019, 2018 6.3, 7.5, 6.4
+
+#4
+
+Simsbury
+
+-1
+Simsbury, Connecticut
+Population 25,164
+Median Income $109,823
+VC Rate 2020, 2019, 2018 0.2, 0.2, 0.3
+PC Rate 2020, 2019, 2018 6.0, 6.7, 6.8
+
+#5
+
+Shelton
+
++7
+Shelton, Connecticut
+Population 41,657
+Median Income $89,250
+VC Rate 2020, 2019, 2018 0.6, 0.7, 0.7
+PC Rate 2020, 2019, 2018 6.9, 9.5, 10.4
+
+#6
+
+Westport
+
+-2
+Westport, Connecticut
+Population 28,278
+Median Income $181,360
+VC Rate 2020, 2019, 2018 0.1, 0.2, 0.2
+PC Rate 2020, 2019, 2018 8.5, 10.6, 8.8
+
+#7
+
+Cheshire
+
+-5
+Cheshire, Connecticut
+Population 29,337
+Median Income $107,716
+VC Rate 2020, 2019, 2018 0.2, 0.1, 0.1
+PC Rate 2020, 2019, 2018 8.3, 6.0, 8.3
+
+#8
+
+New Milford
+
++11
+New Milford, Connecticut
+Population 26,956
+Median Income $57,768
+VC Rate 2020, 2019, 2018 0.7, 1.0, 1.1
+PC Rate 2020, 2019, 2018 9.8, 10.1, 10.0
+
+#9
+
+Vernon
+
++9
+Vernon, Connecticut
+Population 29,304
+Median Income $60,556
+VC Rate 2020, 2019, 2018 0.7, 0.8, 0.7
+PC Rate 2020, 2019, 2018 12.5, 12.5, 11.7
+
+#10
+
+Glastonbury
+
++3
+Glastonbury, Connecticut
+Population 34,593
+Median Income $108,157
+VC Rate 2020, 2019, 2018 0.6, 0.7, Not available
+PC Rate 2020, 2019, 2018 13.2, 14.6, Not available
+
+#11
+
+Middletown
+
++10
+Middletown, Connecticut
+Population 46,314
+Median Income $63,914
+VC Rate 2020, 2019, 2018 0.8, 1.1, 1.5
+PC Rate 2020, 2019, 2018 12.6, 15.7, 19.9
+
+#12
+
+South Windsor
+
+NEW
+South Windsor, Connecticut
+Population 25,968
+Median Income $94,217
+VC Rate 2020, 2019, 2018 0.5, 0.5, 0.2
+PC Rate 2020, 2019, 2018 13.8, 17.2, 13.8
+
+#13
+
+Wallingford
+
+-3
+Wallingford, Connecticut
+Population 44,680
+Median Income $75,533
+VC Rate 2020, 2019, 2018 0.7, 0.6, 0.5
+PC Rate 2020, 2019, 2018 13.4, 13.9, 14.3
+
+#14
+
+Guilford
+
+-9
+Guilford, Connecticut
+Population 22,268
+Median Income $99,441
+VC Rate 2020, 2019, 2018 0.5, 0.2, 0.4
+PC Rate 2020, 2019, 2018 14.4, 11.9, 9.0
+
+#15
+
+Fairfield
+
+-8
+Fairfield, Connecticut
+Population 62,452
+Median Income $120,082
+VC Rate 2020, 2019, 2018 0.5, 0.4, 0.6
+PC Rate 2020, 2019, 2018 15.3, 14.9, 16.2
+
+#16
+
+Groton Town
+
++9
+Groton, Connecticut
+Population 29,372
+Median Income $63,895
+VC Rate 2020, 2019, 2018 1.3, 1.2, 1.3
+PC Rate 2020, 2019, 2018 13.0, 15.7, 15.9
+
+#17
+
+Wethersfield
+
++6
+Wethersfield, Connecticut
+Population 26,127
+Median Income $81,452
+VC Rate 2020, 2019, 2018 0.9, 1.1, Not available
+PC Rate 2020, 2019, 2018 14.7, 14.8, Not available
+
+#18
+
+Naugatuck
+
++6
+Naugatuck, Connecticut
+Population 31,400
+Median Income $58,641
+VC Rate 2020, 2019, 2018 0.8, 1.1, 1.2
+PC Rate 2020, 2019, 2018 16.0, 14.3, 17.3
+
+#19
+
+Danbury
+
++14
+Danbury, Connecticut
+Population 85,818
+Median Income $68,068
+VC Rate 2020, 2019, 2018 1.5, 1.9, 1.9
+PC Rate 2020, 2019, 2018 13.6, 12.9, 16.0
+
+#20
+
+Branford
+
+-9
+Branford, Connecticut
+Population 28,121
+Median Income $71,058
+VC Rate 2020, 2019, 2018 0.6, 0.6, 0.4
+PC Rate 2020, 2019, 2018 16.9, 19.8, 19.3

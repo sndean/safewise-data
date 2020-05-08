@@ -1,0 +1,56 @@
+
+
+#1
+
+Weirton
+
++11
+Weirton, West Virginia
+Population 18,542
+Median Income $45,058
+VC Rate 2020, 2019, 2018 0.5, 1.1, 1.2
+PC Rate 2020, 2019, 2018 9.0, 10.0, 11.0
+
+#2
+
+Charles Town
+
++4
+Charles Town, West Virginia
+Population 6,060
+Median Income $70,708
+VC Rate 2020, 2019, 2018 1.7, 0.7, 2.7
+PC Rate 2020, 2019, 2018 6.1, 12.9, 23.4
+
+#3
+
+Ranson
+
+New
+Ranson, West Virginia
+Population 5,292
+Median Income $40,556
+VC Rate 2020, 2019, 2018 2.8, Not available, Not available
+PC Rate 2020, 2019, 2018 5.1, Not available, Not available
+
+#4
+
+Oak Hill
+
++15
+Oak Hill, West Virginia
+Population 8,264
+Median Income $40,110
+VC Rate 2020, 2019, 2018 1.6, 1.8, 2.1
+PC Rate 2020, 2019, 2018 17.8, 24.9, 35.7
+
+#5
+
+Bridgeport
+
++20
+Bridgeport, West Virginia
+Population 8,708
+Median Income 82,359
+VC Rate 2020, 2019, 2018 1.0, 2.9, 1.9
+PC Rate 2020, 2019, 2018 23.4, 31.9, 26.1

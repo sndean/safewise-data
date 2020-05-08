@@ -1,0 +1,474 @@
+21	Turtle Creek	5,192	0.4	2.3
+22	Adams Township, Butler County	14,105	0.2	3.3
+23	South Fayette Township	15,788	0.1	3.7
+24	Silver Spring Township	18,078	0.2	3.7
+25	West Deer Township	11,973	0.1	4
+26	Franconia Township	13,343	0.2	3.5
+27	Millcreek Township, Lebanon County	5,714	0	4.4
+28	East Vincent Township	7,232	0	4.6
+29	Upper Allen Township	20,123	0.3	3.4
+30	Middlesex Township, Butler County	5,636	0.4	3.4
+31	Schuylkill Township, Chester County	8,658	0.2	3.8
+32	South Londonderry Township	8,427	0.1	4.3
+33	Towamencin Township	18,443	0.7	2.4
+34	Solebury Township	8,585	0.3	3.5
+35	Northampton Township	39,289	0.3	3.7
+36	Cecil Township	12,633	0.2	4.3
+37	Upper Uwchlan Township	11,506	0	4.9
+38	Swoyersville	4,949	0.6	2.8
+39	Upper Saucon Township	17,121	0.1	4.6
+40	Ligonier Township	6,400	1.3	0.8
+41	Clarion	5,316	0.6	3.2
+42	Wright Township	5,611	0	5.2
+43	Upper Gwynedd Township	15,958	0.6	3.3
+44	Whitehall	13,703	0.7	3
+45	Bellefonte	6,325	0.2	4.7
+46	Murrysville	19,759	0.2	4.7
+47	Lower Salford Township	15,440	0.5	3.9
+48	Penn Township, Westmoreland County	19,297	1.6	0.1
+49	McCandless	28,475	0.2	4.9
+50	Fairview Township, Luzerne County	4,485	0	5.6
+51	Upper Makefield Township	8,479	0.6	3.5
+52	Lititz	9,448	0.8	2.6
+53	West Vincent Township	5,572	0.2	5
+54	Northwest Lancaster County Regional	20,029	0.2	5
+55	Northern Lancaster County Regional	36,089	0.6	3.8
+56	New Hanover Township	13,201	0.2	5.2
+57	New Britain Township	11,252	0.3	5
+58	Ferguson Township	19,551	0.4	4.5
+59	West Cocalico Township	7,469	0.9	2.7
+60	Conemaugh Township, Somerset County	6,865	0.9	2.9
+61	Brecknock Township, Berks County	4,640	0.6	3.9
+62	Punxsutawney	5,764	0.9	3.1
+63	Northern Regional	35,447	0.2	5.7
+64	Hampden Township	30,399	0.3	5.1
+65	Hampton Township	18,318	0.8	3.7
+66	Newtown Township, Bucks County	22,880	0.2	5.6
+67	Kennett Township	8,317	0.2	5.5
+68	Pennridge Regional	11,013	0.5	4.8
+69	East Coventry Township	6,778	0.1	5.9
+70	East Pikeland Township	7,345	0.5	4.6
+71	Warwick Township, Bucks County	14,618	0.8	3.7
+72	East Fallowfield Township	7,584	1.2	2.5
+73	Pleasant Hills	8,113	0	6.8
+74	East Pennsboro Township	21,750	0.5	5.2
+75	Neshannock Township	9,223	0.5	5.1
+76	Buffalo Valley Regional	12,660	0.3	5.9
+77	Lower Windsor Township	7,574	0.8	4.4
+78	East Brandywine Township	8,765	0.8	4.3
+79	Upper Southampton Township	15,038	0.4	5.8
+80	Collegeville	5,134	0	7.2
+81	Elizabeth Township	13,087	0.7	4.8
+82	South Lebanon Township	9,935	0.3	6.2
+83	Douglass Township, Montgomery County	10,644	0.8	4.7
+84	Plumstead Township	14,244	0.8	4.6
+85	Central Bucks Regional	15,584	0.6	5.3
+86	Upper St. Clair Township	19,758	0.4	6
+87	Kingston Township	6,898	1.3	2.9
+88	Amity Township	13,076	0.3	6.4
+89	Swarthmore	6,266	0.6	5.3
+90	Chartiers Township	7,937	0.4	6.2
+91	North Middleton Township	11,682	0.5	5.7
+92	Sugarcreek	4,969	0.6	5.4
+93	Upper Macungie Township	24,995	0.3	6.6
+94	Earl Township	7,243	0.3	6.6
+95	West Lampeter Township	16,092	0.6	5.8
+96	Lower Makefield Township	32,768	0.3	6.7
+97	Moore Township	9,343	0.4	6.3
+98	West Earl Township	8,503	0.4	6.6
+99	Jessup	4,397	1.1	3.9
+100	Hatboro	7,446	0.9	4.6
+101	Camp Hill	7,946	0.3	7
+102	Peters Township	22,136	0.5	6.1
+103	Horsham Township	26,615	0.3	7.1
+104	Grove City	7,969	1.1	4.1
+105	Lower Frederick Township	4,884	0.6	5.9
+106	Blair Township	4,503	0.7	5.8
+107	Forks Township	15,545	0.5	6.3
+108	Evans City-Seven Fields Regional	4,488	0.2	7.4
+109	Dallas Township	9,259	0.8	5.5
+110	Western Berks Regional	4,833	1.2	3.9
+111	Baldwin Borough	19,586	0.9	5.3
+112	Birdsboro	5,167	0.6	6.4
+113	Southern Chester County Regional	14,974	1.1	4.7
+114	East Cocalico Township	10,569	0.8	6
+115	East Petersburg	4,526	0.4	7.1
+116	Penn Township, Butler County	4,916	0.2	7.9
+117	Newtown Township, Delaware County	13,571	0.4	7.4
+118	Northampton	9,884	0.2	8
+119	Uwchlan Township	19,044	0.8	5.8
+120	State College	58,781	0.3	7.6
+121	Patton Township	16,142	0.3	7.7
+122	Shippensburg	5,584	0.2	8.2
+123	Upper Nazareth Township	6,947	0.9	5.9
+124	Warrington Township	24,582	0.7	6.4
+125	Bethel Township, Delaware County	9,219	0.7	6.7
+126	Tunkhannock Township, Wyoming County	6,147	0.5	7.3
+127	Castle Shannon	8,153	0.7	6.5
+128	Whitemarsh Township	17,966	0.5	7.5
+129	Clarks Summit	6,210	0.5	7.6
+130	Carroll Township, York County	6,440	0.3	8.2
+131	White Oak	7,646	0.9	6.1
+132	Newport Township	5,386	0.6	7.4
+133	Jeannette	9,127	1.1	5.6
+134	Tredyffrin Township	29,575	0.4	8
+135	Olyphant	5,026	2	2.6
+136	Southwestern Regional	17,789	1.3	5.1
+137	Whitpain Township	19,326	0.3	8.5
+138	Blakely	6,201	1	6.3
+139	Eastern Adams Regional	7,379	1.2	5.4
+140	New Cumberland	7,323	0.5	7.8
+141	East Whiteland Township	12,085	0.2	8.9
+142	Washington Township, Westmoreland County	7,103	1.3	5.3
+143	West Mifflin	19,773	1.5	4.7
+144	West Manheim Township	8,497	0.4	8.6
+145	New Sewickley Township	7,249	0.7	7.4
+146	Robeson Township	7,432	1.2	5.7
+147	Bethel Park	32,417	0.3	8.7
+148	Buffalo Township	7,294	1.5	4.7
+149	Lower Heidelberg Township	6,071	1.8	3.6
+150	Lower Providence Township	27,051	1.2	5.7
+151	Mount Lebanon	32,239	0.7	7.5
+152	Shaler Township	28,039	0.7	7.5
+153	Manor Township, Lancaster County	21,090	1.1	6.1
+154	Butler Township, Luzerne County	9,788	0.8	7.3
+155	Lower Saucon Township	10,824	0.9	7
+156	West Hills Regional	10,032	0.6	8.2
+157	Westtown-East Goshen Regional	32,253	1.2	6
+158	Lower Moreland Township	13,204	0.3	9.2
+159	Washington Township, Northampton County	5,228	0.8	7.7
+160	Lower Burrell	11,155	0.8	7.5
+161	Greene County Regional Police Department	4,492	0.2	9.6
+162	Radnor Township	31,935	1	7
+163	Conewago Township, Adams County	7,184	0.8	7.5
+164	Economy	9,205	0.2	9.7
+165	O'Hara Township	8,724	1.5	5.4
+166	Cranberry Township	31,154	0.3	9.7
+167	Upper Leacock Township	8,963	0.8	7.9
+168	Northern York County Regional	69,814	0.5	8.9
+169	Carlisle	19,335	0.9	7.5
+170	Brighton Township	8,297	1.8	4.5
+171	Easttown Township	10,668	1.6	5.2
+172	Cumberland Township, Adams County	6,236	1.9	4.2
+173	Bern Township	7,025	0.7	8.4
+174	Northern Berks Regional	13,366	0.6	8.8
+175	Tiadaghton Valley Regional	7,586	2	4.1
+176	South Abington Township	8,904	1	7.5
+177	Aston Township	16,708	0.4	9.8
+178	Springfield Township, Bucks County	5,045	1.2	6.9
+179	Doylestown Township	17,430	0.9	8.1
+180	South Williamsport	6,109	1.3	6.5
+181	Royersford	4,777	0.6	9
+182	Nazareth	5,706	0.7	8.8
+183	West Shore Regional	7,745	1.5	5.8
+184	North Sewickley Township	5,406	0.7	8.7
+185	North Huntingdon Township	30,414	0.5	9.6
+186	Warminster Township	32,395	0.8	8.7
+187	Jefferson Hills Borough	11,309	1.8	5.3
+188	Hellam Township	8,645	1.4	6.7
+189	Moon Township	25,758	0.8	9
+190	Upper Providence Township, Montgomery County	24,445	0.4	10.2
+191	Edinboro	5,902	0.7	9.7
+192	Allegheny Township, Westmoreland County	8,093	0.9	9
+193	Mifflin County Regional	16,941	1.3	7.6
+194	Canonsburg	8,815	1.5	7
+195	Norwood	5,896	0.7	9.8
+196	Littlestown	4,489	1.8	6
+197	North Strabane Township	14,703	1.8	5.8
+198	Shenango Township, Lawrence County	7,253	0.8	9.4
+199	Hilltown Township	15,467	0.6	10.1
+200	Vandergrift	4,917	3.3	1
+201	West Hempfield Township	16,598	1.1	8.6
+202	Jenkins Township	4,475	0.9	9.4
+203	Bradford Township	4,724	2.3	4.4
+204	Spring Township, Berks County	27,528	0.8	9.9
+205	Southern Regional York County	11,515	1.3	8.1
+206	Findlay Township	5,867	1.5	7.3
+207	Exeter Township, Berks County	25,956	0.9	9.5
+208	Northeastern Regional	11,878	0.6	10.7
+209	Nether Providence Township	13,770	0.9	9.8
+210	Hatfield Township	21,048	1	9.2
+211	Cambria Township	5,768	1.2	8.7
+212	West Brandywine Township	7,495	1.5	7.9
+213	Salisbury Township	13,977	0.6	11
+214	Conshohocken	8,081	0.6	10.9
+215	Vernon Township	5,432	0.4	11.8
+216	Haverford Township	49,422	0.5	11.4
+217	Millersville	8,380	1.2	8.9
+218	Old Forge	7,885	1.1	9.1
+219	Pequea Township	5,022	1.4	8.4
+220	Scott Township, Allegheny County	16,567	1.1	9.5
+221	Penn Township, York County	16,511	1.3	8.7
+222	Ridley Township	31,190	0.9	10.4
+223	Lower Gwynedd Township	11,543	0.3	12.6
+224	Forest Hills	6,331	0.8	10.7
+225	Bushkill Township	8,528	3	2.9
+226	Carbondale	8,386	1.7	7.8
+227	Donora	4,584	2	6.8
+228	West Mead Township	5,082	1.8	7.5
+229	Lansdale	16,633	0.9	10.6
+230	Hopewell Township	12,711	1.7	7.7
+231	Montgomery Township	26,299	0.3	12.9
+232	Plum	27,274	2.4	5.5
+233	Hollidaysburg	5,763	3.1	2.9
+234	Scott Township, Columbia County	5,016	0.2	13.2
+235	Elizabethtown	11,591	1.8	7.6
+236	Cumru Township	15,387	0.8	11
+237	Springfield Township, Montgomery County	19,751	1.2	9.8
+238	Duryea	4,857	1.9	7.6
+239	Green Tree	4,966	1.2	9.9
+240	Sewickley	4,381	1.4	9.4
+241	Susquehanna Regional	8,455	2.1	6.9
+242	Lehigh Township, Northampton County	10,479	1.7	8.3
+243	Lower Allen Township	19,539	0.7	11.8
+244	Lower Swatara Township	8,904	1.8	8.1
+245	Palmer Township	21,512	0.6	12.3
+246	East Hempfield Township	24,694	1.3	9.9
+247	North Londonderry Township	8,523	0.1	14.1
+248	Slatington	4,322	0.5	13
+249	Telford	4,849	1.9	8.2
+250	West Goshen Township	23,160	1.5	9.6
+251	St. Marys City	12,279	1.1	11.2
+252	Archbald	6,947	2	7.9
+253	York Area Regional	55,386	2	8
+254	Dormont	8,347	2	8
+255	Kutztown	5,066	1.6	9.7
+256	Ohio Township	6,874	0.4	13.7
+257	Hummelstown	4,648	2.2	7.7
+258	Sayre	6,410	2.5	6.6
+259	Bridgeville	5,005	1.2	11.2
+260	Collier Township	8,324	0.5	13.7
+261	Wilkins Township	6,184	0.2	14.9
+262	Marple Township	23,872	0.2	14.9
+263	Fairview Township, York County	17,555	2.2	7.8
+264	Logan Township	12,364	1.3	11.1
+265	Souderton	7,063	2.4	7.2
+266	North Fayette Township	14,935	0.4	14.3
+267	West Pittston	4,741	1.7	9.9
+268	Granville Township	5,000	0	15.8
+269	Middletown Township	45,185	0.7	13.5
+270	New Holland	5,507	1.3	11.6
+271	Bethlehem Township	23,983	0.8	13.5
+272	Shillington	5,289	0.8	13.6
+273	Upper Pottsgrove Township	5,617	2.3	8.2
+274	Brentwood	9,364	2.2	8.5
+275	Monaca	5,492	1.5	11.3
+276	Emmaus	11,490	0.6	14.3
+277	Ridley Park	7,045	2	9.7
+278	Smith Township	4,367	3.2	5.7
+279	Valley Township	7,869	2.5	8.1
+280	Ambler	6,532	1.4	12.2
+281	North Versailles Township	12,127	2.9	7
+282	Washington Township, Franklin County	14,671	0.8	14.6
+283	Middlesex Township, Cumberland County	7,499	1.3	12.8
+284	Oakmont	6,466	1.4	12.7
+285	Falls Township, Bucks County	33,854	1.2	13.2
+286	Newberry Township	15,749	1.4	12.7
+287	Limerick Township	19,144	0.4	16.1
+288	Cumberland Township, Greene County	6,221	1	14.3
+289	Carroll Township, Washington County	5,481	3.8	4.4
+290	Slate Belt Regional	12,451	2.8	8
+291	Meadville	12,917	1.6	12.2
+292	Phoenixville	17,012	1.9	11.3
+293	Kennett Square	6,192	1.6	12.4
+294	Manheim Township	40,395	1.2	13.8
+295	Susquehanna Township, Dauphin County	25,197	1.8	11.7
+296	Richland Township, Bucks County	13,388	1.3	13.4
+297	Hamburg	4,427	2.9	7.9
+298	Ephrata Township	10,465	1	14.8
+299	Ephrata	13,956	1.6	12.5
+300	Lower Merion Township	59,262	0.5	16.4
+301	Bangor	5,222	2.5	9.8
+302	Hellertown	5,840	2.9	8.4
+303	Montoursville	4,420	0.9	15.4
+304	West View	6,578	0.6	16.7
+305	North Cornwall Township	7,868	1.4	14.2
+306	Dunmore	12,933	1.8	13.1
+307	Oil City	9,769	1.8	12.9
+308	Millcreek Township, Erie County	53,422	2.6	10.6
+309	Lower Paxton Township	49,296	1.8	13.5
+310	Oxford	5,648	2.5	11.2
+311	Abington Township, Montgomery County	55,631	0.8	17.1
+312	California	6,738	2.7	10.7
+313	Nanticoke	10,253	1.5	15
+314	Mechanicsburg	9,021	0.9	17.2
+315	Central Berks Regional	13,309	1.5	15.1
+316	North Coventry Township	8,012	0.2	19.5
+317	Colebrookdale District	6,014	1.2	16.3
+318	Lock Haven	9,218	2.2	12.8
+319	Palmyra	7,556	2.5	11.6
+320	Upper Moreland Township	24,182	0.9	17.3
+321	Catasauqua	6,619	1.5	15.3
+322	Exeter	5,580	2.2	13.1
+323	Darby Township	9,282	2	13.5
+324	Derry Township, Dauphin County	25,131	1.6	15.1
+325	Perkasie	8,561	1.6	15
+326	Prospect Park	6,496	3.1	10
+327	Tarentum	4,401	3	10.5
+328	Ellwood City	7,445	1.3	16.1
+329	West Caln Township	9,087	4.5	5.3
+330	Chippewa Township	7,995	0.3	20.3
+331	Ross Township	30,541	0.7	19.1
+332	Waynesboro	10,920	1.2	17.3
+333	Pocono Mountain Regional	42,712	1.9	14.7
+334	Schuylkill Haven	5,116	1.8	15.4
+335	West Chester	20,299	1.8	15.2
+336	Mount Joy	8,332	3.1	10.8
+337	Middletown	9,319	4.5	6
+338	Old Lycoming Township	4,927	0.4	20.3
+339	Kingston	12,836	1.8	15.7
+340	Carnegie	7,888	1.4	17.2
+341	Bloomsburg Town	14,145	2.5	13.7
+342	Lower Pottsgrove Township	12,128	3.2	11.2
+343	Huntingdon	6,946	3.2	11.7
+344	Springfield Township, Delaware County	24,259	0.5	20.9
+345	Bristol	9,618	3.2	11.6
+346	North Lebanon Township	12,042	2.4	14.6
+347	Sandy Township	10,475	3	12.8
+348	Easton	27,158	2.5	14.3
+349	Columbia	10,436	1.8	16.9
+350	Franklin	6,081	2	16.4
+351	West Norriton Township	15,708	2	16.5
+352	Jenkintown	4,442	2.3	15.8
+353	Plains Township	9,725	2	17.3
+354	Tamaqua	6,698	1.8	17.9
+355	Bristol Township	53,684	1.8	18.1
+356	Downingtown	7,933	1.1	20.4
+357	Brookhaven	8,042	2.4	16.3
+358	Pittston	7,689	2.1	17.3
+359	Swissvale	8,713	2.4	16.4
+360	Titusville	5,286	1.3	20.2
+361	Robinson Township, Allegheny County	13,673	1.5	19.9
+362	Kennedy Township	8,183	2.6	16.4
+363	Gettysburg	7,637	3.9	11.7
+364	Bensalem Township	60,588	1.2	21.3
+365	Monroeville	27,628	2.3	17.4
+366	Palmerton	5,289	2.5	16.8
+367	DuBois	7,409	2	18.4
+368	Danville	4,621	3	14.9
+369	Bridgeport	4,596	3.3	14.1
+370	Lehighton	5,277	1.7	19.7
+371	West Whiteland Township	18,393	0.7	23.4
+372	Lancaster Township, Lancaster County	17,272	2.1	18.5
+373	Avalon	4,569	3.9	12
+374	Hazleton	24,637	4.7	9.3
+375	Glenolden	7,163	1.5	20.5
+376	Morrisville	8,557	1.2	22
+377	Colonial Regional	17,966	0.3	24.9
+378	Rostraver Township	11,023	0.7	23.6
+379	Somerset	5,899	2.7	16.8
+380	Tyrone	5,210	3.5	14.2
+381	Bethlehem	75,809	2.7	16.9
+382	South Whitehall Township	19,918	0.7	24.2
+383	Upper Chichester Township	17,002	2.5	17.8
+384	Lower Southampton Township	19,230	3.5	14.5
+385	Moosic	5,745	4.4	12.9
+386	Pottsville	13,529	3.3	16.8
+387	Caln Township	14,316	2.7	19
+388	East Lampeter Township	17,133	0.5	26.7
+389	Aliquippa	8,946	5.6	9.1
+390	Muhlenberg Township	20,303	1.1	24.8
+391	Allegheny Township, Blair County	6,573	5.6	9.1
+392	Altoona	43,840	3.8	15.6
+393	Norristown	34,531	4	14.8
+394	Upper Darby Township	82,931	5.3	10.5
+395	Jim Thorpe	4,613	4.1	14.7
+396	Wyomissing	10,454	1.2	24.8
+397	Lebanon	25,816	3.2	18.2
+398	East Norriton Township	14,085	3.1	19
+399	Latrobe	7,896	3	19.5
+400	Erie	96,758	3.1	19.4
+401	Plymouth Township, Montgomery County	17,756	1.5	25.2
+402	Penn Hills	41,143	4.1	16.4
+403	Lansdowne	10,650	2.4	22.3
+404	Berwick	10,030	3.7	18
+405	Crafton	6,223	1.3	26.5
+406	Butler Township, Butler County	16,542	1.5	26.1
+407	Media	5,367	6	10.6
+408	Bellevue	8,130	2.6	22.5
+409	Pocono Township	10,855	2.7	22.2
+410	Williamsport	28,331	2.5	22.8
+411	Glassport	4,351	2.1	24.4
+412	Quakertown	8,824	4.3	16.7
+413	Hanover Township, Luzerne County	10,843	3.8	18.9
+414	Fountain Hill	4,721	1.5	27.5
+415	Cheltenham Township	37,501	1.9	26.5
+416	Annville Township	4,968	7	8.9
+417	Stroud Area Regional	34,887	1.9	27.1
+418	West Manchester Township	18,833	1.4	29.3
+419	Clairton	6,587	3.5	22.2
+420	Manheim	4,890	3.3	23.1
+421	Greensburg	14,217	4.1	20.5
+422	Charleroi Regional	6,519	4	20.9
+423	Allentown	121,743	3.4	23.2
+424	Coal Township	10,329	5.5	15.8
+425	Whitehall Township	27,679	0.8	32.4
+426	Stowe Township	6,179	4.4	20.1
+427	Lawrence Township, Clearfield County	7,581	4.1	21.6
+428	Athens Township	5,079	2.6	27.2
+429	Folcroft	6,615	4.8	19.3
+430	Hermitage	15,531	1.2	32
+431	West Hazleton	4,466	4.7	20.2
+432	Springettsbury Township	26,833	1.6	31.5
+433	Richland Township, Cambria County	11,940	0.6	35.2
+434	Clifton Heights	6,709	5.5	18
+435	Butler	13,017	3.1	26.7
+436	Greenville	5,472	5.5	18.3
+437	Chambersburg	20,962	2.9	27.5
+438	Edwardsville	4,687	4.7	21.8
+439	Eastern Pike Regional	4,604	2.6	29.1
+440	Beaver Falls	9,588	4.2	24
+441	Upper Merion Township	30,673	0.7	36
+442	Hanover	15,653	3.1	27.9
+443	Lewistown	8,188	4.4	23.6
+444	Coraopolis	5,510	4.5	23.4
+445	Spring Garden Township	13,120	3.9	25.8
+446	Center Township	11,439	3.3	28.3
+447	New Brighton	8,807	4.3	26.5
+448	Wilkes-Barre	40,710	5.2	23.7
+449	Selinsgrove	5,962	8.2	13.3
+450	Indiana	13,039	9	10.7
+451	Sunbury	9,469	9.5	9.2
+452	West York	4,578	3.1	31.7
+453	Warren	9,088	6.4	20.9
+454	South Strabane Township	9,467	2	37.5
+455	Swatara Township	26,532	3.5	32.6
+456	Plymouth	5,789	7.3	19.9
+457	Steelton	5,944	6.6	22.4
+458	Shenandoah	4,779	9.6	11.7
+459	Taylor	5,889	6.5	22.9
+460	Milton	6,819	9.7	12.8
+461	New Castle	21,910	5.6	27.2
+462	Reading	88,466	7	22.4
+463	Corry	6,311	6.7	24.9
+464	Sharon	13,154	4.9	31.5
+465	Pittsburgh	302,544	5.8	30.2
+466	Mount Carmel	5,618	10.7	13.2
+467	New Kensington	12,377	5.7	30.9
+468	Lancaster	59,761	7	26.4
+469	Clearfield	5,874	6.1	31.7
+470	Connellsville	7,331	4.9	36
+471	Monessen	7,287	10.3	18.9
+472	Sharon Hill	5,705	6.8	31.6
+473	Scranton	77,827	10.4	19.3
+474	Collingdale	8,793	7.3	30.7
+475	Washington, Washington County	13,505	7.5	31
+476	Dickson City	5,761	4.2	42.7
+477	Yeadon	11,512	7.5	33.4
+478	Shamokin	7,020	8.1	31.5
+479	Bradford	8,244	10.2	25.2
+480	York	44,170	10.2	25.7
+481	Farrell	4,651	10.3	25.8
+482	Philadelphia	1,586,916	9.1	31
+483	Pottstown	22,792	8.6	33
+484	Harrisburg	49,147	10.8	25.5
+485	Duquesne	5,544	10.5	29.4
+486	Johnstown	20,877	11.5	29.7
+487	Union Township, Lawrence County	4,921	3.3	58.7
+488	Arnold	4,868	9.7	38.2
+489	Ambridge	6,679	13.3	27.2
+490	McKeesport	20,915	15.3	24.2
+491	Darby	10,702	13.9	32.3
+492	Chester	34,087	13.9	33.8
+493	Uniontown	9,751	13.9	46.7
+494	McKees Rocks	5,929	16.9	47.2

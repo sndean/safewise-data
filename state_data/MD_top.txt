@@ -1,0 +1,109 @@
+#1
+
+Taneytown
+
++1
+Taneytown, Maryland
+Population 6,795
+Median Income $71,903
+VC Rate 2020, 2019, 2018 0.0, 0.1, 1.8
+PC Rate 2020, 2019, 2018 7.2, 11.4, 9.2
+
+#2
+
+Ocean Pines
+
++5
+Ocean Pines, Maryland
+Population 12,244
+Median Income $69,010
+VC Rate 2020, 2019, 2018 1.1, 1.7, 1.6
+PC Rate 2020, 2019, 2018 4.2, 6.7, 8.7
+
+#3
+
+Hampstead
+
+New
+Hampstead, Maryland
+Population 6,364
+Median Income $78,157
+VC Rate 2020, 2019, 2018 0.6, Not available, 0.3
+PC Rate 2020, 2019, 2018 7.5, Not available, 7.4
+
+#4
+
+Mount Airy
+
+New
+Mount Airy, Maryland
+Population 9,434
+Median Income $112,955
+VC Rate 2020, 2019, 2018 0.4, Not available, Not available
+PC Rate 2020, 2019, 2018 9.0, Not available, Not available
+
+#5
+
+Thurmont
+
+0
+Thurmont, Maryland
+Population 6,712
+Median Income $68,879
+VC Rate 2020, 2019, 2018 1.2, 1.2, 0.9
+PC Rate 2020, 2019, 2018 5.8, 8.0, 10.5
+
+#6
+
+Centreville
+
++2
+Centreville, Maryland
+Population 4,844
+Median Income $89,219
+VC Rate 2020, 2019, 2018 1.9, 1.9, 2.1
+PC Rate 2020, 2019, 2018 5.6, 13.9, 13.2
+
+#7
+
+Glenarden
+
++2
+Glenarden, Maryland
+Population 6,258
+Median Income $87,829
+VC Rate 2020, 2019, 2018 1.3, 2.2, 1.4
+PC Rate 2020, 2019, 2018 10.1, 11.6, 10.5
+
+#8
+
+District Heights
+
++11
+District Heights, Maryland
+Population 6,062
+Median Income $69,358
+VC Rate 2020, 2019, 2018 2.6, 4.3, 3.7
+PC Rate 2020, 2019, 2018 5.6, 11.0, 7.6
+
+#9
+
+Bowie
+
+-3
+Bowie, Maryland
+Population 59,356
+Median Income $108,637
+VC Rate 2020, 2019, 2018 1.3, 1.4, 0.9
+PC Rate 2020, 2019, 2018 13.8, 12.9, 12.9
+
+#10
+
+Brunswick
+
++8
+Brunswick, Maryland
+Population 6,322
+Median Income $79,569
+VC Rate 2020, 2019, 2018 1.9, 3.9, 4.2
+PC Rate 2020, 2019, 2018 13.3, 18.5, 10.2

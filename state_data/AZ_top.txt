@@ -1,0 +1,219 @@
+#1
+
+Florence
+
++2
+Florence, Arizona
+Population 25,987
+Median Income $47,188
+VC Rate 2020, 2019, 2018 1.3, 0.7, 0.7
+PC Rate 2020, 2019, 2018 4.9, 4.8, 4.9
+
+#2
+
+San Luis
+
++6
+San Luis, Arizona
+Population 33,074
+Median Income $33,767
+VC Rate 2020, 2019, 2018 0.2, 1.3, 1.2
+PC Rate 2020, 2019, 2018 14.3, 15.9, 13.2
+
+#3
+
+Oro Valley
+
+-2
+Oro Valley, Arizona
+Population 44,844
+Median Income $79,458
+VC Rate 2020, 2019, 2018 0.4, 0.4, 0.7
+PC Rate 2020, 2019, 2018 13.6, 14.1, 14.8
+
+#4
+
+Gilbert
+
+0
+Gilbert, Arizona
+Population 247,463
+Median Income $87,566
+VC Rate 2020, 2019, 2018 0.9, 0.9, 0.8
+PC Rate 2020, 2019, 2018 13.2, 13.9, 13.2
+
+#5
+
+Sahuarita
+
++2
+Sahuarita, Arizona
+Population 29,896
+Median Income $73,174
+VC Rate 2020, 2019, 2018 1.3, 1.0, 0.9
+PC Rate 2020, 2019, 2018 11.6, 11.2, 14.5
+
+#6
+
+Maricopa
+
++4
+Maricopa, Arizona
+Population 48,660
+Median Income $68,908
+VC Rate 2020, 2019, 2018 1.9, 1.9, 2.0
+PC Rate 2020, 2019, 2018 10.0, 12.7, 13.1
+
+#7
+
+Surprise
+
+-1
+Surprise, Arizona
+Population 136,611
+Median Income $62,927
+VC Rate 2020, 2019, 2018 1.2, 0.9, 1.0
+PC Rate 2020, 2019, 2018 15.4, 17.9, 19.0
+
+#8
+
+Lake Havasu City
+
++6
+Lake Havasu City, Arizona
+Population 54,678
+Median Income $47,424
+VC Rate 2020, 2019, 2018 1.6, 2.2, 2.6
+PC Rate 2020, 2019, 2018 15.2, 21.6, 22.7
+
+#9
+
+Prescott Valley
+
++2
+Prescott Valley, Arizona
+Population 45,337
+Median Income $45,684
+VC Rate 2020, 2019, 2018 1.5, 2.0, 1.8
+PC Rate 2020, 2019, 2018 17.1, 21.4, 23.2
+
+#10
+
+Marana
+
+-5
+Marana, Arizona
+Population 46,447
+Median Income $81,041
+VC Rate 2020, 2019, 2018 0.7, 0.9, 0.9
+PC Rate 2020, 2019, 2018 23.2, 26.2, 24.4
+
+#11
+
+Buckeye
+
+-9
+Buckeye, Arizona
+Population 71,318
+Median Income $61,469
+VC Rate 2020, 2019, 2018 1.8, 0.5, 0.5
+PC Rate 2020, 2019, 2018 18.9, 17.2, 15.9
+
+#12
+
+Apache Junction
+
+0
+Apache Junction, Arizona
+Population 41,245
+Median Income $39,119
+VC Rate 2020, 2019, 2018 2.0, 2.0, 2.8
+PC Rate 2020, 2019, 2018 18.7, 23.7, 23.9
+
+#13
+
+Scottsdale
+
+-4
+Scottsdale, Arizona
+Population 254,961
+Median Income $80,306
+VC Rate 2020, 2019, 2018 1.7, 1.6, 1.5
+PC Rate 2020, 2019, 2018 22.3, 21.7, 23.7
+
+#14
+
+Peoria
+
++3
+Peoria, Arizona
+Population 170,177
+Median Income $69,589
+VC Rate 2020, 2019, 2018 2.3, 2.5, 2.0
+PC Rate 2020, 2019, 2018 19.0, 20.4, 21.2
+
+#15
+
+Chandler
+
++3
+Chandler, Arizona
+Population 255,986
+Median Income $77,278
+VC Rate 2020, 2019, 2018 2.4, 2.6, 2.1
+PC Rate 2020, 2019, 2018 21.2, 23.3, 23.1
+
+#16
+
+El Mirage
+
+-1
+Florence, Arizona
+Population 35,733
+Median Income $51,915
+VC Rate 2020, 2019, 2018 2.2, 2.4, 2.2
+PC Rate 2020, 2019, 2018 26.1, 28.2, 30.6
+
+#17
+
+Prescott
+
++4
+Prescott, Arizona
+Population 43,172
+Median Income $50,812
+VC Rate 2020, 2019, 2018 3.2, 3.7, 4.0
+PC Rate 2020, 2019, 2018 20.8, 21.0, 21.8
+
+#18
+
+Goodyear
+
++1
+Goodyear, Arizona
+Population 82,159
+Median Income $77,930
+VC Rate 2020, 2019, 2018 2.5, 2.6, 3.8
+PC Rate 2020, 2019, 2018 25.3, 28.7, 25.2
+
+#19
+
+Sierra Vista
+
++5
+Sierra Vista, Arizona
+Population 42,574
+Median Income $58,839
+VC Rate 2020, 2019, 2018 2.4, 4.5, 2.0
+PC Rate 2020, 2019, 2018 26.3, 30.0, 29.7
+
+#20
+
+Mesa
+
++2
+Mesa, Arizona
+Population 504,873
+Median Income $52,155
+VC Rate 2020, 2019, 2018 3.6, 4.2, 4.3
+PC Rate 2020, 2019, 2018 19.9, 21.7, 23.4

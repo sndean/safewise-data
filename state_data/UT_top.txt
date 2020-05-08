@@ -1,0 +1,220 @@
+
+
+#1
+
+Highland/Alpine (Lone Peak)
+
++1
+Lone Peak, Utah
+Population 29,969
+Median Income Not available
+VC Rate 2020, 2019, 2018 0.2, 0.2, 0.1
+PC Rate 2020, 2019, 2018 5.0, 8.7, 6.2
+
+#2
+
+Spanish Fork
+
++5
+Spanish Fork, Utah
+Population 40,095
+Median Income $70,780
+VC Rate 2020, 2019, 2018 0.3, 0.6, 0.3
+PC Rate 2020, 2019, 2018 8.8, 10.1, 14.0
+
+#3
+
+Kaysville
+
++3
+Kaysville, Utah
+Population 32,404
+Median Income $91,334
+VC Rate 2020, 2019, 2018 0.7, 0.5, 0.6
+PC Rate 2020, 2019, 2018 7.6, 9.6, 8.8
+
+#4
+
+Syracuse
+
++16
+Syracuse, Utah
+Population 30,301
+Median Income $90,778
+VC Rate 2020, 2019, 2018 0.8, 0.9, 0.4
+PC Rate 2020, 2019, 2018 7.8, 11.6, 10.9
+
+#5
+
+North Ogden
+
++6
+North Ogden, Utah
+Population 19,771
+Median Income $78,926
+VC Rate 2020, 2019, 2018 0.3, 0.6, 0.3
+PC Rate 2020, 2019, 2018 11.7, 13.7, 11.9
+
+#6
+
+Saratoga Springs
+
+-1
+Saratoga Springs, Utah
+Population 31,786
+Median Income $88,804
+VC Rate 2020, 2019, 2018 1.0, 0.5, 0.5
+PC Rate 2020, 2019, 2018 7.1, 7.8, 7.3
+
+#7
+
+Pleasant Grove
+
++7
+Pleasant Grove, Utah
+Population 39,641
+Median Income $66,881
+VC Rate 2020, 2019, 2018 0.7, 0.7, 0.3
+PC Rate 2020, 2019, 2018 10.7, 3.3, 6.5
+
+#8
+
+Farmington
+
+0
+Farmington, Utah
+Population 25,006
+Median Income $97,168
+VC Rate 2020, 2019, 2018 0.6, 0.6, 0.6
+PC Rate 2020, 2019, 2018 12.2, 13.5, 19.9
+
+#9
+
+Lehi
+
++9
+Lehi, Utah
+Population 65,125
+Median Income $85,794
+VC Rate 2020, 2019, 2018 0.9, 0.8, 1.3
+PC Rate 2020, 2019, 2018 10.7, 14.1, 12.6
+
+#10
+
+Clinton
+
++9
+Clinton, Utah
+Population 22,179
+Median Income $76,378
+VC Rate 2020, 2019, 2018 0.6, 0.8, 0.4
+PC Rate 2020, 2019, 2018 13.6, 16.6, 17.0
+
+#11
+
+Payson
+
+-7
+Payson, Utah
+Population 20,079
+Median Income $61,098
+VC Rate 2020, 2019, 2018 0.5, 0.4, 0.7
+PC Rate 2020, 2019, 2018 15.8, 18.5, 22.5
+
+#12
+
+American Fork/Cedar Hills
+
+0
+American Fork-Cedar Hills, Utah
+Population 40,366
+Median Income $66,687
+VC Rate 2020, 2019, 2018 0.5, 0.7, 0.6
+PC Rate 2020, 2019, 2018 17.4, 23.3, 22.0
+
+#13
+
+Bountiful
+
++10
+Bountiful, Utah
+Population 44,317
+Median Income $69,611
+VC Rate 2020, 2019, 2018 1.0, 1.1, 1.0
+PC Rate 2020, 2019, 2018 14.5, 15.9, 16.9
+
+#14
+
+Roy
+
++13
+Roy, Utah
+Population 38,834
+Median Income $66,333
+VC Rate 2020, 2019, 2018 1.4, 1.3, 1.1
+PC Rate 2020, 2019, 2018 13.2, 13.5, 18.4
+
+#15
+
+Orem
+
+-2
+Orem, Utah
+Population 99,221
+Median Income $58,077
+VC Rate 2020, 2019, 2018 0.7, 0.7, 0.7
+PC Rate 2020, 2019, 2018 18.4, 20.4, 25.6
+
+#16
+
+Springville
+
+-13
+Springville, Utah
+Population 33,824
+Median Income $63,724
+VC Rate 2020, 2019, 2018 0.7, 0.4, 0.9
+PC Rate 2020, 2019, 2018 18.5, 21.0, 20.3
+
+#17
+
+Hurricane
+
++7
+Hurricane, Utah
+Population 17,676
+Median Income $49,961
+VC Rate 2020, 2019, 2018 1.2, 1.1, 1.4
+PC Rate 2020, 2019, 2018 16.0, 15.9, 20.5
+
+#18
+
+Washington
+
++7
+Washington, Utah
+Population 27,705
+Median Income $56,697
+VC Rate 2020, 2019, 2018 1.3, 1.2, 1.6
+PC Rate 2020, 2019, 2018 17.2, 17.6, 20.2
+
+#19
+
+Logan
+
++2
+Population 51,508
+Median Income $38,412
+VC Rate 2020, 2019, 2018 1.4, 0.9, 1.0
+PC Rate 2020, 2019, 2018 16.5, 13.3, 16.6
+
+#20
+
+South Jordan
+
+-11
+South Jordan, Utah
+Population 74,321
+Median Income $99,856
+VC Rate 2020, 2019, 2018 1.0, 0.6, 0.8
+PC Rate 2020, 2019, 2018 19.6, 23.7, 22.0

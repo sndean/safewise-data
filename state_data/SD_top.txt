@@ -1,0 +1,108 @@
+
+
+#1
+
+Brandon
+
+0
+Brandon, South Dakota
+Population 10,107
+Median Income $80,727
+VC Rate 2020, 2019, 2018 1.1, 0.0, 0.0
+PC Rate 2020, 2019, 2018 5.3, 2.6, 3.8
+
+#2
+
+Lead
+
+New
+Lead, South Dakota map
+Population 2,957
+Median Income $43,730
+VC Rate 2020, 2019, 2018 2.0, 0.7, 0.3
+PC Rate 2020, 2019, 2018 3.7, 5.7, 5.0
+
+#3
+
+Summerset
+
+New
+Summerset, South Dakota map
+Population 2,690
+Median Income $80,139
+VC Rate 2020, 2019, 2018 0.4, 0.4, 0.0
+PC Rate 2020, 2019, 2018 14.1, 19.6, 8.6
+
+#4
+
+Sisseton
+
+New
+Population 2,395
+Median Income $38,500
+VC Rate 2020, 2019, 2018 0.8, 3.3, 1.2
+PC Rate 2020, 2019, 2018 12.9, 6.6, 4.1
+
+#5
+
+Madison
+
+-3
+Madison, South Dakota
+Population 7,441
+Median Income $50,439
+VC Rate 2020, 2019, 2018 1.3, 1.5, 0.5
+PC Rate 2020, 2019, 2018 11.0, 11.5, 10.3
+
+#6
+
+Beresford
+
+New
+Population 1,944
+Median Income $58,958
+VC Rate 2020, 2019, 2018 1.0, Not available, 2.0
+PC Rate 2020, 2019, 2018 13.4, Not available, 6.6
+
+#7
+
+Tea
+
+-2
+Tea, South Dakota
+Population 5,725
+Median Income $79,978
+VC Rate 2020, 2019, 2018 1.4, 1.7, 1.8
+PC Rate 2020, 2019, 2018 13.1, 13.7, 13.2
+
+#8
+
+Brookings
+
+-5
+Brookings, South Dakota
+Population 24,206
+Median Income $47,506
+VC Rate 2020, 2019, 2018 1.9, 1.5, 1.5
+PC Rate 2020, 2019, 2018 13.4, 13.0, 15.6
+
+#9
+
+North Sioux City
+
+New
+Population 2,821
+Median Income $52,417
+VC Rate 2020, 2019, 2018 0.4, 0.4, 0.0
+PC Rate 2020, 2019, 2018 20.9, 16.3, 18.8
+
+#10
+
+Hot Springs
+
+New
+Hot Springs, South Dakota
+Population 3,426
+Median Income $48,333
+VC Rate 2020, 2019, 2018 3.2, 0.6, 2.6
+PC Rate 2020, 2019, 2018 10.8, 23.7, 11.4

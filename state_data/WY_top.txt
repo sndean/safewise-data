@@ -1,0 +1,106 @@
+#1
+
+Green River
+
++7
+Green River, Wyonming
+Population 12,025
+Median Income $73,225
+VC Rate 2020, 2019, 2018 1.2, 1.6, 2.6
+PC Rate 2020, 2019, 2018 8.5, 9.9, 9.5
+
+#2
+
+Worland
+
+New
+Worland, Wyoming
+Population 5,148
+Median Income $49,191
+VC Rate 2020, 2019, 2018 0.4, 1.7, 1.1
+PC Rate 2020, 2019, 2018 13.4, 12.9, 11.6
+
+#3
+
+Laramie
+
++0
+Laramie, Wyoming
+Population 32,509
+Median Income $43,191
+VC Rate 2020, 2019, 2018 1.0, 0.9, 1.2
+PC Rate 2020, 2019, 2018 12.2, 13.8, 12.7
+
+#4
+
+Douglas
+
++7
+Population 6,386
+Median Income $58,577
+VC Rate 2020, 2019, 2018 1.7, 2.7, 6.0
+PC Rate 2020, 2019, 2018 11.4, 15.0, 17.8
+
+#5
+
+Sheridan
+
+-3
+Sheridan, Wyoming
+Population 17,919
+Median Income $52,666
+VC Rate 2020, 2019, 2018 0.9, 0.4, 0.9
+PC Rate 2020, 2019, 2018 17.5, 19.8, 20.2
+
+#6
+
+Evanston
+
++0
+Evanston, Wyoming
+Population 11,797
+Median Income $49,536
+VC Rate 2020, 2019, 2018 0.9, 1.3, 1.2
+PC Rate 2020, 2019, 2018 18.0, 20.2, 28.7
+
+#7
+
+Rock Springs
+
++9
+Population 23,405
+Median Income $74,542
+VC Rate 2020, 2019, 2018 1.8, 4.6, 3.3
+PC Rate 2020, 2019, 2018 13.4, 19.9, 20.3
+
+#8
+
+Cody
+
+-4
+Cody, Wyoming
+Population 9,935
+Median Income $56,356
+VC Rate 2020, 2019, 2018 2.3, 1.1, 1.1
+PC Rate 2020, 2019, 2018 14.7, 15.1, 22.5
+
+#9
+
+Gillette
+
+-4
+Gillette, Wyoming
+Population 30,659
+Median Income $74,348
+VC Rate 2020, 2019, 2018 1.8, 1.2, 1.9
+PC Rate 2020, 2019, 2018 21.8, 17.3, 21.3
+
+#10
+
+Powell
+
++5
+Population 6,458
+Median Income $50,872
+VC Rate 2020, 2019, 2018 2.6, 3.4, 2.0
+PC Rate 2020, 2019, 2018 17.5, 20.6, 23.4

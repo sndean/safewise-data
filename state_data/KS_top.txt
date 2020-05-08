@@ -1,0 +1,219 @@
+#1
+
+Hugoton
+
+NEW
+Hugoton, Kansas
+Population 3,816
+Median Income $54,615
+VC Rate 2020, 2019, 2018 0.5, Not available, 1.3
+PC Rate 2020, 2019, 2018 2.4, Not available, 4.3
+
+#2
+
+Scott City
+
++25
+Scott City, Kansas
+Population 3,854
+Median Income $57,690
+VC Rate 2020, 2019, 2018 1.6, 2.1, 1.8
+PC Rate 2020, 2019, 2018 7.5, 7.4, 9.4
+
+#3
+
+Valley Center
+
++10
+Valley Center, Kansas
+Population 7,370
+Median Income $65,083
+VC Rate 2020, 2019, 2018 0.8, 1.5, 1.8
+PC Rate 2020, 2019, 2018 11.3, 14.0, 14.0
+
+#4
+
+Tonganoxie
+
++27
+Tonganoxie, Kansas
+Population 5,508
+Median Income $66,705
+VC Rate 2020, 2019, 2018 1.1, 2.2, 1.9
+PC Rate 2020, 2019, 2018 10.7, 10.6, 18.9
+
+#5
+
+Hesston
+
+-4
+Hesston, Kansas
+Population 3,791
+Median Income $60,047
+VC Rate 2020, 2019, 2018 1.3, 0.3, 0.0
+PC Rate 2020, 2019, 2018 9.8, 12.1, 13.8
+
+#6
+
+Basehor
+
+-2
+Basehor, Kansas
+Population 6,239
+Median Income $77,755
+VC Rate 2020, 2019, 2018 1.1, 0.7, 1.1
+PC Rate 2020, 2019, 2018 10.9, 17.7, 10.8
+
+#7
+
+Ulysses
+
++23
+Ulysses, Kansas
+Population 5,878
+Median Income $57,027
+VC Rate 2020, 2019, 2018 1.7, 2.2, 0.7
+PC Rate 2020, 2019, 2018 8.2, 6.8, 9.0
+
+#8
+
+Leawood
+
+-3
+Leawood, Kansas
+Population 35,070
+Median Income $151,446
+VC Rate 2020, 2019, 2018 0.8, 0.9, 0.9
+PC Rate 2020, 2019, 2018 15.5, 12.5, 11.3
+
+#9
+
+Frontenac
+
+NEW
+Frontenac, Kansas
+Population 3,409
+Median Income $55,523
+VC Rate 2020, 2019, 2018 0.9, 0.6, 2.9
+PC Rate 2020, 2019, 2018 15.8, 19.1, 21.1
+
+#10
+
+Rose Hill
+
+-8
+Rose Hill, Kansas
+Population 3,986
+Median Income $75,000
+VC Rate 2020, 2019, 2018 1.3, 0.5, Not available
+PC Rate 2020, 2019, 2018 14.6, 11.2, Not available
+
+#11
+
+Emporia
+
++11
+Emporia, Kansas
+Population 24,698
+Median Income $37,676
+VC Rate 2020, 2019, 2018 1.1, 1.9, 1.4
+PC Rate 2020, 2019, 2018 17.4, 28.3, 23.4
+
+#12
+
+Beloit
+
+-2
+Beloit, Kansas
+Population 3,695
+Median Income $41,570
+VC Rate 2020, 2019, 2018 2.4, 1.3, 1.1
+PC Rate 2020, 2019, 2018 11.4, 11.2, 15.9
+
+#13
+
+Lansing
+
++20
+Lansing, Kansas
+Population 12,043
+Median Income $84,183
+VC Rate 2020, 2019, 2018 2.5, 2.3, 1.8
+PC Rate 2020, 2019, 2018 11.3, 11.3, 10.5
+
+#14
+
+Marysville
+
+NEW
+Marysville, Kansas
+Population 3,268
+Median Income $44,519
+VC Rate 2020, 2019, 2018 1.5, 3.9, 2.4
+PC Rate 2020, 2019, 2018 16.2, 34.6, 22.5
+
+#15
+
+Bel Aire
+
+0
+Bel Aire, Kansas
+Population 8,092
+Median Income $77,242
+VC Rate 2020, 2019, 2018 1.0, 1.7, 0.8
+PC Rate 2020, 2019, 2018 19.3, 7.0, 7.7
+
+#16
+
+Olathe
+
++4
+Olathe, Kansas
+Population 139,154
+Median Income $82,649
+VC Rate 2020, 2019, 2018 2.2, 1.9, 1.6
+PC Rate 2020, 2019, 2018 14.1, 14.3, 15.6
+
+#17
+
+Osawatomie
+
+NEW
+Osawatomie, Kansas
+Population 4,278
+Median Income $50,789
+VC Rate 2020, 2019, 2018 1.6, 1.6, 5.2
+PC Rate 2020, 2019, 2018 16.8, 16.1, 25.5
+
+#18
+
+Lenexa
+
+-2
+Lenexa, Kansas
+Population 54,349
+Median Income $81,173
+VC Rate 2020, 2019, 2018 2.0, 1.7, 1.3
+PC Rate 2020, 2019, 2018 15.4, 17.5, 17.3
+
+#19
+
+Gardner
+
++4
+Gardner, Kansas
+Population 21,945
+Median Income $71,945
+VC Rate 2020, 2019, 2018 2.6, 1.9, Not available
+PC Rate 2020, 2019, 2018 14.0, 14.2, Not available
+
+#20
+
+Abilene
+
+-14
+Abilene, Kansas
+Population 6,315
+Median Income $47,731
+VC Rate 2020, 2019, 2018 2.2, 1.1, 1.2
+PC Rate 2020, 2019, 2018 15.7, 14.8, 19.4

@@ -1,0 +1,213 @@
+
+
+#1
+
+Luzerne Township
+
+New
+Luzerne Township, Pennsylvania
+Population 5,940
+Median Income $47,966
+VC Rate 2020, 2019, 2018 0.0, 0.0, Not available
+PC Rate 2020, 2019, 2018 0.0, 0.0, Not available
+
+#2
+
+Scott Township, Lackawanna County
+
+New
+Scott Township, Lackawanna County, Pennsylvania
+Population 4,753
+Median Income $50,357
+VC Rate 2020, 2019, 2018 0.2, Not available, Not available
+PC Rate 2020, 2019, 2018 0.0, Not available, Not available
+
+#3
+
+Cornwall
+
+New
+Population 4,326
+Median Income $80,391
+VC Rate 2020, 2019, 2018 0.5, 0.2, 0.2
+PC Rate 2020, 2019, 2018 0.0, 0.0, 0.5
+
+#4
+
+Adams Township, Cambria County
+
+New
+Population 5,581
+Median Income 50,938
+VC Rate 2020, 2019, 2018 0.0, Not available, Not available
+PC Rate 2020, 2019, 2018 2.0, Not available, Not available
+
+#5
+
+East Marlborough Township
+
+New
+Population 7,416
+Median Income $105,122
+VC Rate 2020, 2019, 2018 0.0, 0.0, 0.0
+PC Rate 2020, 2019, 2018 2.0, 2.2, 5.2
+
+#6
+
+Upper Yoder Township
+
+New
+Upper Yoder Township, Pennsylvania
+Population 5,093
+Median Income $64,172
+VC Rate 2020, 2019, 2018 0.4, 0.4, Not available
+PC Rate 2020, 2019, 2018 0.8, 1.0, Not available
+
+#7
+
+Reading Township
+
+New
+Population 5,837
+Median Income $193,600
+VC Rate 2020, 2019, 2018 0.3, 0.5, Not available
+PC Rate 2020, 2019, 2018 1.0, 2.1, Not available
+
+#8
+
+Jackson Township, Luzerne County
+
+New
+Population 4,631
+Median Income $87,212
+VC Rate 2020, 2019, 2018 0.2, Not available, Not available
+PC Rate 2020, 2019, 2018 1.5, Not available, Not available
+
+#9
+
+Fox Chapel
+
+New
+Fox Chapel, Pennsylvania
+Population 5,297
+Median Income $168,274
+VC Rate 2020, 2019, 2018 0.0, 0.2, 0.2
+PC Rate 2020, 2019, 2018 2.5, 2.6, 6.3
+
+#10
+
+South Park Township
+
+New
+South Park Township, Pennsylvania
+Population 13,332
+Median Income $71,203
+VC Rate 2020, 2019, 2018 0.2, 0.4, Not available
+PC Rate 2020, 2019, 2018 1.7, 2.0, Not available
+
+#11
+
+South Heidelberg Township
+
+New
+South Heidelberg Township, Pennsylvania
+Population 7,378
+Median Income $83,390
+VC Rate 2020, 2019, 2018 0.3, 0.3, Not available
+PC Rate 2020, 2019, 2018 1.9, 11.4, Not available
+
+#12
+
+Butler Township, Schuykill County
+
+New
+Butler Township, Schuylkill County, Pennsylvania
+Population 5,625
+Median Income $56,378
+VC Rate 2020, 2019, 2018 0.0, Not available, Not available
+PC Rate 2020, 2019, 2018 2.8, Not available, Not available
+
+#13
+
+Upper Providence Township, Delaware County
+
+New
+Upper Providence Township, Delaware County, Pennsylvania
+Population 10,478
+Median Income $107,311
+VC Rate 2020, 2019, 2018 0.4, Not available, Not available
+PC Rate 2020, 2019, 2018 1.7, Not available, Not available
+
+#14
+
+Kiskiminetas Township
+
+New
+Kiskiminetas Township, Pennsylvania
+Population 4,496
+Median Income $50,717
+VC Rate 2020, 2019, 2018 0.2, 0.7, 0.7
+PC Rate 2020, 2019, 2018 2.4, 1.5, 3.9
+
+#15
+
+Spring Township, Centre County
+
+New
+Spring Township, Centre County, Pennsylvania
+Population 7,905
+Median Income $53,891
+VC Rate 2020, 2019, 2018 0.4, Not available, Not available
+PC Rate 2020, 2019, 2018 2.0, Not available, Not available
+
+#16
+
+Bedminster Township
+
+New
+Population 7,241
+Median Income $76,333
+VC Rate 2020, 2019, 2018 0.4, 0.3, 0.3
+PC Rate 2020, 2019, 2018 2.1, 4.4, 4.1
+
+#17
+
+Indiana Township
+
+New
+Population 7,195
+Median Income $85,286
+VC Rate 2020, 2019, 2018 0.4, 0.3, 0.0
+PC Rate 2020, 2019, 2018 2.1, 3.5, 4.8
+
+#18
+
+Willistown Township
+
+New
+Willistown Township, Pennsylvania
+Population 10,983
+Median Income $101,627
+VC Rate 2020, 2019, 2018 0.3, 0.0, Not available
+PC Rate 2020, 2019, 2018 2.6, 4.1, Not available
+
+#19
+
+Buckingham Township
+
+New
+Population 20,311
+Median Income $119,620
+VC Rate 2020, 2019, 2018 0.0, 0.0, 0.1
+PC Rate 2020, 2019, 2018 3.4, 4.4, 4.5
+
+#20
+
+Franklin Park
+
+New
+Franklin Park, Pennsylvania
+Population 14,706
+Median Income $116,378
+VC Rate 2020, 2019, 2018 0.2, 0.1, 0.1
+PC Rate 2020, 2019, 2018 2.9, 3.5, 5.2

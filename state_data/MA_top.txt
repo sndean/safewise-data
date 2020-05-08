@@ -1,0 +1,219 @@
+
+
+#1
+
+Hopkinton
+
+0
+Hopkinton, Massachusetts
+Population 18,516
+Median Income $113,354
+VC Rate 2020, 2019, 2018 0.1, 0.0, 0.1
+PC Rate 2020, 2019, 2018 1.6, 3.4, 3.8
+
+#2
+
+Franklin
+
++3
+Franklin, Massachusetts
+Population 33,156
+Median Income $101,980
+VC Rate 2020, 2019, 2018 0.2, 0.3, 0.0
+PC Rate 2020, 2019, 2018 2.6, 2.2, 2.9
+
+#3
+
+Shrewsbury
+
+0
+Shrewsbury, Massachusetts
+Population 37,631
+Median Income $97,365
+VC Rate 2020, 2019, 2018 0.1, 0.1, 0.1
+PC Rate 2020, 2019, 2018 3.0, 3.5, 4.8
+
+#4
+
+Milton
+
++16
+Milton, Massachusetts
+Population 27,642
+Median Income $126,000
+VC Rate 2020, 2019, 2018 0.4, 0.5, 0.3
+PC Rate 2020, 2019, 2018 2.2, 7.8, 8.2
+
+#5
+
+Norton
+
+-3
+Norton, Massachusetts
+Population 19,983
+Median Income $80,806
+VC Rate 2020, 2019, 2018 0.7, 0.1, 0.5
+PC Rate 2020, 2019, 2018 1.2, 0.9, 1.7
+
+#6
+
+Lexington
+
+New
+Lexington, Massachusetts
+Population 34,050
+Median Income $162,083
+VC Rate 2020, 2019, 2018 0.2, Not available, 0.7
+PC Rate 2020, 2019, 2018 3.3, Not available, 3.9
+
+#7
+
+Westford
+
++3
+Westford, Massachusetts
+Population 24,649
+Median Income $125,143
+VC Rate 2020, 2019, 2018 0.5, 0.4, 0.9
+PC Rate 2020, 2019, 2018 2.6, 3.1, 3.7
+
+#8
+
+Andover
+
++66
+Population 36,324
+Median Income $83,910
+VC Rate 2020, 2019, 2018 0.2, 2.0, 0.6
+PC Rate 2020, 2019, 2018 4.8, 8.0, 6.1
+
+#9
+
+Sharon
+
++19
+Sharon, Massachusetts
+Population 18,373
+Median Income $128,275
+VC Rate 2020, 2019, 2018 0.7, 0.8, 0.8
+PC Rate 2020, 2019, 2018 2.8, 2.4, 3.4
+
+#10
+
+Wellesley
+
++4
+Wellesley, Massachusetts
+Population 29,681
+Median Income $176,852
+VC Rate 2020, 2019, 2018 0.4, 0.4, 0.4
+PC Rate 2020, 2019, 2018 4.2, 4.5, 5.5
+
+#11
+
+Holliston
+
++7
+Holliston, Massachusetts
+Population 14,924
+Median Income $108,350
+VC Rate 2020, 2019, 2018 0.8, 0.5, 0.7
+PC Rate 2020, 2019, 2018 2.7, 2.0, 3.8
+
+#12
+
+Winchester
+
+0
+Winchester, Massachusetts
+Population 23,036
+Median Income $152,196
+VC Rate 2020, 2019, 2018 0.3, 0.4, 0.2
+PC Rate 2020, 2019, 2018 4.9, 5.2, 7.4
+
+#13
+
+Bedford
+
++11
+Population 14,319
+Median Income $114,676
+VC Rate 2020, 2019, 2018 0.5, 0.6, 0.4
+PC Rate 2020, 2019, 2018 4.1, 4.0, 3.4
+
+#14
+
+Reading
+
+-7
+Reading, Massachusetts
+Population 26,293
+Median Income $114,354
+VC Rate 2020, 2019, 2018 0.2, 0.3, 0.4
+PC Rate 2020, 2019, 2018 5.5, 6.0, 6.8
+
+#15
+
+Scituate
+
+New
+Scituate, Massachusetts
+Population 18,761
+Median Income $117,973
+VC Rate 2020, 2019, 2018 0.8, Not available, Not available
+PC Rate 2020, 2019, 2018 3.4, Not available, Not available
+
+#16
+
+Needham
+
+-10
+Needham, Massachusetts
+Population 31,264
+Median Income $141,690
+VC Rate 2020, 2019, 2018 0.5, 0.3, 0.2
+PC Rate 2020, 2019, 2018 4.6, 6.2, 5.8
+
+#17
+
+North Reading
+
++39
+North Reading, Massachusetts
+Population 15,849
+Median Income $112,419
+VC Rate 2020, 2019, 2018 1.0, 1.5, 1.3
+PC Rate 2020, 2019, 2018 2.8, 4.1, 3.8
+
+#18
+
+Belmont
+
+-3
+Belmont, Massachusetts
+Population 26,700
+Median Income $118,370
+VC Rate 2020, 2019, 2018 0.2, 0.5, 0.5
+PC Rate 2020, 2019, 2018 6.3, 7.9, 6.9
+
+#19
+
+Arlington
+
++11
+Arlington, Massachusetts
+Population 45,876
+Median Income $103,594
+VC Rate 2020, 2019, 2018 0.7, 0.8, 1.2
+PC Rate 2020, 2019, 2018 4.2, 5.7, 5.1
+
+#20
+
+Billerica
+
++15
+Billerica, Massachusetts
+Population 44,482
+Median Income $94,761
+VC Rate 2020, 2019, 2018 0.8, 0.9, 1.0
+PC Rate 2020, 2019, 2018 3.8, 5.7, 4.7

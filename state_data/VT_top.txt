@@ -1,0 +1,111 @@
+
+
+#1
+
+Castleton
+
+New
+Castleton, Vermont
+Population 4,995
+Median Income $19,458
+VC Rate 2020, 2019, 2018 0.0, Not available, Not available
+PC Rate 2020, 2019, 2018 0.0, Not available, Not available
+
+#2
+
+Hinesburg
+
+New
+Hinesburg, Vermont
+Population 4,577
+Median Income $51,339
+VC Rate 2020, 2019, 2018 0.7, 0.2, Not available
+PC Rate 2020, 2019, 2018 3.9, 3.1, Not available
+
+#3
+
+Shelburne
+
++2
+Shelburne, Vermont
+Population 7,817
+Median Income $81,130
+VC Rate 2020, 2019, 2018 0.4, 0.1, 0.3
+PC Rate 2020, 2019, 2018 6.1, 5.7, 7.1
+
+#4
+
+Barre Town
+
++5
+Barre Town, Vermont
+Population 7,693
+Median Income $64,800
+VC Rate 2020, 2019, 2018 1.0, 1.3, 0.9
+PC Rate 2020, 2019, 2018 5.7, 11.8, 13.2
+
+#5
+
+Middlebury
+
+-3
+Middlebury, Vermont
+Population 8,613
+Median Income $46,976
+VC Rate 2020, 2019, 2018 0.6, 0.5, 0.2
+PC Rate 2020, 2019, 2018 11.1, 10.1, 13.3
+
+#6
+
+Swanton
+
++1
+Swanton, Vermont
+Population 6,560
+Median Income $48,661
+VC Rate 2020, 2019, 2018 1.2, 0.9, Not available
+PC Rate 2020, 2019, 2018 8.4, 2.8, Not available
+
+#7
+
+Essex
+
+-2
+Essex, Vermont
+Population 21,803
+Median Income $73,530
+VC Rate 2020, 2019, 2018 0.6, 0.8, 0.4
+PC Rate 2020, 2019, 2018 13.6, 12.0, 15.8
+
+#8
+
+Colchester
+
++2
+Colchester, Vermont
+Population 17,313
+Median Income $68,440
+VC Rate 2020, 2019, 2018 0.9, 1.4, 1.1
+PC Rate 2020, 2019, 2018 11.3, 17.2, 18.5
+
+#9
+
+Milton
+
+-5
+Milton, Vermont
+Population 11,024
+Median Income $52,031
+VC Rate 2020, 2019, 2018 1.5, 0.7, 0.6
+PC Rate 2020, 2019, 2018 9.4, 9.0, 9.0
+
+#10
+
+Morristown
+
+-2
+Morristown, Vermont
+Population 5,450
+Median Income $43,111
+VC Rate 2020, 2019, 2018 1.1, 1.1, 0.7
+PC Rate 2020, 2019, 2018 13.4, 13.0, 9.2

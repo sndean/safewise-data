@@ -1,0 +1,214 @@
+#1
+
+Oconomowoc Town
+
++23
+Oconomowoc, Wisconsin
+Population 8,692
+Median Income $89,932
+VC Rate 2020, 2019, 2018 0.1, 0.3, 0.2
+PC Rate 2020, 2019, 2018 1.2, 1.5, 1.6
+
+#2
+
+Mukwonago Town
+
++33
+Mukwonago Town, Wisconsin
+Population 8,146
+Median Income $97,658
+VC Rate 2020, 2019, 2018 0.4, 0.6, 0.9
+PC Rate 2020, 2019, 2018 0.9, 1.5, 3.6
+
+#3
+
+Bayside
+
+0
+Bayside, Wisconsin
+Population 4,375
+Median Income $99,125
+VC Rate 2020, 2019, 2018 0.0, 0.0, 0.0
+PC Rate 2020, 2019, 2018 4.3, 10.5, 5.0
+
+#4
+
+Geneva Town
+
++6
+Geneva Town, Wisconsin
+Population 5,032
+Median Income $69,409
+VC Rate 2020, 2019, 2018 0.0, 0.2, 0.2
+PC Rate 2020, 2019, 2018 4.6, 5.5, 12.3
+
+#5
+
+Town of East Troy
+
++10
+Town of East Troy, Wisconsin
+Population 4,058
+Median Income $71,324
+VC Rate 2020, 2019, 2018 0.5, 0.2, 1.5
+PC Rate 2020, 2019, 2018 2.7, 2.4, 5.6
+
+#6
+
+Cedarburg
+
+-2
+Cedarburg, Wisconsin
+Population 11,469
+Median Income $82,198
+VC Rate 2020, 2019, 2018 0.3, 0.1, 0.2
+PC Rate 2020, 2019, 2018 4.7, 6.2, 7.1
+
+#7
+
+Hobart-Lawrence
+
++23
+Population 14,667
+Median Income $86,481
+VC Rate 2020, 2019, 2018 0.5, 0.5, 0.1
+PC Rate 2020, 2019, 2018 4.7, 3.7, 4.4
+
+#8
+
+Muskego
+
++5
+Muskego, Wisconsin
+Population 25,118
+Median Income $86,588
+VC Rate 2020, 2019, 2018 0.4, 0.2, 0.2
+PC Rate 2020, 2019, 2018 5.7, 7.7, 7.5
+
+#9
+
+Delavan Town
+
++80
+Delavan Town, Wisconsin
+Population 5,322
+Median Income $54,293
+VC Rate 2020, 2019, 2018 0.2, 1.3, 0.7
+PC Rate 2020, 2019, 2018 7.0, 8.8, 8.2
+
+#10
+
+Grand Rapids
+
+-9
+Grand Rapids, Wisconsin
+Population 7,385
+Median Income $39,913
+VC Rate 2020, 2019, 2018 0.3, 0.0, 0.1
+PC Rate 2020, 2019, 2018 6.6, 5.7, 9.9
+
+#11
+
+Kewaskum
+
++3
+Kewaskum, Wisconsin
+Population 4,139
+Median Income $63,000
+VC Rate 2020, 2019, 2018 0.2, 0.2, 0.2
+PC Rate 2020, 2019, 2018 7.0, 12.4, 9.2
+
+#12
+
+Hartland
+
++27
+Population 9,302
+Median Income 74,707
+VC Rate 2020, 2019, 2018 0.3, 0.7, 0.1
+PC Rate 2020, 2019, 2018 6.6, 10.4, 6.0
+
+#13
+
+Fox Valley Metro
+
++21
+Fox Valley Metro, Wisconsin
+Population 22,006
+Median Income Not available
+VC Rate 2020, 2019, 2018 0.7, 0.6, 0.7
+PC Rate 2020, 2019, 2018 3.7, 5.7, 8.4
+
+#14
+
+Cross Plains
+
+-2
+Cross Plains, Wisconsin
+Population 4,331
+Median Income $82,188
+VC Rate 2020, 2019, 2018 0.5, 0.2, 1.0
+PC Rate 2020, 2019, 2018 5.8, 12.5, 7.9
+
+#15
+
+Sturtevant
+
++4
+Sturtevant, Wisconsin
+Population 6,966
+Median Income $65,262
+VC Rate 2020, 2019, 2018 0.4, 0.3, 0.3
+PC Rate 2020, 2019, 2018 6.0, 5.8, 6.5
+
+#16
+
+Cottage Grove
+
++48
+Population 7,024
+Median Income $91,698
+VC Rate 2020, 2019, 2018 0.9, 1.0, 0.6
+PC Rate 2020, 2019, 2018 3.0, 5.2, 8.8
+
+#17
+
+Evansville
+
+-8
+Evansville, Wisconsin
+Population 5,379
+Median Income $58,870
+VC Rate 2020, 2019, 2018 0.4, 0.2, 0.6
+PC Rate 2020, 2019, 2018 7.4, 8.1, 10.8
+
+#18
+
+Oconomowoc
+
++3
+Oconomowoc, Wisconsin
+Population 16,850
+Median Income $74,675
+VC Rate 2020, 2019, 2018 0.4, 0.3, Not available
+PC Rate 2020, 2019, 2018 7.9, 10.4, Not available
+
+#19
+
+Twin Lakes
+
++44
+Population 6,077
+Median Income $63,030
+VC Rate 2020, 2019, 2018 1.0, 1.0, 1.3
+PC Rate 2020, 2019, 2018 4.1, 10.3, 10.1
+
+#20
+
+West Salem
+
++82
+Population 5,055
+Median Income $57,500
+VC Rate 2020, 2019, 2018 1.0, 1.6, 1.0
+PC Rate 2020, 2019, 2018 4.2, 5.8, 12.3

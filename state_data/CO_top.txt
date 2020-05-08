@@ -1,0 +1,219 @@
+#1
+
+Windsor
+
++2
+Windsor, Colorado
+Population 26,441
+Median Income $90,699
+VC Rate 2020, 2019, 2018 0.2, 0.2, 0.1
+PC Rate 2020, 2019, 2018 6.2, 11.4, 10.7
+
+#2
+
+Milliken
+
++29
+Milliken, Colorado
+Population 7,238
+Median Income $77,840
+VC Rate 2020, 2019, 2018 0.4, 2.3, 0.5
+PC Rate 2020, 2019, 2018 4.8, 6.1, 6.3
+
+#3
+
+Fort Lupton
+
++15
+Fort Lupton, Colorado
+Population 8,273
+Median Income $55,887
+VC Rate 2020, 2019, 2018 0.5, 1.1, 1.9
+PC Rate 2020, 2019, 2018 9.4, 11.3, 12.8
+
+#4
+
+Carbondale
+
++31
+Carbondale, Colorado
+Population 6,882
+Median Income $68,217
+VC Rate 2020, 2019, 2018 1.0, 2.5, 2.1
+PC Rate 2020, 2019, 2018 8.3, 15.8, 11.0
+
+#5
+
+Johnstown
+
+-3
+Johnstown, Colorado
+Population 16,490
+Median Income $85,339
+VC Rate 2020, 2019, 2018 0.5, 0.2, 0.8
+PC Rate 2020, 2019, 2018 13.5, 10.3, 7.1
+
+#6
+
+Erie
+
++1
+Erie, Colorado
+Population 25,233
+Median Income $113,304
+VC Rate 2020, 2019, 2018 1.0, 0.5, 0.5
+PC Rate 2020, 2019, 2018 10.2, 8.5, 6.1
+
+#7
+
+Firestone
+
++2
+Firestone, Colorado
+Population 14,419
+Median Income $94,545
+VC Rate 2020, 2019, 2018 1.2, 0.7, 0.5
+PC Rate 2020, 2019, 2018 8.5, 8.9, 10.2
+
+#8
+
+Castle Rock
+
++5
+Castle Rock, Colorado
+Population 64,526
+Median Income $101,122
+VC Rate 2020, 2019, 2018 0.6, 0.9, 0.9
+PC Rate 2020, 2019, 2018 15.0, 16.3, 15.4
+
+#9
+
+Parker
+
++12
+Parker, Colorado
+Population 55,573
+Median Income $105,373
+VC Rate 2020, 2019, 2018 1.0, 1.5, 0.9
+PC Rate 2020, 2019, 2018 14.1, 15.0, 11.7
+
+#10
+
+Estes Park
+
++28
+Estes Park, Colorado
+Population 6,399
+Median Income $53,025
+VC Rate 2020, 2019, 2018 2.2, 3.0, 0.9
+PC Rate 2020, 2019, 2018 7.3, 9.2, 11.4
+
+#11
+
+Salida
+
++28
+Salida, Colorado
+Population 5,951
+Median Income $39,741
+VC Rate 2020, 2019, 2018 1.0, 0.9, 1.3
+PC Rate 2020, 2019, 2018 20.3, 30.3, 33.7
+
+#12
+
+Steamboat Springs
+
++13
+Steamboat Springs, Colorado
+Population 13,100
+Median Income $63,393
+VC Rate 2020, 2019, 2018 1.3, 1.7, 2.5
+PC Rate 2020, 2019, 2018 20.2, 23.0, 23.9
+
+#13
+
+Centennial
+
+NEW
+Centennial, Colorado
+Population 111,646
+Median Income $100,770
+VC Rate 2020, 2019, 2018 1.8, Not available, Not available
+PC Rate 2020, 2019, 2018 17.5, Not available, Not available
+
+#14
+
+Broomfield
+
++5
+Broomfield, Colorado
+Population 70,307
+Median Income $85,639
+VC Rate 2020, 2019, 2018 1.2, 1.2, 0.5
+PC Rate 2020, 2019, 2018 24.3, 26.3, 24.0
+
+#15
+
+Fruita
+
++12
+Fruita, Colorado
+Population 13,390
+Median Income $55,286
+VC Rate 2020, 2019, 2018 2.2, 1.9, 1.2
+PC Rate 2020, 2019, 2018 16.2, 13.3, 14.3
+
+#16
+
+Woodland Park
+
++33
+Woodland Park, Colorado
+Population 7,709
+Median Income $69,507
+VC Rate 2020, 2019, 2018 2.1, 2.4, 2.4
+PC Rate 2020, 2019, 2018 18.5, 24.4, 19.9
+
+#17
+
+Littleton
+
+-3
+Littleton, Colorado
+Population 48,632
+Median Income $71,315
+VC Rate 2020, 2019, 2018 0.9, 1.0, 1.0
+PC Rate 2020, 2019, 2018 32.1, 30.3, 27.4
+
+#18
+
+Fort Collins
+
++10
+Fort Collins, Colorado
+Population 168,163
+Median Income $60,110
+VC Rate 2020, 2019, 2018 2.3, 2.2, 2.1
+PC Rate 2020, 2019, 2018 22.0, 25.4, 24.5
+
+#19
+
+Lafayette
+
++11
+Lafayette, Colorado
+Population 28,914
+Median Income $76,059
+VC Rate 2020, 2019, 2018 2.1, 2.3, 3.1
+PC Rate 2020, 2019, 2018 24.6, 24.6, 22.4
+
+#20
+
+Eagle
+
+0
+Eagle, Colorado
+Population 6,921
+Median Income $118,630
+VC Rate 2020, 2019, 2018 3.6, 1.5, 0.6
+PC Rate 2020, 2019, 2018 12.1, 13.9, 8.2

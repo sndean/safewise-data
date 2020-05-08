@@ -1,0 +1,221 @@
+
+
+#1
+
+Greenville
+
++11
+Greenville, Kentucky
+Population 4,239
+Median Income $27,415
+VC Rate 2020, 2019, 2018 0.2, 0.5, 0.7
+PC Rate 2020, 2019, 2018 4.5, 6.7, 5.5
+
+#2
+
+Columbia
+
++23
+Columbia, Kentucky
+Population 4,927
+Median Income $26,675
+VC Rate 2020, 2019, 2018 0.4, 0.8, 0.6
+PC Rate 2020, 2019, 2018 2.6, 3.4, 2.8
+
+#3
+
+Fort Thomas
+
++11
+Fort Thomas, Kentucky
+Population 16,274
+Median Income $71,956
+VC Rate 2020, 2019, 2018 0.4, 0.5, 0.1
+PC Rate 2020, 2019, 2018 4.2, 7.0, 5.5
+
+#4
+
+Villa Hills
+
++4
+Villa Hills, Kentucky
+Population 7,455
+Median Income $85,230
+VC Rate 2020, 2019, 2018 0.3, 0.3, 0.3
+PC Rate 2020, 2019, 2018 5.5, 5.2, 3.7
+
+#5
+
+Prospect
+
+-3
+Prospect, Kentucky
+Population 4,956
+Median Income $113,711
+VC Rate 2020, 2019, 2018 0.2, 0.0, 0.0
+PC Rate 2020, 2019, 2018 8.3, 9.8, 11.2
+
+#6
+
+Highland Heights
+
++26
+Highland Heights, Kentucky
+Population 7,112
+Median Income $51,705
+VC Rate 2020, 2019, 2018 0.3, 1.0, 0.7
+PC Rate 2020, 2019, 2018 9.3, 8.1, 7.3
+
+#7
+
+Flatwoods
+
++10
+Flatwoods, Kentucky
+Population 7,136
+Median Income $49,006
+VC Rate 2020, 2019, 2018 0.8, 0.5, 0.1
+PC Rate 2020, 2019, 2018 3.4, 4.7, 2.3
+
+#8
+
+Fort Mitchell
+
++13
+Fort Mitchell, Kentucky
+Population 8,260
+Median Income $64,229
+VC Rate 2020, 2019, 2018 0.5, 0.7, 0.8
+PC Rate 2020, 2019, 2018 7.5, 10.8, 10.1
+
+#9
+
+Taylor Mill
+
++2
+Taylor Mill, Kentucky
+Population 6,781
+Median Income $62,154
+VC Rate 2020, 2019, 2018 0.6, 0.4, 0.7
+PC Rate 2020, 2019, 2018 7.5, 10.2, 6.3
+
+#10
+
+Edgewood
+
+-6
+Edgewood, Kentucky
+Population 8,736
+Median Income $93,958
+VC Rate 2020, 2019, 2018 0.7, 0.1, 0.0
+PC Rate 2020, 2019, 2018 7.0, 9.1, 8.7
+
+#11
+
+Independence
+
+-3
+Idependence, Kentucky
+Population 28,052
+Median Income $75,647
+VC Rate 2020, 2019, 2018 0.8, 0.9, 0.7
+PC Rate 2020, 2019, 2018 5.5, 5.4, 5.7
+
+#12
+
+Prestonsburg
+
+NEW
+Prestonsburg, Kentucky
+Population 3,404
+Median Income $23,068
+VC Rate 2020, 2019, 2018 0.6, 3.1, 1.8
+PC Rate 2020, 2019, 2018 8.2, 12.5, 15.3
+
+#13
+
+Carrollton
+
++9
+Carrollton, Kentucky
+Population 3,820
+Median Income $46,080
+VC Rate 2020, 2019, 2018 0.5, 0.8, 1.3
+PC Rate 2020, 2019, 2018 9.4, 14.2, 17.0
+
+#14
+
+Harrodsburg
+
++34
+Harrodsburg, Kentucky
+Population 8,399
+Median Income $33,449
+VC Rate 2020, 2019, 2018 0.4, 1.8, 1.7
+PC Rate 2020, 2019, 2018 11.4, 16.7, 21.8
+
+#15
+
+Central City
+
+-10
+Central City, Kentucky
+Population 5,746
+Median Income $36,100
+VC Rate 2020, 2019, 2018 0.5, 0.2, 0.2
+PC Rate 2020, 2019, 2018 9.7, 12.2, 14.3
+
+#16
+
+Wilmore
+
+-3
+Wilmore, Kentucky
+Population 6,406
+Median Income $46,833
+VC Rate 2020, 2019, 2018 0.6, 0.5, 0.2
+PC Rate 2020, 2019, 2018 8.7, 22.6, 16.0
+
+#17
+
+Alexandria
+
+-11
+Alexandria, Kentucky
+Population 9,583
+Median Income $72,721
+VC Rate 2020, 2019, 2018 0.1, 0.2, 0.4
+PC Rate 2020, 2019, 2018 15.0, 16.8, 15.3
+
+#18
+
+Stanford
+
+NEW
+Stanford, Kentucky
+Population 3,617
+Median Income $29,167
+VC Rate 2020, 2019, 2018 0.6, 0.5, 0.8
+PC Rate 2020, 2019, 2018 10.0, 10.4, 9.5
+
+#19
+
+Lawrenceburg
+
++5
+Lawrenceburg, Kentucky
+Population 11,378
+Median Income $48,750
+VC Rate 2020, 2019, 2018 0.4, 0.8, 1.3
+PC Rate 2020, 2019, 2018 12.5, 11.1, 8.7
+
+#20
+
+Mount Washington
+
+-2
+Mount Washington, Kentucky
+Population 14,704
+Median Income $63,894
+VC Rate 2020, 2019, 2018 0.8, 0.6, 0.8
+PC Rate 2020, 2019, 2018 8.9, 8.8, 14.6

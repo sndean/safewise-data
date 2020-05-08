@@ -1,0 +1,109 @@
+
+
+#1
+
+Cumberland
+
+0
+Cumberland, Maine
+Population 8,274
+Median Income $102,300
+VC Rate 2020, 2019, 2018 0.2, 0.0, Not available
+PC Rate 2020, 2019, 2018 2.1, 3.0, Not available
+
+#2
+
+Cape Elizabeth
+
++1
+Cape Elizabeth, Maine
+Population 9,358
+Median Income $98,438
+VC Rate 2020, 2019, 2018 0.1, 0.1, Not available
+PC Rate 2020, 2019, 2018 4.6, 4.4, Not available
+
+#3
+
+Sabattus
+
++22
+Population 5,057
+Median Income $50,146
+VC Rate 2020, 2019, 2018 0.2, 1.0, Not available
+PC Rate 2020, 2019, 2018 3.6, 6.9, Not available
+
+#4
+
+Eliot
+
++24
+Eliot, Maine
+Population 6,651
+Median Income $79,403
+VC Rate 2020, 2019, 2018 0.0, 1.1, Not available
+PC Rate 2020, 2019, 2018 7.1, 2.6, Not available
+
+#5
+
+Yarmouth
+
++9
+Population 8,510
+Median Income $66,683
+VC Rate 2020, 2019, 2018 0.4, 0.7, Not available
+PC Rate 2020, 2019, 2018 3.8, 7.1, Not available
+
+#6
+
+Gorham
+
++7
+Gorham, Maine
+Population 17,609
+Median Income $66,895
+VC Rate 2020, 2019, 2018 0.2, 0.6, Not available
+PC Rate 2020, 2019, 2018 5.3, 6.3, Not available
+
+#7
+
+Hampden
+
+-5
+Hampden, Maine
+Population 7,336
+Median Income $90,406
+VC Rate 2020, 2019, 2018 0.3, 0.0, Not available
+PC Rate 2020, 2019, 2018 6.1, 7.3, Not available
+
+#8
+
+Kennebunk
+
++4
+Kennebunk
+Population 11,463
+Median Income $57,488
+VC Rate 2020, 2019, 2018 0.5, 0.6, Not available
+PC Rate 2020, 2019, 2018 4.4, 4.0, Not available
+
+#9
+
+Gardiner
+
+-3
+Gardiner, Maine
+Population 5,673
+Median Income $47,475
+VC Rate 2020, 2019, 2018 0.2, 0.4, Not available
+PC Rate 2020, 2019, 2018 8.8, 15.2, Not available
+
+#10
+
+Oakland
+
++28
+Oakland, Maine
+Population 6,253
+Median Income $46,929
+VC Rate 2020, 2019, 2018 0.3, 1.5, 0.2
+PC Rate 2020, 2019, 2018 8.8, 11.2, 11.3

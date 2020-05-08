@@ -1,0 +1,4492 @@
+name,pop,VC,PC,state
+Rainbow City,9546,2.55,12.1,AL
+Southside,8774,1.8,10.8333,AL
+Mountain Brook,20373,0.75,12.55,AL
+Margaret,4870,1.73333,5.96667,AL
+Helena,19387,0.766667,12.1667,AL
+Vestavia Hills,34368,2.13333,17.4333,AL
+Daleville,5096,1.76667,16,AL
+Pleasant Grove,10105,1.33333,11.2333,AL
+Satsuma,6153,1.56667,20.2,AL
+Pelham,23785,1.36667,19.3,AL
+Daphne,26618,1.83333,18.1667,AL
+Glencoe,5151,2.6,15.9667,AL
+Alabaster,33501,3.56667,25.3667,AL
+Moody,5130,2.13333,21.7667,AL
+Brent,4853,29.3667,26.9333,AL
+Fairhope,21688,3.43333,22.9,AL
+Auburn,65585,0.566667,29.1333,AL
+Athens,26177,2.3,NA,AL
+Hartselle,14385,3.06667,NA,AL
+Spanish Fort,8923,NA,NA,AL
+Hamilton,6611,3.5,28.3,AL
+Oneonta,6646,2.6,32.8,AL
+Northport,25353,3.5,30.5,AL
+Roanoke,5914,6.9,22,AL
+Enterprise,28464,4.5,28.4,AL
+Prattville,35697,2.3,34.2,AL
+Albertville,21428,1.1,37.4,AL
+Tuscumbia,8370,3.1,33.6,AL
+Gardendale,13907,6.8,25,AL
+Saraland,14704,3.5,33.3,AL
+Trussville,22096,5.1,29.6,AL
+Irondale,12486,5.9,28,AL
+Orange Beach,6116,2.5,37,AL
+Homewood,25523,2.9,37.5,AL
+Cullman,15470,2.1,40.7,AL
+Hueytown,15367,4.6,34.6,AL
+Gulf Shores,12014,2,41.4,AL
+Bay Minette,9304,7.8,26.9,AL
+Foley,18740,2.6,40.3,AL
+Brewton,5212,5.9,33.6,AL
+Jacksonville,12534,6.8,34.5,AL
+Fultondale,9312,4.9,39.3,AL
+Oxford,21149,3.2,43.9,AL
+Wetumpka,8377,3.3,43.7,AL
+Phenix City,36668,6.4,36.2,AL
+Opelika,30822,5.5,39.4,AL
+Decatur,54207,4.2,42.6,AL
+Millbrook,15410,2.9,47.2,AL
+Demopolis,6770,7.5,35.6,AL
+Florence,39925,5.2,41.7,AL
+Eufaula,11905,6.3,39.4,AL
+Tuscaloosa,101764,5.1,43.4,AL
+Boaz,9678,7.6,37.6,AL
+Montgomery,198662,6.1,42.7,AL
+Dothan,68530,9.8,40.8,AL
+Mobile,245475,6.6,49.3,AL
+Sylacauga,12186,6.3,50.4,AL
+Valley,9230,5.9,52.3,AL
+Ozark,14358,10.3,43.1,AL
+Sheffield,8914,8.2,50,AL
+Muscle Shoals,14143,6.1,56.6,AL
+Talladega,15341,8.1,52.5,AL
+Childersburg,4870,13.1,40.5,AL
+Prichard,21615,12.2,43,AL
+Calera,14334,18.5,29.9,AL
+Lincoln,6725,10.6,50,AL
+Andalusia,8753,9.4,53.4,AL
+Scottsboro,14443,13.4,46.5,AL
+Guntersville,8462,6.1,65,AL
+Greenville,7564,14.4,45.2,AL
+Troy,19159,15.8,50.2,AL
+Jasper,13512,5.5,76.6,AL
+Alexander City,14548,21.6,41.9,AL
+Gadsden,35204,10.6,70.9,AL
+Tarrant,6175,17.7,59.6,AL
+Birmingham,210564,19.1,63.1,AL
+Lanett,6245,14.1,78.8,AL
+Fairfield,10625,21.1,80.5,AL
+Anniston,21592,29.9,78.5,AL
+Unalaska,4546,3.53333,7.9,AK
+Sitka,8588,1.8,20.6667,AK
+Homer,5797,1.93333,34.6333,AK
+Palmer,7403,3.33333,30.3667,AK
+Soldotna,4731,6.06667,45.2667,AK
+Ketchikan,8300,3,49.4,AK
+Fairbanks,31635,6.1,42.8,AK
+Bethel,6509,15.2,8.8,AK
+Kodiak,5995,8,43.2,AK
+North Slope Borough,9743,15.2,9.1,AK
+Juneau,31922,8.3,48.6,AK
+Wasilla,10522,5.8,60.5,AK
+Kenai,7888,7.9,71.1,AK
+Anchorage,291992,13.1,49.3,AK
+Cave Springs,4981,0.766667,9.53333,AR
+Greenwood,9454,2.03333,3.93333,AR
+Gentry,3842,2.16667,8.53333,AR
+Bella Vista,28798,2.2,6.43333,AR
+Pottsville,3246,2.73333,11.3667,AR
+Austin,3508,1,3.05,AR
+Elkins,3111,2.06667,6.9,AR
+Piggot,3575,2.06667,19.3,AR
+Vilonia,4648,0.866667,14.9333,AR
+Lowell,9522,1.9,12.4,AR
+Dumas,4179,3.96667,18.0333,AR
+Brookland,3582,1.63333,21.7333,AR
+Farmington,7032,1.45,6.6,AR
+White Hall,4987,1.3,14.0333,AR
+Cabot,26459,2.03333,16.9667,AR
+Haskell,4649,1.36667,2.56667,AR
+Bentonville,51607,1.76667,15.1667,AR
+Centerton,14791,3.56667,10.1667,AR
+Walnut Ridge,5013,3.46667,17.6,AR
+Cherokee Village,4637,1.6,18.4667,AR
+Maumelle,18356,2.6,17.8,AR
+McGehee,3775,2.6,17.7,AR
+Gosnell,3225,5.9,10.2,AR
+Booneville,3837,1.3,24,AR
+Johnson,3716,2.4,21.5,AR
+Pea Ridge,5873,3.4,19.1,AR
+Prairie Grove,5921,1.9,23.8,AR
+De Queen,6588,2.9,23.5,AR
+Barling,4972,4.8,18.5,AR
+Warren,5608,4.5,23.2,AR
+Heber Springs,6929,2.6,28.7,AR
+Arkadelphia,10647,4.2,24,AR
+Dardanelle,4535,3.5,27.3,AR
+Ashdown,4389,3.6,27.3,AR
+Ward,5278,7,20.1,AR
+Rogers,68026,4.3,28.3,AR
+Gravette,3328,5.4,25.2,AR
+Batesville,10782,4.3,28.8,AR
+Russellville,29455,3.9,30.7,AR
+Berryville,5470,2.6,34.9,AR
+Clarksville,9679,2.7,36,AR
+Sheridan,4922,3,35.1,AR
+Waldron,3375,4.1,32,AR
+Beebe,8268,3.5,33.9,AR
+Mena,5546,2.5,37.5,AR
+Nashville,4454,4,35,AR
+Monticello,9630,5.5,31.3,AR
+Springdale,80895,4.8,33.4,AR
+Bryant,20738,1.5,42.9,AR
+Morrilton,6633,1.4,43.4,AR
+Sherwood,31284,5.8,31.3,AR
+Conway,66720,5.4,33.4,AR
+Van Buren,23608,5.7,32.7,AR
+Harrison,13100,5,35.7,AR
+Paris,3379,9.2,26,AR
+Mountain Home,12315,1.8,47.9,AR
+North Little Rock,66424,7.4,34.4,AR
+Jonesboro,77134,5.5,40.7,AR
+Lonoke,4247,8,34.1,AR
+Pocahontas,6478,4.9,44.9,AR
+Fayetteville,87008,5.7,43.3,AR
+Texarkana,30300,6.6,41.5,AR
+Crossett,4920,5.3,45.3,AR
+Hope,9744,7.7,40.2,AR
+Alma,5772,6.9,42.4,AR
+Wynne,7907,8.9,41.1,AR
+Marion,12426,10.1,40.2,AR
+Fort Smith,88290,8,48.3,AR
+Newport,7654,8.8,46.8,AR
+Trumann,7071,7.9,51.5,AR
+Fordyce,3852,11.9,40,AR
+Camden,10880,11.7,44.9,AR
+Jacksonville,28530,11.6,46.3,AR
+Marianna,3492,8,59.3,AR
+Hot Springs,37006,5.2,70,AR
+Helena-West Helena,10477,15,45,AR
+Blytheville,13843,9.9,60.5,AR
+Forrest City,14144,9.3,62.4,AR
+Pine Bluff,42195,16.1,54,AR
+Little Rock,199288,14.5,65.5,AR
+West Memphis,24668,19.7,51.2,AR
+Osceola,6819,23.2,46,AR
+Florence,25987,0.9,4.86667,AZ
+San Luis,33074,0.9,14.4667,AZ
+Oro Valley,44844,0.5,14.1667,AZ
+Gilbert,247463,0.866667,13.4333,AZ
+Sahuarita,29896,1.06667,12.4333,AZ
+Maricopa,48660,1.93333,11.9333,AZ
+Surprise,136611,1.03333,17.4333,AZ
+Lake Havasu City,54678,2.13333,19.8333,AZ
+Prescott Valley,45337,1.76667,20.5667,AZ
+Marana,46447,0.833333,24.6,AZ
+Buckeye,71318,0.933333,17.3333,AZ
+Apache Junction,41245,2.26667,22.1,AZ
+Scottsdale,254961,1.6,22.5667,AZ
+Peoria,170177,2.26667,20.2,AZ
+Chandler,255986,2.36667,22.5333,AZ
+El Mirage,35733,2.26667,28.3,AZ
+Prescott,43172,3.63333,21.2,AZ
+Goodyear,82159,2.96667,26.4,AZ
+Sierra Vista,42574,2.96667,28.6667,AZ
+Mesa,504873,4.03333,21.6667,AZ
+Nogales,19973,2.1,30.5,AZ
+Eloy,19549,4.1,18,AZ
+Avondale,85204,3.4,32.1,AZ
+Yuma,96121,5.1,21.2,AZ
+Bullhead City,40354,3.7,35.8,AZ
+Flagstaff,72852,4.7,33.8,AZ
+Kingman,29669,4,38.8,AZ
+Casa Grande,56479,6.1,26.2,AZ
+Glendale,249799,4.7,40.8,AZ
+Tempe,188543,4.8,41.4,AZ
+Phoenix,1653080,7.3,34.9,AZ
+Tucson,537392,7.4,49.5,AZ
+Danville,45202,0.333333,7.7,CA
+Rancho Santa Margarita,48918,0.866667,6.2,CA
+Moorpark,37121,1.06667,8.03333,CA
+Lincoln,48364,0.733333,10.9333,CA
+Aliso Viejo,52183,0.733333,8.06667,CA
+Rancho Palos Verdes,42464,0.733333,9.8,CA
+San Ramon,76569,0.6,11.2667,CA
+Mission Viejo,96419,1,9.9,CA
+Laguna Niguel,66806,1,9.86667,CA
+Yorba Linda,68794,0.633333,10.9333,CA
+Foster City,34993,1.03333,10.2667,CA
+Irvine,288052,0.6,13.3,CA
+Poway,50346,1.23333,10.1667,CA
+Thousand Oaks,129319,1.2,12.5,CA
+Murrieta,114706,0.633333,13.5667,CA
+Oakley,42655,1.23333,11.3333,CA
+Lake Forest,85302,1.6,8.93333,CA
+Santa Clarita,216589,1.46667,13.0667,CA
+Camarillo,68218,1.5,14.9333,CA
+Chino Hills,81117,0.833333,14.4,CA
+Pacifica,39339,1.86667,12,CA
+Rocklin,65969,0.933333,17.2,CA
+Simi Valley,127222,1.53333,12.8,CA
+San Juan Capistrano,36295,2.3,11.2667,CA
+San Marcos,98088,2.06667,11.5,CA
+Eastvale,64642,1.03333,19,CA
+Cypress,49223,1.3,14.9667,CA
+Glendale,204724,1.16667,15.8667,CA
+Encinitas,63700,1.73333,14.4333,CA
+Temple City,36484,1.53333,14.6333,CA
+Folsom,78916,0.966667,16.4667,CA
+Novato,56577,1.56667,16.1333,CA
+Cupertino,61078,1.23333,16,CA
+San Clemente,65509,1.4,12.7333,CA
+Morgan Hill,46142,1.53333,15.5,CA
+Diamond Bar,56821,1.06667,17.0333,CA
+Martinez,38699,1.53333,17.2667,CA
+Redwood City,88161,2.1,15.8667,CA
+Orange,141108,1.4,18.1,CA
+Pleasanton,84992,1.23333,18.8,CA
+Santee,58781,2.13333,15.1667,CA
+Hollister,38930,3,11.1333,CA
+Menlo Park,34694,1.2,18.4,CA
+Yucaipa,54001,1.8,18.0333,CA
+Elk Grove,174651,2.93333,13.4333,CA
+Dana Point,34019,1.93333,15.4,CA
+Sunnyvale,155637,1.26667,15.8333,CA
+Daly City,107928,2.33333,14.6333,CA
+Seaside,34303,3.03333,15.1,CA
+La Mirada,49175,1.86667,17.7333,CA
+Wildomar,37626,1.3,19.2,CA
+Chula Vista,274370,3,13.2,CA
+Cathedral City,55056,3.1,13,CA
+Bell Gardens,42845,2.7,14.8,CA
+Central Marin,35033,1.1,20.6,CA
+Corona,170041,1.5,19.2,CA
+La Habra,62769,1.8,18.4,CA
+Dublin,63463,1.7,18.7,CA
+Torrance,146968,1.8,18.4,CA
+Carlsbad,116739,2.1,18,CA
+Placentia,52324,2.3,17.3,CA
+Livermore,91612,2,18.5,CA
+Petaluma,61289,3.2,14.5,CA
+Vista,102742,3.2,14.6,CA
+Palo Alto,67560,1.1,22.4,CA
+La Mesa,60442,2.6,17.4,CA
+La Puente,40390,4,12.4,CA
+Fontana,213964,3.3,15,CA
+Menifee,92540,1.7,21,CA
+Huntington Beach,203428,2.1,19.6,CA
+Fremont,238024,2.1,19.7,CA
+Rancho Cucamonga,179114,1.6,21.5,CA
+Temecula,116411,1.2,23.3,CA
+Napa,80145,3.4,15.5,CA
+Milpitas,79895,1.1,24.2,CA
+Tustin,81243,1.5,23.1,CA
+Arcadia,59151,1.3,24,CA
+Stanton,38618,3.5,16,CA
+Clovis,111759,2,21.8,CA
+Palmdale,158177,3.7,15.4,CA
+Brentwood,64118,2.4,20.5,CA
+San Gabriel,40637,3.3,17,CA
+Manhattan Beach,36038,1.6,23.4,CA
+Newport Beach,86276,1.4,24,CA
+Vacaville,101146,2.3,21.3,CA
+Fountain Valley,56433,0.9,26.5,CA
+San Mateo,105839,2.7,20.4,CA
+San Dimas,34463,2.3,21.8,CA
+Davis,69486,1.7,24.3,CA
+Redondo Beach,68048,2.5,21.3,CA
+El Monte,116464,3.1,19.3,CA
+Escondido,153073,3.5,17.9,CA
+Alhambra,85718,2.3,22.5,CA
+South San Francisco,67973,2.7,21.2,CA
+Apple Valley,73631,3.1,19.8,CA
+La Quinta,41849,1,27.6,CA
+Pico Rivera,63602,3.6,18.2,CA
+Monrovia,37128,1.9,24.6,CA
+Roseville,137706,2.2,23.6,CA
+Baldwin Park,76541,3.7,18.1,CA
+Rancho Cordova,74863,3.6,18.5,CA
+Claremont,36178,1.8,25.7,CA
+Mountain View,82518,1.9,25.5,CA
+Bell,35857,5.1,13.8,CA
+San Diego,1436495,3.7,19.1,CA
+San Bruno,43621,2.8,22.6,CA
+Burbank,105041,2.2,25,CA
+Coachella,46115,2.3,24.8,CA
+West Covina,107806,2.7,23.3,CA
+Tracy,91988,2.2,25.3,CA
+Monterey Park,61160,2,26,CA
+Beaumont,48559,4.3,17.9,CA
+Garden Grove,174661,2.9,23.1,CA
+Norwalk,106158,4.2,18.4,CA
+Calexico,40596,2.1,26.2,CA
+Highland,55651,3.7,20.5,CA
+Union City,76198,3.4,21.7,CA
+Pasadena,143448,3.8,20.4,CA
+Fullerton,141132,2.4,25.9,CA
+Chino,91535,2.8,24.2,CA
+Santa Maria,108100,4.6,17.9,CA
+Newark,48276,2,27.3,CA
+Santa Rosa,176325,4.7,17.7,CA
+Downey,113277,3.2,23.1,CA
+Lakewood,81097,3.3,22.8,CA
+Alameda,79951,2.3,26.6,CA
+Santa Clara,128682,1.6,29.1,CA
+Perris,79238,2.7,25.2,CA
+Whittier,87055,2.7,25.6,CA
+Oceanside,177464,3.8,21.6,CA
+Rohnert Park,43129,5.1,17.3,CA
+Santa Ana,335403,4.7,19.1,CA
+Azusa,50393,3.8,22.3,CA
+Rosemead,54661,3.5,23.3,CA
+Lake Elsinore,68451,2.4,28,CA
+Anaheim,354743,3.4,24.5,CA
+Hesperia,95519,4.3,21.3,CA
+Brea,43279,1.9,29.9,CA
+National City,61763,5,18.9,CA
+Covina,48557,3.9,23,CA
+Bellflower,77937,4.3,21.7,CA
+Glendora,52727,2.3,28.9,CA
+Walnut Creek,70587,1.5,31.9,CA
+Jurupa Valley,107605,3.1,26.4,CA
+Oxnard,211737,3.8,23.9,CA
+Westminster,91821,3.1,26.5,CA
+Carson,92895,4.7,21.2,CA
+Montebello,63291,3.4,26,CA
+Porterville,59394,3.5,26.3,CA
+Ontario,177542,3.8,25.8,CA
+Woodland,60679,3.6,26.4,CA
+El Cajon,104497,4.9,21.7,CA
+Manteca,81080,3.2,28.2,CA
+San Jacinto,48830,2.7,29.9,CA
+Hanford,56805,4.8,22.3,CA
+Lompoc,43719,5,21.8,CA
+San Jose,1047305,4.2,24.6,CA
+Gilroy,59033,3.5,27.3,CA
+Los Banos,39651,3.6,27,CA
+Upland,77453,3.7,26.8,CA
+Watsonville,54513,4.5,24.4,CA
+Lodi,66416,4.2,25.6,CA
+Colton,55203,3.3,29,CA
+West Sacramento,54215,4.2,26,CA
+Gardena,60423,5.4,21.6,CA
+Citrus Heights,88603,3.7,28,CA
+Santa Barbara,92630,4.5,25.2,CA
+Visalia,134224,3.4,29.6,CA
+Yuba City,67035,3.9,27.5,CA
+Lynwood,71315,6,20.2,CA
+Buena Park,83336,3.1,31,CA
+Madera,66098,6,20.4,CA
+Tulare,64509,3.9,28.2,CA
+Moreno Valley,209145,3.7,29.5,CA
+Adelanto,34429,6.9,17.7,CA
+Campbell,41853,2.8,32.9,CA
+Palm Desert,53567,1.7,37.1,CA
+Delano,53141,4.5,27,CA
+Pittsburg,73462,5.7,22.9,CA
+Costa Mesa,114358,3,33.2,CA
+Hayward,162881,4.1,29.3,CA
+Indio,91346,5.4,24.5,CA
+San Rafael,59254,4.3,28.6,CA
+Hawthorne,88372,7,19.3,CA
+Concord,130855,3.6,31.5,CA
+Ventura,111272,4,31.3,CA
+Victorville,123343,6.6,22,CA
+Fairfield,117883,5,27.8,CA
+Cerritos,51307,3.2,35,CA
+Ceres,49101,4.6,29.6,CA
+El Centro,44609,2.8,36.4,CA
+Merced,83659,5.6,26.5,CA
+Inglewood,110726,6.2,24.8,CA
+Paramount,55023,6,25.9,CA
+Redlands,71954,3.7,34.6,CA
+Rialto,104173,5.2,29.2,CA
+South Gate,95570,6.6,24.7,CA
+Antioch,112956,5.3,29.5,CA
+Chico,94273,6.5,25.5,CA
+Riverside,331022,5.1,30.9,CA
+Salinas,158590,6.2,27.1,CA
+Lancaster,160818,7.4,23.7,CA
+Turlock,74267,5.7,30.1,CA
+Long Beach,470445,7,25.3,CA
+Pleasant Hill,35252,1.6,44.9,CA
+Pomona,153496,5.7,30.6,CA
+Hemet,86047,5,33.3,CA
+Los Angeles,4029741,7.5,25.1,CA
+San Luis Obispo,47885,4,37.8,CA
+Fresno,531818,5.6,33.4,CA
+Sacramento,507037,6.6,30.4,CA
+Huntington Park,58922,7.3,30.5,CA
+San Leandro,91359,5.2,39.2,CA
+Bakersfield,385609,4.9,41.7,CA
+Berkeley,123735,4.7,43.5,CA
+Redding,92068,6.7,37.3,CA
+Beverly Hills,34557,3.1,50.8,CA
+Culver City,39335,4.8,44.6,CA
+Palm Springs,48644,5.6,42.7,CA
+Montclair,39648,6,41.5,CA
+Vallejo,122974,7.7,36.7,CA
+Santa Cruz,65680,5.9,44.2,CA
+Modesto,215822,8.8,35.8,CA
+Compton,97775,12,26.2,CA
+Richmond,110982,9.4,39.2,CA
+San Francisco,889282,6.9,55.3,CA
+Santa Monica,92674,8.6,51.1,CA
+West Hollywood,37478,8,56,CA
+Stockton,313158,14,37.7,CA
+San Bernardino,217986,13.3,41.4,CA
+Oakland,430230,12.7,53.9,CA
+Windsor,26441,0.166667,9.43333,CO
+Milliken,7238,1.06667,5.73333,CO
+Fort Lupton,8273,1.16667,11.1667,CO
+Carbondale,6882,1.86667,11.7,CO
+Johnstown,16490,0.5,10.3,CO
+Erie,25233,0.666667,8.26667,CO
+Firestone,14419,0.8,9.2,CO
+Castle Rock,64526,0.8,15.5667,CO
+Parker,55573,1.13333,13.6,CO
+Estes Park,6399,2.03333,9.3,CO
+Salida,5951,1.06667,28.1,CO
+Steamboat Springs,13100,1.83333,22.3667,CO
+Centennial,111646,0.6,5.83333,CO
+Broomfield,70307,0.966667,24.8667,CO
+Fruita,13390,1.76667,14.6,CO
+Woodland Park,7709,2.3,20.9333,CO
+Littleton,48632,0.966667,29.9333,CO
+Fort Collins,168163,2.2,23.9667,CO
+Lafayette,28914,2.5,23.8667,CO
+Eagle,6921,1.9,11.4,CO
+Golden,20768,2.1,25.9,CO
+Loveland,78192,2.6,22.4,CO
+Gunnison,6627,3.2,19.8,CO
+Arvada,120631,2.3,29.4,CO
+Brighton,41613,2.7,27.3,CO
+Aspen,7465,1.6,38.7,CO
+Wheat Ridge,31452,2.4,32.8,CO
+Fountain,30367,4,20.8,CO
+Cortez,8738,3.2,27.4,CO
+Fort Morgan,11267,3.4,26.6,CO
+Westminster,113751,2.8,32.3,CO
+Thornton,139697,2.7,33.3,CO
+Boulder,108380,2.7,33.8,CO
+Craig,8848,2.6,35.7,CO
+Rifle,9711,4.1,23.8,CO
+Greeley,107325,4,25.5,CO
+Longmont,95534,4.3,27.1,CO
+Northglenn,39383,3.7,33.1,CO
+Evans,20744,5.2,20.4,CO
+Delta,8819,2.2,47.1,CO
+Durango,18717,4.3,35.3,CO
+Avon,6565,6.4,18.3,CO
+Montrose,19335,3.4,46.2,CO
+Glenwood Springs,10022,3.5,47.2,CO
+Grand Junction,62974,4.4,43.4,CO
+Colorado Springs,471124,5.6,33.4,CO
+Englewood,35029,2.4,61.1,CO
+Sterling,13928,6.3,35,CO
+Trinidad,7947,5.4,42.8,CO
+Commerce City,57474,6.7,31.8,CO
+La Junta,6867,5,47.8,CO
+Aurora,372824,7.3,29.8,CO
+Canon City,16557,5.7,45.7,CO
+Greenwood Village,15989,5.9,45.5,CO
+Lone Tree,13933,3.1,72.5,CO
+Denver,720745,7.3,36.7,CO
+Federal Heights,12929,6.7,42.8,CO
+Alamosa,9955,5.6,55.4,CO
+Pueblo,111756,9.9,55.8,CO
+Sheridan,6159,8.4,88.2,CO
+Ridgefield,25260,0.0333333,3.23333,CT
+Newtown,28015,0.233333,3.6,CT
+Greenwich,63075,0.2,6.73333,CT
+Simsbury,25164,0.233333,6.5,CT
+Shelton,41657,0.666667,8.93333,CT
+Westport,28278,0.166667,9.3,CT
+Cheshire,29337,0.133333,7.53333,CT
+New Milford,26956,0.933333,9.96667,CT
+Vernon,29304,0.733333,12.2333,CT
+Glastonbury,34593,0.325,6.95,CT
+Middletown,46314,1.13333,16.0667,CT
+South Windsor,25968,0.4,14.9333,CT
+Wallingford,44680,0.6,13.8667,CT
+Guilford,22268,0.366667,11.7667,CT
+Fairfield,62452,0.5,15.4667,CT
+Groton Town,29372,1.26667,14.8667,CT
+Wethersfield,26127,0.5,7.375,CT
+Naugatuck,31400,1.03333,15.8667,CT
+Danbury,85818,1.76667,14.1667,CT
+Branford,28121,0.533333,18.6667,CT
+Southington,43960,0.7,16.7,CT
+Enfield,44574,1.2,15.4,CT
+Bristol,60184,1,16.1,CT
+Torrington,34286,1.3,16.4,CT
+Stamford,132007,1.7,16.1,CT
+Norwich,39318,2.7,12.7,CT
+Milford,54754,0.7,20.4,CT
+East Haven,28805,0.7,20.6,CT
+Farmington,25602,0.5,21.7,CT
+North Haven,23703,0.5,22.1,CT
+Stratford,52472,1,20.6,CT
+Norwalk,89442,2.8,15.1,CT
+Trumbull,36167,1.3,23.5,CT
+Manchester,57884,1.7,22,CT
+Newington,30382,0.7,25.7,CT
+West Haven,54738,1.9,21.5,CT
+West Hartford,63085,0.7,27.6,CT
+Windsor,28867,0.9,27.1,CT
+Hamden,61234,3.3,19.1,CT
+East Hartford,50184,2.3,24,CT
+Meriden,59792,3.6,20.3,CT
+New London,26995,4.5,21,CT
+Bridgeport,146819,6.4,19.3,CT
+New Britain,72630,4.3,27.7,CT
+Waterbury,108378,4.4,39.2,CT
+New Haven,131181,8.4,39,CT
+Hartford,123117,10.7,36,CT
+Milton,2966,1.13333,14.2,DE
+Clayton,3297,3.63333,9.76667,DE
+Lewes,3134,1.5,21.9667,DE
+Elsmere,6033,3.76667,19.6667,DE
+Middletown,22350,3.26667,21.8,DE
+Newark,34207,3,20.5,DE
+Smyrna,11791,5.2,24.5333,DE
+Millsboro,4439,3.53333,41.4,DE
+New Castle,5351,4.16667,39.8333,DE
+Camden,3497,4,49.7,DE
+Harrington,3659,11.2,28.7,DE
+Georgetown,7419,5.3,51,DE
+Laurel,4394,9.8,41,DE
+Dover,37778,8,47.9,DE
+Milford,11301,7.5,50,DE
+Seaford,7876,8.1,53.3,DE
+Wilmington,71157,15.4,49.2,DE
+Marco Island,18122,0.333333,5.76667,FL
+Weston,71744,0.566667,5.46667,FL
+Key Biscayne,13299,0.266667,10.1,FL
+Parkland,33760,0.8,6.8,FL
+North Palm Beach,13214,1,10.4667,FL
+Winter Springs,37137,1.43333,9.86667,FL
+Port St. Lucie,193137,1.2,11.4,FL
+Lynn Haven,21285,1.93333,17.4667,FL
+Oviedo,41937,1.86667,9.36667,FL
+Sebastian,25672,1.6,15.0333,FL
+Cooper City,36896,0.833333,12.7333,FL
+Naples,22308,0.766667,16.8,FL
+Wellington,66080,1.6,15.0333,FL
+Niceville,15621,1.3,15.1,FL
+Safety Harbor,17985,1.16667,13.5,FL
+St. Cloud,53560,1.96667,13.3667,FL
+Venice,23362,1.13333,14.6,FL
+Lady Lake,15517,1.3,15.4667,FL
+Sunny Isles Beach,22563,1.2,14.8,FL
+Punta Gorda,20170,0.633333,13.5667,FL
+Groveland,14342,1.225,7.2,FL
+Sweetwater,21181,1.5,26,FL
+Cape Coral,187869,1.3,15.7667,FL
+Coral Springs,134640,1.7,17.7667,FL
+Jupiter,66457,1.96667,17.5,FL
+Coconut Creek,62237,1.3,18.7,FL
+Rockledge,27852,2.76667,16.9333,FL
+Edgewater,22643,1.13333,16.9333,FL
+Margate,59186,2,17.0667,FL
+Miramar,143103,2.83333,16.7667,FL
+Dunedin,36723,1.43333,18.2,FL
+Lake Mary,16896,2.36667,16.7,FL
+North Port,67682,1.6,14.3667,FL
+Tavares,17318,3.03333,17.0667,FL
+Port Orange,64208,0.633333,23.7333,FL
+Maitland,17846,1.9,21.8,FL
+Royal Palm Beach,39253,2.3,20.0667,FL
+Miami Lakes,31323,1.03333,19.8,FL
+Atlantic Beach,13750,3.16667,23.3333,FL
+Pembroke Pines,173053,1.9,21.1,FL
+Clermont,36233,2,21.8667,FL
+Hialeah Gardens,24510,1.4,21.8,FL
+Haines City,24887,1.73333,20.4667,FL
+Doral,63680,1.23333,27.2,FL
+Tarpon Springs,25603,3.2,22.6333,FL
+Coral Gables,51716,1.43333,26.6333,FL
+Village of Pinecrest,19854,1.2,25.6,FL
+West Melbourne,22665,1.53333,26.1667,FL
+Tamarac,66454,2.4,21.0667,FL
+Hialeah,241778,2.2,22.5333,FL
+Temple Terrace,26777,2.5,21.3,FL
+Tampa,392945,4.1,16.7,FL
+Oldsmar,14763,2.1,22.8,FL
+Palm Bay,112902,3.6,18.7,FL
+Palm Beach Gardens,55999,1.5,25.2,FL
+Boca Raton,100162,2,23.6,FL
+Vero Beach,17172,2,24.2,FL
+Eustis,21182,1.8,24.6,FL
+Winter Park,31323,1.9,24.5,FL
+Sunrise,95812,1.9,24.5,FL
+Greenacres City,41174,3.9,20.3,FL
+Winter Garden,44921,3.5,22.7,FL
+Lake Wales,16349,3.5,22.6,FL
+Davie,107120,2.5,25.8,FL
+Palmetto Bay,24890,1.7,28.6,FL
+Cutler Bay,45807,2.1,27.9,FL
+North Lauderdale,44650,5.5,18,FL
+Hollywood,155503,2.3,27.9,FL
+Plantation,95204,2.5,28.4,FL
+Seminole,18795,1.3,32.1,FL
+New Smyrna Beach,26937,3.6,25.4,FL
+Kissimmee,72894,4,25.2,FL
+South Daytona,13038,4.3,24.5,FL
+Longwood,15273,3,28.9,FL
+Stuart,16689,3,29.5,FL
+Fort Walton Beach,22263,3.1,29.4,FL
+Crestview,24293,3.5,28.9,FL
+Clearwater,116504,4.4,26.5,FL
+Ocoee,48128,3.4,29.7,FL
+Ormond Beach,43315,3,31.6,FL
+Miami Springs,14508,3.3,30.7,FL
+Apopka,53106,4.1,28.4,FL
+Lakeland,109616,3.3,31.2,FL
+Winter Haven,42268,5.6,24.4,FL
+Altamonte Springs,44664,3,32.4,FL
+Largo,85568,3.8,30.3,FL
+Auburndale,16358,2.2,35.3,FL
+Deerfield Beach,81371,4,30.6,FL
+Key West,25286,4,32,FL
+Fort Pierce,46109,6.1,25.7,FL
+Plant City,39305,4.7,30.5,FL
+Wilton Manors,12941,4.2,33,FL
+Bradenton,57647,6.7,27.1,FL
+Palmetto,13807,5.2,31.8,FL
+Hallandale Beach,40222,5.4,32.2,FL
+Titusville,46650,6.2,29.9,FL
+Zephyrhills,15504,3,39.5,FL
+Fort Myers,82805,7,27.6,FL
+Casselberry,28744,5.3,32.9,FL
+Sarasota,57718,5.8,32.5,FL
+Jacksonville,903213,6,33.3,FL
+St. Petersburg,265942,6.2,33,FL
+Mount Dora,14179,4.7,38.6,FL
+West Park,15297,7.1,32,FL
+Oakland Park,45564,6.1,35.2,FL
+Delray Beach,69970,5.8,36,FL
+DeLand,33384,5.5,37.6,FL
+Palm Springs,25146,5,39,FL
+Pensacola,52672,5.4,38.2,FL
+Miami,473047,6.3,35.6,FL
+Lauderhill,72694,7.6,31.8,FL
+Bartow,19954,5.7,37.9,FL
+Boynton Beach,79142,6,37.5,FL
+Jacksonville Beach,23842,6,38.4,FL
+Sanford,60154,7,35.5,FL
+Dania Beach,32376,6.5,37.4,FL
+Melbourne,82844,7.3,35.5,FL
+Aventura,38544,2.1,50.9,FL
+Pinellas Park,53383,4.2,45.4,FL
+Lake Worth,38577,9.6,29.9,FL
+Lauderdale Lakes,36575,8.5,33.1,FL
+St. Augustine,14427,6.4,39.6,FL
+North Miami Beach,44485,7.3,37.8,FL
+Miami Gardens,114670,7.1,39.5,FL
+Gainesville,133400,7.4,39.2,FL
+Pompano Beach,112045,7.8,38.4,FL
+Homestead,71314,10,32,FL
+North Miami,62585,8.4,37.2,FL
+New Port Richey,16459,9.7,36.4,FL
+West Palm Beach,111659,9.2,38.1,FL
+Fort Lauderdale,182150,5.5,49.7,FL
+Tallahassee,192443,7.3,45.2,FL
+Ocala,59505,6.8,48.2,FL
+Belle Glade,19877,10.4,39.6,FL
+Orlando,286679,8,48.1,FL
+Riviera Beach,34991,11.8,38.1,FL
+Leesburg,23029,7.6,52.7,FL
+Panama City,37318,6.3,57.6,FL
+Cocoa,18739,7.5,54.5,FL
+Daytona Beach,69030,11.1,48.6,FL
+Miami Beach,92928,9.4,74.8,FL
+Opa Locka,16663,23.5,52.8,FL
+Braselton,11537,0.766667,7.63333,GA
+Johns Creek,85446,0.333333,7.03333,GA
+Milton,39848,0.266667,7.86667,GA
+Senoia,4352,0.233333,9.2,GA
+Summerville,4275,0.0666667,10.2,GA
+Holly Springs,12369,0.733333,14.0333,GA
+Tyrone,7390,0.833333,11.0667,GA
+Peachtree City,35374,0.466667,15.1,GA
+Chatsworth,4301,1.35,6.1,GA
+Grovetown,14543,0.866667,15,GA
+Jefferson,11394,1.36667,17.1,GA
+Glennville,5083,1.2,22.1667,GA
+Alpharetta,67051,0.533333,18.6333,GA
+Duluth,29882,2.4,19.4333,GA
+Auburn,7706,1.46667,17.8,GA
+Kennesaw,34907,1.86667,14.7,GA
+Woodstock,32850,1.13333,17.7333,GA
+Lyons,4284,3.8,30.7333,GA
+Roswell,95677,1.3,16.8,GA
+Temple,4462,1.96667,24.9667,GA
+Sandy Springs,108654,1.16667,21.9333,GA
+Hampton,7841,2.06667,14,GA
+Acworth,23028,1.56667,24.2333,GA
+Social Circle,4517,2,18.1667,GA
+Byron,5258,0.766667,29.6,GA
+Canton,28685,2.06667,24,GA
+Flowery Branch,7760,1.33333,17.3,GA
+Adairsville,4879,1.76667,26.0667,GA
+Powder Springs,15214,2.93333,19.7333,GA
+Springfield,4192,1.73333,18.7667,GA
+Loganville,12308,1.16667,28.2667,GA
+Decatur,24491,1.73333,23.2,GA
+Suwanee,20227,1.33333,28.5333,GA
+Palmetto,4752,3.33333,24.2,GA
+McDonough,25151,1.93333,28.6,GA
+Fayetteville,18042,1.6,27.6,GA
+Pooler,24656,1.4,31.8,GA
+Port Wentworth,9105,2.53333,15.4333,GA
+Smyrna,57498,2.8,26.4333,GA
+Rincon,10039,1.76667,33,GA
+Metter,3981,4.1,33.2667,GA
+Dallas,13496,1.6,19.4,GA
+Folkston,4664,3.03333,19.1333,GA
+Cochran,4882,4.26667,40.8333,GA
+Dalton,33831,3.06667,30.1333,GA
+Commerce,6927,5.33333,23.9,GA
+Cairo,9407,2.4,32.7333,GA
+Statesboro,31819,3.53333,31.5667,GA
+Dunwoody,50095,1.5,41.0667,GA
+Brookhaven,54138,3.43333,27.2333,GA
+Madison,4098,2.7,32.7,GA
+Savannah-Chatham Metropolitan,242265,4.1,24.6,GA
+Vienna,3663,4.9,20.2,GA
+LaFayette,7210,1.5,45.4,GA
+Marietta,61675,3.5,31.6,GA
+Lilburn,12847,3.7,31.7,GA
+Gainesville,41368,3.8,30.9,GA
+Thomasville,18507,1.8,46.5,GA
+Jackson,5101,3.5,33.7,GA
+Newnan,39830,4.6,26.4,GA
+Dawson,4103,4.4,28,GA
+Manchester,3966,4.3,31,GA
+Snellville,19947,3.2,39.9,GA
+Camilla,5016,3.8,35.7,GA
+Forsyth,4082,2.7,44.6,GA
+Villa Rica,15536,3.7,37.5,GA
+Eatonton,6614,5.1,27.2,GA
+Stone Mountain,6447,5.1,27.5,GA
+Fairburn,15904,3.3,41.5,GA
+Oakwood,4179,3.1,43.6,GA
+Milledgeville,18620,3.5,41,GA
+Sandersville,5527,3.6,40.5,GA
+Bremen,6456,1.5,56.1,GA
+Clarkston,12957,4.9,32,GA
+Norcross,17089,4.7,33.3,GA
+Cleveland,3956,2,53.6,GA
+Cornelia,4278,4,39.5,GA
+Hinesville,33163,4.4,36.2,GA
+Ocilla,3653,5.5,29.6,GA
+Waynesboro,5462,5.3,32.2,GA
+Locust Grove,6852,1.9,59.1,GA
+Centerville,7795,4,43.9,GA
+Covington,14178,3.6,47,GA
+Hazlehurst,4143,4.1,44.2,GA
+Austell,7301,7.1,23,GA
+LaGrange,30611,4.2,46,GA
+Fort Oglethorpe,9912,3.5,54.4,GA
+Jasper,3896,2.8,60.6,GA
+Jesup,9698,3.7,54,GA
+Carrollton,27189,5.9,41.3,GA
+Jonesboro,4760,4.6,52.7,GA
+Blakely,4603,8.9,21.5,GA
+Toccoa,8310,4.3,55.4,GA
+Moultrie,14136,5.2,50,GA
+Hiram,4046,2.5,70.9,GA
+Fitzgerald,8673,5,52.8,GA
+Thomaston,8703,5.3,52.6,GA
+Cedartown,9959,5.9,48.9,GA
+Vidalia,10488,6.2,47,GA
+West Point,3766,6.4,46.5,GA
+Bainbridge,12033,7.6,37.9,GA
+Waycross,13771,5.2,55.9,GA
+Monroe,13573,6.6,46.3,GA
+Douglasville,34076,5.7,54,GA
+Hartwell,4468,6.7,47,GA
+Doraville,10625,5,60,GA
+Cordele,10669,6,52.6,GA
+Forest Park,20024,6.7,48,GA
+Warner Robins,75668,5.9,55.5,GA
+Swainsboro,7501,7.6,46.3,GA
+Atlanta,496106,7.7,46.5,GA
+Nashville,4839,8.5,41.1,GA
+Dublin,15756,8.1,49.1,GA
+Fort Valley,8675,10.7,30.2,GA
+Elberton,4300,9.1,50.9,GA
+Americus,15184,8.6,60.7,GA
+Brunswick,16431,10.7,52.5,GA
+Morrow,7632,4.5,99.6,GA
+Griffin,22707,11.5,47.6,GA
+Albany,72594,11.1,51,GA
+Rossville,3967,7.3,81.7,GA
+Rockmart,4281,8.9,79.2,GA
+College Park,15034,10.4,68.8,GA
+Eastman,5038,8.3,86.3,GA
+Hapeville,6607,7.4,111.5,GA
+Baxley,4718,15.5,82.2,GA
+East Point,35486,12.4,120,GA
+Rexburg,28765,0.3,5.83333,ID
+Hailey,8334,2.03333,4.23333,ID
+Middleton,7762,0.575,3.225,ID
+Rathdrum,8508,1.2,15.6667,ID
+Preston,5411,1.33333,10.8,ID
+Moscow,25339,0.833333,19.8,ID
+Meridian,103774,1.4,14.2,ID
+Emmett,6871,3.13333,12.7333,ID
+Payette,7430,2.76667,16.3667,ID
+Post Falls,34144,2.1,21.3333,ID
+Jerome,11738,2.6,15.2,ID
+Rupert,5845,2.6,16.4,ID
+Mountain Home,14220,2.7,18.3,ID
+Idaho Falls,61643,3.3,15.6,ID
+Boise,229265,2.8,20.2,ID
+Lewiston,32949,1.5,30.6,ID
+Coeur d'Alene,51650,3.6,18.8,ID
+Caldwell,55936,3.3,21.5,ID
+Nampa,95386,2.8,25.4,ID
+Blackfoot,11910,3.4,26.4,ID
+Twin Falls,49908,4.5,23.6,ID
+Pocatello,55317,3.8,28.3,ID
+Chubbuck,14998,3.7,45.2,ID
+Garden City,12025,6.8,29.4,ID
+Campton Hills,11305,0.166667,2.06667,IL
+Gilberts,8254,0.266667,4.2,IL
+Manhattan,7879,0.433333,4.06667,IL
+Justice,12822,0.166667,0.766667,IL
+Sandwich,7382,1.06667,4.23333,IL
+Huntley,27637,0.266667,5.96667,IL
+Hinsdale,17831,0.233333,7.43333,IL
+La Grange Park,13411,0.366667,5.53333,IL
+Bartlett,41140,0.6,5.1,IL
+Pingree Grove,8867,0.5,4.06667,IL
+Palatine,68648,0.5,7.36667,IL
+Buffalo Grove,41182,0.233333,5.63333,IL
+Channahon,12837,0.5,3.86667,IL
+Lakemoor,6046,0.433333,4.7,IL
+Lisle,22966,0.466667,6.9,IL
+Winfield,9762,0.566667,6.06667,IL
+Lindenhurst,14450,0.7,4.46667,IL
+Homer Glen,24638,0.266667,5.43333,IL
+Lake Villa,8726,1.3,5.73333,IL
+Clarendon Hills,8751,0.933333,4.63333,IL
+Deerfield,19049,0.266667,6.8,IL
+Geneva,22082,0.4,7.93333,IL
+Charleston,20878,2.4,4.66667,IL
+Lake In the Hills,28924,0.933333,3.7,IL
+South Elgin,22627,1.2,8.06667,IL
+Chester,8505,1.83333,3.56667,IL
+Marengo,7470,0.6,8.76667,IL
+Palos Hills,17338,0.833333,5.03333,IL
+Shorewood,17482,1.16667,8.1,IL
+Stickney,6680,0.733333,9.73333,IL
+Mundelein,31436,0.733333,7.56667,IL
+Plano,11692,0.366667,8.43333,IL
+Edwardsville,25054,0.9,9.86667,IL
+Hanover Park,37971,1.06667,6,IL
+Lockport,25510,0.633333,7.66667,IL
+Round Lake,18454,1,6.26667,IL
+Winnetka,12518,0.4,9.03333,IL
+Arlington Heights,75688,0.6,8.83333,IL
+Highland Park,29764,0.666667,9.03333,IL
+Hampshire,6466,1.93333,4.53333,IL
+Winthrop Harbor,6727,1,4.56667,IL
+Oswego,35478,0.6,9.86667,IL
+Harvard,9144,1,9.16667,IL
+Cary,17830,1.13333,4.7,IL
+Morton,16302,1.13333,8,IL
+Roselle,22799,0.6,8.2,IL
+Glen Ellyn,28079,0.766667,9.5,IL
+Bethalto,9300,0.633333,12.9667,IL
+Mahomet,8672,0.7,5.6,IL
+Glenwood,8864,1.36667,9.46667,IL
+Prospect Heights,16167,1.5,5.1,IL
+Maryville,7954,1.1,6.7,IL
+Wheeling,38687,0.7,8.3,IL
+Park Ridge,37490,0.6,9.1,IL
+Wilmette,27467,0.5,9.4,IL
+Elmhurst,47025,0.5,9.5,IL
+Glenview,48088,0.7,8.8,IL
+Highland,9812,0.9,8.1,IL
+Frankfort,19184,0.5,9.7,IL
+Sycamore,18095,0.6,9.5,IL
+Hoffman Estates,51514,0.9,8.1,IL
+Waterloo,10408,1.2,7,IL
+Chatham,12770,1.4,6.4,IL
+Algonquin,31156,0.9,8.5,IL
+Palos Heights,12385,0.2,10.9,IL
+Warrenville,13280,1,8.1,IL
+Western Springs,13554,0.1,11.4,IL
+Plainfield,44525,1.2,7.4,IL
+St. Charles,32764,1.4,7.1,IL
+Barrington,10293,0.1,12,IL
+Roscoe,10466,1,8.9,IL
+Glen Carbon,12991,0.7,9.9,IL
+Mount Prospect,53888,0.6,10.4,IL
+Troy,10216,1.3,7.9,IL
+Grayslake,20943,1.3,8,IL
+Lemont,17224,1.3,8.2,IL
+Vernon Hills,26429,0.6,11.2,IL
+Carol Stream,40019,0.8,10.3,IL
+Bolingbrook,75451,1.5,7.8,IL
+La Grange,15583,1,9.8,IL
+Yorkville,19751,0.9,10.1,IL
+Itasca,9531,0.7,10.8,IL
+Glendale Heights,34030,0.5,11.7,IL
+West Chicago,27174,1.3,9,IL
+Tinley Park,56638,0.4,12.3,IL
+Westmont,24766,0.8,10.9,IL
+Braidwood,6217,1.8,7.2,IL
+Lake Zurich,19930,0.3,13,IL
+Morton Grove,23123,0.4,12.3,IL
+Mendota,7062,1.4,8.6,IL
+Mascoutah,8078,0.9,10.8,IL
+Rolling Meadows,23970,0.6,11.8,IL
+Wheaton,53418,0.7,11.8,IL
+Darien,22054,1.1,10.5,IL
+Rock Falls,8844,1.2,10.1,IL
+Lyons,10563,1,10.9,IL
+Westchester,16423,1.2,10.5,IL
+Des Plaines,58155,0.7,12.5,IL
+Downers Grove,49626,1,11.3,IL
+Bourbonnais,18388,1.8,8.4,IL
+Taylorville,10565,0.7,12.7,IL
+Woodridge,33681,1,11.6,IL
+Villa Park,21806,1.2,10.6,IL
+Woodstock,25353,0.9,11.8,IL
+Northbrook,33424,0.2,15.3,IL
+New Lenox,26905,1.3,11.1,IL
+Oak Forest,27644,1.3,11,IL
+Riverside,8723,1.5,10.4,IL
+Jerseyville,8238,1.2,11.7,IL
+Burbank,28771,2.1,8.4,IL
+Carpentersville,38220,0.9,13,IL
+Romeoville,39625,1.5,10.9,IL
+Mokena,20507,0.5,14.4,IL
+Wood Dale,13800,0.7,13.8,IL
+Antioch,14201,1.4,11.6,IL
+Park City,7504,1.5,11.5,IL
+Crest Hill,21221,2,9.6,IL
+McHenry,26893,1.8,10.7,IL
+Elk Grove Village,32723,0.7,14.8,IL
+Round Lake Park,7740,3,6.3,IL
+Montgomery,19897,0.9,14.4,IL
+North Aurora,18470,1.3,13,IL
+Hickory Hills,13934,1.1,13.6,IL
+Washington,17048,1.8,11.3,IL
+Swansea,13506,1,14.2,IL
+Shiloh,13167,1.7,12.1,IL
+Orland Park,59064,0.3,17.2,IL
+Elmwood Park,24486,2.2,10.2,IL
+Burr Ridge,10852,0.3,17.5,IL
+Batavia,26614,1.3,13.9,IL
+Addison,36791,1.7,12.6,IL
+Johnsburg,6313,0.3,17.7,IL
+Bensenville,18324,1.1,14.8,IL
+Oak Lawn,55996,1.4,13.5,IL
+Peru,9770,1,15.3,IL
+Crystal Lake,40345,0.9,16.1,IL
+Belvidere,25121,2.4,10.7,IL
+South Beloit,7642,1.7,13.3,IL
+Morris,14798,1.1,16.1,IL
+Ottawa,18096,0.8,17.1,IL
+Worth,10642,2.4,11.6,IL
+Manteno,8996,1,17.7,IL
+Aurora,201364,2.7,11.4,IL
+Dixon,15129,2.1,14.7,IL
+Greenville,6723,2.1,14.9,IL
+Elgin,113060,2.1,15.2,IL
+Round Lake Beach,27534,1.2,18.5,IL
+Franklin Park,17968,2.6,13.5,IL
+Schaumburg,74169,0.8,20.4,IL
+Lombard,43794,1.2,19.5,IL
+Crete,8147,2.1,16.2,IL
+Macomb,18124,3.1,12.6,IL
+Schiller Park,11617,1.5,18.9,IL
+Northlake,12369,0.8,21.7,IL
+Niles,29433,1.2,20.6,IL
+Melrose Park,25164,3.4,12.6,IL
+River Forest,11125,1.3,20.9,IL
+Normal,54525,2.2,18.1,IL
+Bridgeview,16317,1.8,19.6,IL
+Park Forest,21636,2.8,15.9,IL
+Mount Carmel,6931,2.5,17.7,IL
+Alsip,19050,1.3,22.4,IL
+Pontiac,11795,3.4,14.6,IL
+Blue Island,23310,4,12.4,IL
+Bloomingdale,22008,1.5,22.2,IL
+Berwyn,55391,3.4,14.8,IL
+Machesney Park,22627,2.5,18.4,IL
+Joliet,148553,3.3,15.6,IL
+Posen,5903,2.4,19.7,IL
+O'Fallon,29354,2.8,18.5,IL
+Chillicothe,6153,3.4,16.1,IL
+Rockton,7443,1.2,24.7,IL
+Midlothian,14607,1.8,22.6,IL
+Evanston,74780,1.9,22.8,IL
+Hillsboro,6016,4.7,12.3,IL
+Chicago Ridge,14167,1.3,25.3,IL
+Fox Lake,10535,1.6,24.3,IL
+Flossmoor,9315,1.2,26.2,IL
+West Frankfort,7921,0.3,30.6,IL
+Bloomington,78097,4.3,15.3,IL
+Freeport,23887,2.1,23.9,IL
+Streator,13038,2.4,23.2,IL
+Princeton,7538,2.9,21.2,IL
+Lincoln,13724,3.8,18.4,IL
+Bradley,15271,1.1,28.9,IL
+Loves Park,23301,3.7,19.6,IL
+Clinton,6927,1.2,29.3,IL
+Norridge,14416,1.4,28.6,IL
+Summit,11310,3.5,21.3,IL
+Litchfield,6747,0.7,32.2,IL
+Lincolnwood,12467,1.2,30.5,IL
+Skokie,63849,2.7,25.2,IL
+Vandalia,7009,3.4,22.7,IL
+Rock Island,37985,2.6,26,IL
+Cicero,82310,3.8,21.5,IL
+Steger,9388,2.7,26.3,IL
+Monmouth,9042,3.4,23.4,IL
+South Holland,21690,3.1,24.9,IL
+Mattoon,17794,5.6,15.8,IL
+Rantoul,12741,2.7,27.4,IL
+Sterling,14674,2.3,29.7,IL
+Silvis,7578,4.2,23,IL
+Herrin,12930,2.7,29.1,IL
+Effingham,12624,3.4,26.9,IL
+Richton Park,13485,4.1,24.5,IL
+Gurnee,30698,1.4,35.3,IL
+Jacksonville,18320,3.5,28.3,IL
+Bartonville,6221,2.6,32.1,IL
+Urbana,42029,3.6,29.3,IL
+East Peoria,22640,5,25.8,IL
+Hazel Crest,13811,3.8,30.7,IL
+Moline,42051,5.4,25,IL
+DeKalb,43064,5.3,25.7,IL
+Carbondale,25816,4.3,29.4,IL
+Maywood,23573,5.7,24.2,IL
+Calumet City,36560,5.1,26.8,IL
+Belleville,41283,4.1,30.5,IL
+Decatur,71625,5,28.6,IL
+Paris,8253,7.4,19.6,IL
+Champaign,88326,6.8,22.6,IL
+Kewanee,12413,2.8,39.4,IL
+Homewood,19056,2.4,41.2,IL
+Country Club Hills,16565,4.3,35.6,IL
+Broadview,7761,2.4,42.5,IL
+Zion,23885,6.2,30.2,IL
+Granite City,28593,7.7,25.5,IL
+Quincy,40249,6.3,32,IL
+Forest Park,13919,4.7,38.1,IL
+East Alton,6073,4.8,38,IL
+Riverdale,13322,7.4,28.3,IL
+Murphysboro,7511,7.1,30.8,IL
+Fairview Heights,16516,4.1,42.1,IL
+Salem,7131,2.5,48,IL
+Evergreen Park,19497,2.8,47.2,IL
+Harrisburg,8697,5.6,37.4,IL
+Olney,8919,5,41.6,IL
+Alton,26563,6.4,37.4,IL
+Cahokia,14004,5.4,43.1,IL
+Lansing,27904,3.2,54.7,IL
+Kankakee,26032,8.8,33.5,IL
+Peoria,112595,7.6,40,IL
+Chicago,2719151,10.1,31.8,IL
+Oak Brook,8103,1.2,68.1,IL
+Wood River,10210,5.8,51.7,IL
+Springfield,114623,8.3,47.9,IL
+Metropolis,6076,5.4,59.1,IL
+North Riverside,6548,3.1,68.4,IL
+Centralia,12372,12.7,40.3,IL
+Rockford,146198,13.9,36.7,IL
+Mount Vernon,14914,15.3,51.8,IL
+Danville,31203,17.9,48.3,IL
+St. John,17615,0.166667,7.33333,IN
+Carmel,94128,0.333333,8,IN
+Fishers,94035,0.433333,9.43333,IN
+Westfield,41037,0.5,10.1333,IN
+Dyer,15880,0.433333,9.26667,IN
+West Lafayette,46906,1,9.43333,IN
+Chesterton,13561,0.35,4.225,IN
+Crown Point,29884,0.266667,11.6333,IN
+Noblesville,63315,0.225,5.625,IN
+Brownsburg,26525,0.766667,11.6333,IN
+Valparaiso,33610,0.625,6.775,IN
+Munster,22596,0.766667,19.1333,IN
+Griffith,16050,1.13333,23.1333,IN
+Portage,36646,0.633333,6.73333,IN
+Jeffersonville,47709,1.4,28.3667,IN
+Plainfield,33668,2.8,26.5667,IN
+Greenwood,58312,3.73333,32.3,IN
+Crawfordsville,16207,2.275,11.7,IN
+Lawrence,49093,1.43333,7.36667,IN
+Goshen,33386,0.725,35.3,IN
+Fort Wayne,267634,3.8,26.2,IN
+La Porte,21630,5.1,22.9,IN
+Columbus,47595,1.6,35.8,IN
+Muncie,68406,3.2,33.3,IN
+Bloomington,85730,5.4,26.5,IN
+Franklin,25288,5.1,28,IN
+Kokomo,57804,6.3,24.7,IN
+Hobart,28101,2.5,39.6,IN
+Hammond,76050,4.8,34.9,IN
+Lafayette,72904,4.6,36,IN
+Marion,28116,4.6,36.9,IN
+Gary,75426,5,36.1,IN
+Anderson,54925,4.1,42.6,IN
+Seymour,19681,2.1,50.6,IN
+Mishawaka,49310,2.3,51.2,IN
+Evansville,118765,5.7,44.6,IN
+Shelbyville,19075,11.3,29.5,IN
+Michigan City,30999,7.4,44.3,IN
+Elkhart,52659,11.8,35.5,IN
+South Bend,102397,10.4,43,IN
+Indianapolis,877584,12.7,41.3,IN
+Hugoton,3816,0.9,3.35,KS
+Scott City,3854,1.83333,8.1,KS
+Valley Center,7370,1.36667,13.1,KS
+Tonganoxie,5508,1.73333,13.4,KS
+Hesston,3791,0.533333,11.9,KS
+Basehor,6239,0.966667,13.1333,KS
+Ulysses,5878,1.53333,8,KS
+Leawood,35070,0.866667,13.1,KS
+Frontenac,3409,1.46667,18.6667,KS
+Rose Hill,3986,0.45,6.45,KS
+Emporia,24698,1.46667,23.0333,KS
+Beloit,3695,1.6,12.8333,KS
+Lansing,12043,2.2,11.0333,KS
+Marysville,3268,2.6,24.4333,KS
+Bel Aire,8092,1.16667,11.3333,KS
+Olathe,139154,1.9,14.6667,KS
+Osawatomie,4278,2.8,19.4667,KS
+Lenexa,54349,1.66667,16.7333,KS
+Gardner,21945,1.125,7.05,KS
+Abilene,6315,1.5,16.6333,KS
+Paola,5574,0.7,24,KS
+Shawnee,65983,2.5,16.3,KS
+Derby,23842,1.6,21.2,KS
+Overland Park,193877,2.3,19.3,KS
+Lyons,3540,5.9,3.4,KS
+Maize,4735,2.5,19.6,KS
+Mulvane,6391,1.4,25.5,KS
+Larned,3828,2.4,24,KS
+Park City,7785,3.1,20.7,KS
+Dodge City,27756,3.2,21.3,KS
+Edwardsville,4505,2.9,25.1,KS
+Concordia,5059,3.2,24.1,KS
+Pratt,6737,4.2,19.6,KS
+El Dorado,12960,2.2,29.6,KS
+Clay Center,3930,4.8,17.3,KS
+Wamego,4748,4,21.7,KS
+Baxter Springs,3919,2.3,30.9,KS
+Holton,3258,3.7,24.6,KS
+Augusta,9387,1.9,34.5,KS
+Haysville,11343,4.1,24.9,KS
+Garden City,26902,4.6,22.6,KS
+Atchison,10589,4.1,25.4,KS
+Russell,4454,5.6,18.6,KS
+Ottawa,12300,5.1,25.4,KS
+Winfield,12072,1.8,43.4,KS
+Fort Scott,7779,4.8,33.3,KS
+Hutchinson,40573,4.1,40,KS
+Newton,18830,7,29.7,KS
+Arkansas City,11791,4.2,43.3,KS
+Iola,5306,6.2,39.4,KS
+Great Bend,15251,7.3,37.8,KS
+Leavenworth,36331,9.5,31.1,KS
+Coffeyville,9375,6.1,50.3,KS
+Parsons,9664,9.4,35.7,KS
+Topeka,126399,6.1,51.9,KS
+Wichita,391726,11.8,56.2,KS
+Harahan,5505,2.06667,0,LA
+Tallulah,9424,1.36667,13.3333,LA
+Youngsville,6777,1.25,1.525,LA
+Mandeville,14370,0.5,6.95,LA
+Scott,12371,1.5,19.7,LA
+Minden,8810,1.06667,22.1667,LA
+Jennings,12215,1.4,19.1333,LA
+DeRidder,9949,2.3,29.5333,LA
+Westwego,10820,1.5,21.7333,LA
+NA,8551,2.83333,22.1333,LA
+Covington,10658,2.8,20.9,LA
+Rayne,8184,2.6,23.9,LA
+Carencro,9174,2.4,28.6,LA
+Baker,13487,3.3,24.8,LA
+Kenner,67556,2.3,30.2,LA
+Slidell,27973,3.1,29.1,LA
+Ruston,22274,3.7,28.2,LA
+Patterson,5964,4.4,26.3,LA
+St. Gabriel,7399,8.8,7.3,LA
+Gretna,17965,4.8,30.9,LA
+Plaquemine,6660,4.8,31.4,LA
+Abbeville,12279,7.2,19.6,LA
+Thibodaux,14745,4.6,36.2,LA
+Broussard,12672,4.1,39.5,LA
+Zachary,17884,6.2,34.9,LA
+Sulphur,20250,4.7,43.4,LA
+Eunice,10073,4.4,48.3,LA
+Houma,33226,4.8,48.9,LA
+Lafayette,127592,5.3,46.1,LA
+Franklin,6874,7.6,39.7,LA
+Bossier City,69551,8.3,43.1,LA
+Lake Charles,77852,7.4,48.5,LA
+Pineville,14415,6.3,55.2,LA
+Ville Platte,7130,1.5,79.4,LA
+Breaux Bridge,8349,3.4,71.3,LA
+Denham Springs,9761,4.5,68.5,LA
+Morgan City,11066,8.7,48.3,LA
+Shreveport,190808,8.3,51.8,LA
+Baton Rouge,224790,9.2,53.2,LA
+Gonzales,10916,5.7,71,LA
+Bogalusa,11730,10.6,49.8,LA
+New Orleans,396374,11.6,45.6,LA
+Natchitoches,17981,8.8,63.5,LA
+Ponchatoula,7369,10.3,59,LA
+Leesville,5999,10.2,62.5,LA
+Walker,6286,9.4,68.7,LA
+West Monroe,12594,8.2,80,LA
+Monroe,48291,14,67.9,LA
+Alexandria,47238,14.5,84.1,LA
+Crowley,12779,17.8,71.7,LA
+Bastrop,10270,13.4,98,LA
+Marksville,5450,19.4,72.5,LA
+Hammond,20550,14.5,103.4,LA
+Opelousas,16262,21.4,72.6,LA
+Greenville,4239,0.466667,5.56667,KY
+Columbia,4927,0.6,2.93333,KY
+Fort Thomas,16274,0.333333,5.56667,KY
+Villa Hills,7455,0.3,4.8,KY
+Prospect,4956,0.0666667,9.76667,KY
+Highland Heights,7112,0.666667,8.23333,KY
+Flatwoods,7136,0.466667,3.46667,KY
+Fort Mitchell,8260,0.666667,9.46667,KY
+Taylor Mill,6781,0.566667,8,KY
+Edgewood,8736,0.266667,8.26667,KY
+Independence,28052,0.8,5.53333,KY
+Prestonsburg,3404,1.83333,12,KY
+Carrollton,3820,0.866667,13.5333,KY
+Harrodsburg,8399,1.3,16.6333,KY
+Central City,5746,0.3,12.0667,KY
+Wilmore,6406,0.433333,15.7667,KY
+Alexandria,9583,0.233333,15.7,KY
+Stanford,3617,0.633333,9.96667,KY
+Lawrenceburg,11378,0.833333,10.7667,KY
+Mount Washington,14704,0.733333,10.7667,KY
+Vine Grove,6237,0.3,14.9,KY
+Erlanger,22993,1,8.1,KY
+Hillview,9163,0.9,10.8,KY
+Bellevue,5746,0.7,13.9,KY
+La Grange,8995,0.6,16.3,KY
+Monticello,6101,1,12.1,KY
+Cold Spring,6430,0.6,17.4,KY
+Lakeside Park,6107,0.2,23.1,KY
+Elsmere,8680,1.3,10.6,KY
+Versailles,26552,1,14.7,KY
+Morehead,7869,0.5,21.5,KY
+Fort Wright,5737,1.4,11.5,KY
+Beaver Dam,3587,1.7,8.4,KY
+Dayton,5464,1.1,17.4,KY
+Southgate,3908,1.8,10.2,KY
+Shelbyville,16138,1.2,16.9,KY
+Williamsburg,5299,2.1,8.5,KY
+Hodgenville,3223,1.6,14.6,KY
+Paintsville,4061,2.5,6.2,KY
+Benton,4495,0.2,31.6,KY
+Berea,15893,1.3,20.5,KY
+Paris,9809,1.3,21.8,KY
+Elizabethtown,30180,2.1,13.3,KY
+Cynthiana,6362,1.9,17.1,KY
+Lancaster,3866,2.1,15.3,KY
+Ludlow,4502,2,16.4,KY
+Danville,16801,2,16.8,KY
+Grayson,3983,2.8,10.8,KY
+Shepherdsville,12391,2.1,20.7,KY
+Corbin,7267,2.1,22.6,KY
+Nicholasville,30922,1.9,26.6,KY
+Georgetown,34351,1.8,28.9,KY
+Richmond,35952,1.8,29.7,KY
+Leitchfield,6914,2,28.1,KY
+Somerset,11453,2.6,21.6,KY
+Scottsville,4478,1.3,36.2,KY
+Ashland,20525,1.5,37.7,KY
+Hazard,5035,2.4,28.6,KY
+Maysville,8770,2.2,31.5,KY
+Russellville,7088,2.4,30.1,KY
+Glasgow,14411,2.3,31.4,KY
+Florence,32701,1.8,37.9,KY
+Mount Sterling,7253,1.9,37.4,KY
+London,8008,2.2,33.8,KY
+Lebanon,5668,4.1,15,KY
+Middlesboro,9360,1.4,45.3,KY
+Hopkinsville,30606,2.8,32.6,KY
+Princeton,6075,1.6,46.3,KY
+Pikeville,6641,1.8,45.2,KY
+Lexington,325579,3,31.7,KY
+Frankfort,27664,2.6,38,KY
+Newport,14972,3.1,38,KY
+Covington,40448,4.1,27.1,KY
+Owensboro,59686,2.7,44.2,KY
+Shively,15876,3.5,36.4,KY
+Campbellsville,11503,2.8,45.4,KY
+Bowling Green,68268,3,48.5,KY
+Mayfield,9819,3.6,46.2,KY
+Oak Grove,7232,4.1,42.9,KY
+Hopkinton,18516,0.0666667,2.93333,MA
+Franklin,33156,0.166667,2.56667,MA
+Shrewsbury,37631,0.1,3.76667,MA
+Milton,27642,0.4,6.06667,MA
+Norton,19983,0.433333,1.26667,MA
+Lexington,34050,0.45,3.6,MA
+Westford,24649,0.6,3.13333,MA
+Andover,36324,0.933333,6.3,MA
+Sharon,18373,0.766667,2.86667,MA
+Wellesley,29681,0.4,4.73333,MA
+Holliston,14924,0.666667,2.83333,MA
+Winchester,23036,0.3,5.83333,MA
+Bedford,14319,0.5,3.83333,MA
+Reading,26293,0.3,6.1,MA
+Scituate,18761,0.266667,1.13333,MA
+Needham,31264,0.333333,5.53333,MA
+North Reading,15849,1.26667,3.56667,MA
+Belmont,26700,0.4,7.03333,MA
+Arlington,45876,0.9,5,MA
+Billerica,44482,0.9,4.73333,MA
+Melrose,28552,0.5,5.1,MA
+Concord,19459,0.4,5.7,MA
+Northborough,15124,0,7.3,MA
+Duxbury,16049,0.4,5.7,MA
+Grafton,18900,1.1,3.2,MA
+Sudbury,19037,1.1,3.3,MA
+Pembroke,18446,0.8,4.7,MA
+Marshfield,25922,1.3,3.2,MA
+Wilmington,24005,0.8,5.2,MA
+Marblehead,20652,1,4.9,MA
+Hanover,14521,0.1,8.3,MA
+Sandwich,20248,1.1,5,MA
+Newton,89505,0.6,7,MA
+Beverly,42114,1,5.8,MA
+Ashland,17860,1.2,5,MA
+North Andover,31394,1.1,5.5,MA
+Newburyport,18146,1,6.7,MA
+Acton,24038,1.1,6.5,MA
+Westwood,16267,0.6,8.4,MA
+Watertown,36320,0.8,7.8,MA
+Belchertown,15165,1.6,5.1,MA
+Winthrop,18783,1.5,6,MA
+Bridgewater,27584,2.1,4.2,MA
+Wakefield,27447,1.5,6.4,MA
+East Bridgewater,14558,1.5,6.5,MA
+Westborough,19226,0.9,9.4,MA
+Methuen,50676,0.9,9.6,MA
+Swampscott,15380,0.6,11.1,MA
+Dracut,31917,1.3,8.7,MA
+Hingham,23588,1.6,7.6,MA
+Hudson,20060,2.4,4.5,MA
+Easton,25225,1.8,6.9,MA
+Woburn,39895,1.2,9.4,MA
+Mansfield,24050,1.4,8.5,MA
+Chelmsford,35264,0.9,10.8,MA
+Norwood,29267,1.3,9.1,MA
+Medford,57997,1.3,9.4,MA
+Brookline,59199,0.9,10.7,MA
+Dedham,25437,0.3,13.3,MA
+Amesbury,17623,1.8,8.1,MA
+Longmeadow,15898,0.9,11.5,MA
+Westport,15959,2.1,7.2,MA
+Easthampton,16050,2.1,7.6,MA
+Amherst,40242,3,4.3,MA
+North Attleboro,29208,1,12.2,MA
+Milford,29056,2.1,8,MA
+Waltham,62655,1.9,9,MA
+Gloucester,30356,2.4,7.1,MA
+Bellingham,17184,1.1,12.2,MA
+Stoneham,22135,1.5,11,MA
+Walpole,25204,1.7,10.4,MA
+Somerset,18166,2.1,8.5,MA
+Whitman,15093,2.5,7.4,MA
+Wilbraham,14760,1.5,11.5,MA
+Natick,36717,1.5,11.4,MA
+Northbridge,16759,1.6,11.1,MA
+Canton,23709,3.4,5,MA
+Foxborough,17667,2.5,8.7,MA
+Swansea,16619,1.7,11.6,MA
+Braintree,37345,1.4,13,MA
+Abington,16443,2.5,8.9,MA
+Ludlow,21590,2.1,10.6,MA
+South Hadley,17799,1.3,14.1,MA
+Burlington,27562,1.5,13.7,MA
+Weymouth,57069,2.8,9,MA
+Attleboro,44719,2.2,11.8,MA
+Somerville,82161,2.2,12.4,MA
+Dartmouth,34322,1.9,13.3,MA
+Malden,61469,2.9,9.6,MA
+Tewksbury,31561,2.6,10.9,MA
+Westfield,41854,2.7,11.1,MA
+Peabody,53209,3,10,MA
+Stoughton,28729,2.6,11.4,MA
+Saugus,28471,2.3,13,MA
+Mashpee,14215,3.3,9.4,MA
+Bourne,19894,2.3,13.4,MA
+East Longmeadow,16398,1.7,16,MA
+Taunton,57304,4.2,6.2,MA
+Danvers,27703,1.9,15.2,MA
+Seekonk,15820,1.6,16.9,MA
+Plymouth,60349,3.8,8.6,MA
+Raynham,14320,1.9,16.4,MA
+Falmouth,31033,3.5,10.6,MA
+Framingham,72510,3.5,11.3,MA
+Barnstable,44015,3.8,10.5,MA
+Randolph,34535,3.1,13.2,MA
+Auburn,16771,1.7,19,MA
+Middleboro,25125,4.4,8.6,MA
+Salem,43634,1.9,18.9,MA
+Quincy,94388,3.7,12.6,MA
+Marlborough,40052,4.2,11.4,MA
+Lowell,111989,3.2,15.3,MA
+Agawam,28955,3.6,14.8,MA
+Everett,47005,3.7,14.6,MA
+Cambridge,114881,3,18,MA
+Yarmouth,23269,4.9,12.5,MA
+Fairhaven,16076,3.4,18.2,MA
+Northampton,28587,4,18.9,MA
+Revere,54296,4.8,16.3,MA
+Gardner,20704,4.4,17.6,MA
+Fitchburg,40836,5.8,12.9,MA
+Lawrence,80669,6.2,11.6,MA
+Haverhill,64012,5.6,14,MA
+Webster,17051,6.3,12.1,MA
+Lynn,94558,6,14.4,MA
+Southbridge,16933,5.3,18,MA
+Leominster,41727,5.2,19.7,MA
+Chelsea,40974,6.8,14.3,MA
+Greenfield,17443,5.8,18.6,MA
+Wareham,22747,7,16.9,MA
+Boston,694673,6.2,20.2,MA
+Worcester,186188,6.8,21.4,MA
+New Bedford,95106,6.3,25.5,MA
+Fall River,89475,10.1,15.2,MA
+Brockton,95922,9,21.6,MA
+West Springfield,28802,5.8,35.4,MA
+Pittsfield,42298,8.4,28.3,MA
+Springfield,155179,9.9,26.4,MA
+Holyoke,40470,9.7,40.5,MA
+Taneytown,6795,0.633333,9.26667,MD
+Ocean Pines,12244,1.46667,6.53333,MD
+Hampstead,6364,0.45,7.45,MD
+Mount Airy,9434,0.133333,3,MD
+Thurmont,6712,1.1,8.1,MD
+Centreville,4844,1.96667,10.9,MD
+Glenarden,6258,1.63333,10.7333,MD
+District Heights,6062,3.53333,8.06667,MD
+Bowie,59356,1.2,13.2,MD
+Brunswick,6322,3.33333,14,MD
+Frostburg,8591,2.2,15.9,MD
+Havre de Grace,13655,2.3,15.9,MD
+New Carrollton,13115,3,13.8,MD
+Bel Air,10027,2.3,23,MD
+Easton,16550,2.2,24.2,MD
+Cheverly,6519,3.2,20.1,MD
+Chestertown,5035,4,16.5,MD
+Takoma Park,18049,3.2,21.8,MD
+Frederick,72299,3.9,20.6,MD
+Annapolis,39461,5.4,23.1,MD
+Westminster,18603,4.5,31.1,MD
+Mount Rainier,8198,4.3,32.9,MD
+La Plata,9449,4.3,33,MD
+Greenbelt,23661,4.9,30.5,MD
+Riverdale Park,7330,6.1,23.7,MD
+Laurel,26038,4.4,35.7,MD
+Aberdeen,16210,7.2,19.4,MD
+Hagerstown,40384,6.3,26,MD
+Fruitland,5349,3.6,48.6,MD
+Bladensburg,9518,5.9,34.7,MD
+Hyattsville,18448,4.3,50.2,MD
+Seat Pleasant,4857,10.1,27,MD
+Cumberland,19555,7.5,45.1,MD
+Salisbury,33183,8.2,46.7,MD
+Cambridge,12364,10.4,48.7,MD
+Elkton,15681,12.7,63.1,MD
+Baltimore,605436,18.3,45,MD
+Ocean City,6950,11.9,119.7,MD
+Cumberland,8274,0.05,1.275,ME
+Cape Elizabeth,9358,0.05,2.25,ME
+Sabattus,5057,0.3,2.625,ME
+Eliot,6651,0.275,2.425,ME
+Yarmouth,8510,0.275,2.725,ME
+Gorham,17609,0.2,2.9,ME
+Hampden,7336,0.075,3.35,ME
+Kennebunk,11463,0.275,2.1,ME
+Gardiner,5673,0.15,6,ME
+Oakland,6253,0.666667,10.4333,ME
+Berwick,7738,0.4,8.9,ME
+Falmouth,12307,0.6,7.1,ME
+York,13170,0.6,6.9,ME
+Winthrop,6007,0.2,12.2,ME
+Wells,10412,0.6,7.6,ME
+South Berwick,7500,0.9,3.6,ME
+Topsham,8780,0.5,10.8,ME
+Scarborough,20072,0.3,12.6,ME
+Windham,18230,0.5,12.1,ME
+Orono,11451,0.9,7.9,ME
+Freeport,8542,0.5,12.9,ME
+Caribou,7617,0.7,10.9,ME
+Bar Harbor,5464,0.7,10.1,ME
+Farmington,7617,0.7,11.4,ME
+Lisbon,8869,1,8,ME
+Waldoboro,5015,1,8.8,ME
+Buxton,8285,1.1,7.7,ME
+Winslow,7589,0.9,11.3,ME
+Belfast,6765,0.7,13.9,ME
+Paris,5145,0.6,16.3,ME
+Bridgton,5391,1.1,10.4,ME
+Kittery,9755,1.1,11,ME
+Old Town,7450,0.7,17.3,ME
+Bath,8293,0.6,18.4,ME
+Rockland,7171,0.6,20.5,ME
+Fairfield,6539,1.1,15.6,ME
+Saco,19628,1.1,15.7,ME
+Ellsworth,8008,0.7,22.7,ME
+Brunswick,20672,1.4,17.5,ME
+South Portland,25557,1.4,17.8,ME
+Westbrook,18915,1.7,18.9,ME
+Lewiston,36170,2.3,16.5,ME
+Brewer,8984,1.3,29.6,ME
+Old Orchard Beach,8890,2.6,18.2,ME
+Waterville,16729,1.8,32,ME
+Presque Isle,8997,2.4,29.1,ME
+Portland,66997,2.9,24.3,ME
+Sanford,21062,2.7,27,ME
+Auburn,23031,2.2,33.2,ME
+Rumford,5712,2.3,32,ME
+Houlton,5770,3.3,21.7,ME
+Bangor,31746,1.8,41,ME
+Biddeford,21519,3,31.3,ME
+Skowhegan,8223,3,31.4,ME
+Augusta,18523,3.2,33.4,ME
+Oakland Township,19495,0.3,2.36667,MI
+Iron Mountain,7327,0.175,0.425,MI
+Addison Township,6598,0.433333,4.8,MI
+Kinross Township,7432,0.166667,1.96667,MI
+Spring Arbor Township,8044,0.7,3.1,MI
+Raisin Township,7716,0.666667,3.16667,MI
+Grosse Ile Township,10128,0.166667,2.6,MI
+Hamburg Township,22024,0.566667,3.3,MI
+Argentine Township,6526,1.13333,5.43333,MI
+Gaines Township,6100,0.5,4.16667,MI
+Rochester,13075,0.933333,4.76667,MI
+Brandon Township,15962,0.9,3.4,MI
+Milford,16808,0.5,4.6,MI
+Adrian Township,6264,0.525,1.25,MI
+Flushing Township,10179,0.866667,3.96667,MI
+Springfield Township,14423,0.833333,4.6,MI
+Oxford Township,19139,0.8,4.66667,MI
+Commerce Township,39023,0.466667,7.26667,MI
+South Lyon,11803,0.733333,4.1,MI
+Independence Township,36925,0.533333,5.53333,MI
+New Baltimore,12423,0.6,4.6,MI
+Berkley,15382,0.3,5.7,MI
+Napoleon Township,6751,0.6,5,MI
+Beverly Hills,10450,0.5,5.5,MI
+Chocolay Township,5936,1.2,3.5,MI
+Highland Township,20137,0.7,4.9,MI
+Orion Township,36193,0.6,5.5,MI
+Clayton Township,7121,1,4.4,MI
+Huntington Woods,6328,0.6,5.5,MI
+West Bloomfield Township,65928,0.6,5.9,MI
+Tittabawassee Township,9819,1,4.8,MI
+Birmingham,21295,0.5,6.4,MI
+Thomas Township,11488,0.7,5.9,MI
+Rochester Hills,74669,0.7,5.9,MI
+Clawson,11962,1,5.8,MI
+Plymouth Township,27032,0.9,6.1,MI
+St. Johns,7890,1.3,5.1,MI
+Northville,5992,0.8,6.7,MI
+Tecumseh,8363,0.8,6.7,MI
+Trenton,18176,1.2,5.7,MI
+Sumpter Township,9362,0.9,6.7,MI
+Bloomfield Township,42199,0.5,7.7,MI
+Walled Lake,7170,1.3,6.1,MI
+White Lake Township,31236,0.4,8.5,MI
+Marysville,9674,0.9,7.2,MI
+Plymouth,9142,0.8,8.1,MI
+Montrose Township,7459,1.5,6.3,MI
+Shelby Township,79878,1.5,6.3,MI
+Grand Blanc,7841,0.5,9.2,MI
+Royal Oak,59383,0.9,8.1,MI
+Farmington Hills,81239,0.8,8.4,MI
+Farmington,10605,1.9,5.5,MI
+Novi,60378,0.7,8.8,MI
+Holly,6170,1.1,7.8,MI
+St. Joseph Township,9773,0.7,9,MI
+Clay Township,8849,1.5,7,MI
+Green Oak Township,18874,1.3,7.4,MI
+Bath Township,12984,1.1,8.2,MI
+East Grand Rapids,11886,0.5,10.3,MI
+DeWitt Township,15194,1.2,8.4,MI
+"Richfield Township, Genesee County",8325,1.7,7,MI
+Grosse Pointe Farms,9116,0.7,9.9,MI
+Saline,9358,1.4,8.1,MI
+Woodhaven,12435,1,9.4,MI
+Midland,41961,1.3,8.4,MI
+Rockford,6345,1.1,9.3,MI
+Northville Township,28939,0.7,10.4,MI
+Riverview,12058,1.2,9.6,MI
+Grand Ledge,7804,0.9,10.5,MI
+Marquette,20529,1.1,9.9,MI
+Huron Township,15930,2.1,7.5,MI
+St. Louis,7274,2.1,8,MI
+Lincoln Township,14585,0.8,12.1,MI
+Berrien Springs-Oronoko Township,8961,1.9,9.3,MI
+Davison Township,19177,2.1,8.9,MI
+Canton Township,92055,1.5,10.7,MI
+Big Rapids,10369,2.3,8.3,MI
+Northfield Township,8741,1.4,11.2,MI
+Sterling Heights,133055,1.8,10,MI
+Richmond,5918,3,6.8,MI
+Troy,84221,0.6,13.7,MI
+Hampton Township,9458,1.9,10.3,MI
+Brownstown Township,31912,2.4,8.8,MI
+Flushing,7890,1.4,11.9,MI
+Waterford Township,73066,2,10.3,MI
+Grand Blanc Township,36489,1.3,12.3,MI
+St. Clair Shores,59618,2.2,9.9,MI
+Milan,6079,1.6,11.8,MI
+Columbia Township,7356,2.3,10.1,MI
+Grosse Pointe Woods,15497,0.8,14.5,MI
+Houghton,7914,0.9,14.7,MI
+Brighton,7635,1.4,13.4,MI
+Chesterfield Township,45686,1.3,13.8,MI
+Wixom,13876,1.9,12.2,MI
+Fraser,14626,1.6,13.5,MI
+Livonia,93740,1.5,14,MI
+Oscoda Township,6771,2.4,11.7,MI
+Alma,8944,2.3,11.7,MI
+Metro Police Authority of Genesee County,19887,2.1,13.5,MI
+Howell,9532,2.7,11.7,MI
+Ishpeming,6441,2.9,11.6,MI
+Hillsdale,8120,2.6,12.7,MI
+Forsyth Township,6199,4.4,7.7,MI
+Belding,5737,2.8,12.2,MI
+Madison Township,8341,1.8,15.1,MI
+Garden City,26520,4,9.1,MI
+Pittsfield Township,39314,1.9,14.8,MI
+Mount Pleasant,25828,2.9,12.5,MI
+Grand Haven,10984,1.9,15.8,MI
+Coloma Township,6369,1.6,17.1,MI
+Flat Rock,9967,2.6,14.4,MI
+Ann Arbor,122571,2.2,15.8,MI
+Ferndale,20095,1.9,17,MI
+Genesee Township,20447,3.6,12.5,MI
+East Lansing,48880,2.2,16.5,MI
+Fenton,11225,1.5,18.4,MI
+Madison Heights,30100,3,14.5,MI
+Sault Ste. Marie,13557,2.2,16.6,MI
+Ionia,11170,4.3,10.7,MI
+Wyandotte,24862,2.5,16,MI
+Clinton Township,101279,3.2,14,MI
+Oak Park,29688,2.8,15.3,MI
+Marshall,6986,1.6,19.2,MI
+Menominee,8089,2.8,16.7,MI
+Ludington,8058,4.2,13.5,MI
+Bridgeport Township,9853,4.1,14,MI
+Allen Park,27020,2.5,18.5,MI
+Mason,8431,3.1,17,MI
+Saginaw Township,39198,2,20.3,MI
+Westland,81438,3.9,15.2,MI
+Hazel Park,16501,3.2,17.2,MI
+Owosso,14455,5.3,11.7,MI
+Hastings,7310,1.9,21.8,MI
+Van Buren Township,28210,3,19.1,MI
+Walker,25010,2.5,20.9,MI
+Southfield,73418,2.8,20.6,MI
+Dearborn Heights,55495,4.4,16.4,MI
+Dearborn,94022,3.3,19.9,MI
+Traverse City,15630,4.7,16.2,MI
+St. Joseph,8364,3.1,22.1,MI
+Alpena,9934,4.1,19.5,MI
+Kentwood,52192,3.7,21.1,MI
+Ontwa Township-Edwardsburg,6493,4.5,19.1,MI
+Meridian Township,43072,2.3,25.3,MI
+Southgate,28959,1.6,27.2,MI
+Wyoming,76498,4.6,19.3,MI
+Manistee,6091,4.6,19.4,MI
+Norton Shores,24578,1.5,28.3,MI
+Center Line,8275,4.2,20.9,MI
+Auburn Hills,23579,4,22.5,MI
+Holland,33405,4.3,21.8,MI
+Charlotte,9053,2.7,26.4,MI
+Warren,135160,5.1,20.8,MI
+Monroe,19754,5.8,19.4,MI
+Portage,49175,2.4,29.3,MI
+Burton,28464,4.5,24.1,MI
+Grandville,16057,1.7,32.1,MI
+Escanaba,12169,3.4,27.7,MI
+Grand Rapids,200428,6.6,19.1,MI
+Wayne,16862,7.8,15.8,MI
+Kalamazoo Township,24623,4,26.8,MI
+River Rouge,7426,5.5,23,MI
+Adrian,20624,5.6,23,MI
+Mount Morris Township,20295,6.8,19.8,MI
+Taylor,61037,6,22.1,MI
+Sturgis,10796,5.7,24,MI
+Cadillac,10455,6.5,21.6,MI
+Redford Township,46899,6.4,22.3,MI
+Fruitport Township,14168,1.1,38.4,MI
+Coldwater,10736,4.6,29.1,MI
+Bay City,32953,7,22.2,MI
+Niles,11154,6.3,24.5,MI
+Melvindale,10291,6.6,23.6,MI
+Lapeer,8697,4.3,30.7,MI
+Blackman Township,36884,2.6,35.8,MI
+Roseville,47524,3.9,32.2,MI
+Lincoln Park,36466,5.7,28.1,MI
+Hamtramck,21668,7.7,22.8,MI
+Romulus,23389,8.1,22.7,MI
+Buena Vista Township,8146,10.6,17.1,MI
+Greenville,8437,5,33.5,MI
+Port Huron,28907,8,25.8,MI
+Muskegon Township,17879,2.2,43.7,MI
+Eastpointe,32526,6.8,32.7,MI
+Ypsilanti,21298,8.7,28.7,MI
+Inkster,24334,10.8,27,MI
+Pontiac,59817,13.4,21.5,MI
+Three Rivers,7673,7.4,39.2,MI
+Battle Creek,60615,9.9,32.3,MI
+Albion,8241,8.4,36.9,MI
+Ecorse,9184,10.5,32,MI
+Lansing,117380,11.1,30.3,MI
+Emmett Township,11619,3.6,52.2,MI
+Muskegon,38125,6.4,45,MI
+Saginaw,48302,16.2,18.3,MI
+Flint Township,30378,8.8,40,MI
+Jackson,32602,11.2,42.5,MI
+Harper Woods,13674,9.4,49.5,MI
+Flint,95677,18.2,27,MI
+Highland Park,10794,17.4,31.9,MI
+Lansing Township,8213,8.2,63.9,MI
+Kalamazoo,76020,13.3,50.3,MI
+Detroit,671275,20.1,43,MI
+Benton Harbor,9836,21.7,42.9,MI
+Benton Township,14382,16.1,59.6,MI
+Muskegon Heights,10720,22.4,58.8,MI
+Kasson,6444,0.7,8.1,MN
+La Crescent,5012,0.6,5.96667,MN
+Orono,20225,0.366667,6.76667,MN
+Elko New Market,4809,0.2,2.56667,MN
+South Lake Minnetonka,12731,0.633333,8.46667,MN
+Cold Spring/Richmond,5572,0.433333,7.43333,MN
+Minnetrista,10357,0.4,9.56667,MN
+Dayton,5970,0.266667,9.83333,MN
+Lake City,5116,0.533333,9.06667,MN
+Farmington,23355,0.533333,8.73333,MN
+Medina,6721,0.433333,12.4667,MN
+Jordan,6375,0.933333,8.73333,MN
+Lino Lakes,21577,0.5,9.16667,MN
+Rosemount,24707,0.733333,8.1,MN
+Lakeville,64914,0.666667,9.23333,MN
+St. Joseph,7212,0.733333,8.8,MN
+Corcoran,5988,0.533333,6.76667,MN
+Big Lake,11036,0.833333,5.86667,MN
+Chaska,26962,0.733333,9.8,MN
+Plymouth,79559,0.666667,12.2667,MN
+West Hennepin,5663,0.9,7.6,MN
+Belle Plaine,7189,0.7,10.6,MN
+Stillwater,19467,0.9,7.8,MN
+New Prague,7884,0.6,11.5,MN
+Chisholm,4908,0.8,9.8,MN
+East Grand Forks,8632,0.8,10.1,MN
+Edina,52544,0.4,15.3,MN
+New Ulm,13202,0.7,12.3,MN
+Eden Prairie,64917,0.6,13.4,MN
+Minnetonka,53573,0.5,15.1,MN
+Montevideo,5101,0.8,12.2,MN
+Woodbury,70900,0.7,13.3,MN
+Champlin,25304,1,9.2,MN
+Wyoming,7900,1.1,8,MN
+Grand Rapids,11297,0.8,12.8,MN
+Maple Grove,72502,0.6,15.4,MN
+Cottage Grove,37102,0.7,14.7,MN
+Sartell,18014,0.6,16.7,MN
+Ramsey,27023,1,12.9,MN
+Glencoe,5480,1.1,11.9,MN
+Sauk Rapids,13853,0.4,20.4,MN
+Centennial Lakes,11062,1,13.4,MN
+International Falls,5933,1.3,9.8,MN
+Northfield,20535,1.4,9.7,MN
+New Hope,21168,0.7,18.7,MN
+Rogers,13257,0.8,17.8,MN
+St. Peter,12012,1.2,12.7,MN
+Savage,32029,1.1,13.5,MN
+North Mankato,13794,1.4,10.4,MN
+Isanti,5787,0.7,19.2,MN
+Cloquet,11911,1,15.2,MN
+Litchfield,6615,1.2,12.7,MN
+Becker,4880,1.8,4.9,MN
+Owatonna,25829,1,17,MN
+Eagan,66981,0.9,19.2,MN
+Waseca,8918,0.8,21.3,MN
+Wayzata,6582,0.9,19.8,MN
+St. Francis,7728,1.3,15.3,MN
+Golden Valley,21688,1,18.9,MN
+Elk River,24724,1.2,17.4,MN
+St. Paul Park,5409,1.1,18.5,MN
+North St. Paul,12588,1.2,17.5,MN
+Buffalo,16304,1,19.4,MN
+Baxter,8372,1.1,19.1,MN
+Apple Valley,52922,1.2,18.1,MN
+Morris,5300,1.9,9.4,MN
+Mendota Heights,11381,1.4,18.2,MN
+Sauk Centre,4389,1.8,13.9,MN
+Little Falls,8683,1.4,19.7,MN
+Coon Rapids,62818,1.3,21,MN
+North Branch,10511,1.1,23.4,MN
+Blaine,65649,1,26,MN
+New Brighton,22978,1.1,24.5,MN
+Windom,4401,1.8,15.5,MN
+Hopkins,18838,1.7,17.7,MN
+Crystal,23310,1.5,20.9,MN
+Fairmont,10053,1.2,24.3,MN
+Prior Lake,26925,1.5,21.3,MN
+Oakdale,28178,1.3,23.5,MN
+Moorhead,43657,1.4,23.5,MN
+Marshall,13713,1.8,18.2,MN
+Hastings,22799,1.8,18.1,MN
+Lakes Area,9679,2.1,15.5,MN
+Worthington,13309,2.6,8.3,MN
+Anoka,17574,1.5,22.4,MN
+Hutchinson,13862,2,16.4,MN
+Shakopee,41424,1.8,19.6,MN
+St. Louis Park,49595,1.4,24.7,MN
+Winona,26840,1.6,22.9,MN
+White Bear Lake,26187,1.4,26.9,MN
+Albert Lea,17655,1.5,26.4,MN
+Rochester,117037,1.9,20.8,MN
+Thief River Falls,8865,1.8,23.4,MN
+Hibbing,15998,2.8,11.4,MN
+Cambridge,8905,1,34.8,MN
+Inver Grove Heights,35592,2.5,15.7,MN
+St. Anthony,9205,2.1,22.4,MN
+Richfield,36300,2.2,21.2,MN
+Burnsville,61592,1.9,26.2,MN
+Princeton,4666,1.3,35.1,MN
+Crookston,7779,2.4,20.4,MN
+South St. Paul,20260,2.3,24.9,MN
+Bloomington,86279,1.9,30,MN
+Oak Park Heights,4991,1.2,39.3,MN
+Detroit Lakes,9289,2,29.1,MN
+Austin,24935,2.6,21.8,MN
+Mounds View,13235,1.7,33.9,MN
+Hermantown,9525,1,43.3,MN
+Red Wing,16405,2.4,26,MN
+Columbia Heights,21119,2.7,23.9,MN
+Robbinsdale,14629,3.3,15.9,MN
+Faribault,23806,3.2,17.8,MN
+Willmar,19635,2.8,25.4,MN
+Fergus Falls,13839,2.2,35.3,MN
+Dilworth,4474,1.3,46.5,MN
+Redwood Falls,4952,3,32.3,MN
+Maplewood,41339,2.2,45,MN
+Fridley,27943,3,36.3,MN
+Mankato,42606,3.3,33.3,MN
+Alexandria,13759,3.7,28.3,MN
+Brooklyn Park,81263,3.7,30.3,MN
+Roseville,36701,2.3,49.8,MN
+Brooklyn Center,31128,3.8,34.2,MN
+St. Cloud,68282,3.8,37.7,MN
+Virginia,8458,4.1,34.6,MN
+Duluth,86048,3.6,42.9,MN
+Brainerd,13404,4.6,33.8,MN
+West St. Paul,19798,3.7,48.5,MN
+Spring Lake Park,6515,4.1,44.7,MN
+St. Paul,309756,6.3,32.5,MN
+Bemidji,15528,5.1,70.5,MN
+Minneapolis,428261,7.9,39.1,MN
+Waite Park,7512,3.9,100.1,MN
+Cottleville,6218,0.333333,13.9333,MO
+Glendale,5670,0.833333,4.66667,MO
+Byrnes Mill,5881,0.433333,8.16667,MO
+Ballwin,3016,0.566667,4.6,MO
+Clever,30151,0.366667,7.13333,MO
+Bonne Terre,2743,1.63333,5.6,MO
+Town and Country,7305,1.33333,6.03333,MO
+Fayette,11154,0.333333,11.9,MO
+Webster Groves,2713,0.866667,15.3,MO
+Platte City,22873,1.1,8.76667,MO
+Rock Hill,4979,0.733333,14.3333,MO
+Ellisville,4599,0.866667,11.2333,MO
+Ladue,9842,1.03333,12.9667,MO
+California,8625,0.533333,12.1333,MO
+Higginsville,4425,1.3,13.5333,MO
+Louisiana,4606,0.9,13.5667,MO
+Licking,3282,2,15.0667,MO
+Wright City,3094,1.83333,13.8333,MO
+Savannah,3777,0.933333,12.6,MO
+NA,5202,0.866667,9.96667,MO
+Vandalia,4215,1.7,8.1,MO
+Kearney,10300,0.6,14.5,MO
+Maryville,11716,0.6,14.4,MO
+Chesterfield,47602,0.5,15.4,MO
+Eureka,10626,1,12.2,MO
+Nixa,21653,1.2,11.5,MO
+Rogersville,3739,0.8,14.2,MO
+Jackson,15101,1.3,11.9,MO
+Ste. Genevieve,4443,0.7,15.3,MO
+Pleasant Valley,3059,1.6,10.1,MO
+Lake St. Louis,16134,0.7,15.4,MO
+Manchester,18114,0.9,14.7,MO
+Kirkwood,27670,1.1,13.8,MO
+O'Fallon,88763,1.6,10.7,MO
+Moscow Mills,3004,1.3,12.6,MO
+Knob Noster,2763,0.7,16.3,MO
+Smithville,10012,1,15.3,MO
+Ashland,3956,1.5,12.4,MO
+Odessa,5184,1.5,13.1,MO
+Creve Coeur,18831,1.2,15.3,MO
+Lexington,4531,3.5,2.2,MO
+Frontenac,3875,0.8,18.8,MO
+Tipton,3387,3.8,1.5,MO
+Clayton,16935,1.5,15.6,MO
+Grain Valley,14165,1.8,14.2,MO
+Raymore,21452,0.4,22.1,MO
+Peculiar,5192,0.4,22.5,MO
+Wentzville,41057,2.6,10.4,MO
+Willard,5447,2.8,9.5,MO
+Sunset Hills,8492,1.3,18.4,MO
+Olivette,7843,2,14,MO
+Bethany,3107,0.6,23.5,MO
+Boonville,8434,1.4,19.2,MO
+Buckner,3053,1,21.9,MO
+Palmyra,3598,0.3,26.4,MO
+Pacific,7241,1.2,20.9,MO
+Lee's Summit,98144,1.2,21.4,MO
+Cameron,9736,1.8,17.9,MO
+Parkville,6963,1.9,17.8,MO
+Mount Vernon,4525,0.4,27.2,MO
+Trenton,5800,2.2,16.7,MO
+Waynesville,5275,2.7,15.4,MO
+Oronogo,2578,3.5,10.5,MO
+Dexter,7839,0.6,27.4,MO
+Scott City,4486,2.2,19.2,MO
+Mexico,11507,1.2,25.1,MO
+St. Peters,57838,1.8,21.6,MO
+Webb City,11379,0.9,27.2,MO
+Troy,12226,2.1,20,MO
+Liberty,31842,2.9,16,MO
+Centralia,4255,2.8,16.7,MO
+Ozark,20203,2,21.6,MO
+Chillicothe,9699,3.1,15.6,MO
+Montgomery City,2630,1.5,25.1,MO
+Republic,16495,2.6,18.9,MO
+Florissant,51326,2.2,21,MO
+Mountain View,2645,0.8,30.2,MO
+St. Charles,70925,2.1,22.7,MO
+Holts Summit,4599,4.6,8.5,MO
+Marshfield,7442,0.9,29.8,MO
+Macon,5368,2,23.5,MO
+St. James,4059,0.7,31.5,MO
+Versailles,2426,2.5,21.4,MO
+Oak Grove,8151,2,25.4,MO
+Forsyth,2437,2.5,22.6,MO
+Brookfield,4291,3.3,17.9,MO
+Marshall,12655,2.3,23.7,MO
+Butler,4025,2,25.8,MO
+St. Ann,12698,2.8,21.7,MO
+Herculaneum,4067,3.7,16.7,MO
+Salem,4910,1,32.4,MO
+Excelsior Springs,11626,1.9,30.2,MO
+Eldon,4632,3.5,21.6,MO
+Portageville,3019,4,18.9,MO
+Farmington,18740,1.5,33.1,MO
+Arnold,21151,1,36.3,MO
+Owensville,2576,1.9,31.1,MO
+St. John,6344,2.4,29.2,MO
+Blue Springs,55277,2.4,28.9,MO
+Kirksville,17539,2.5,28.9,MO
+Festus,12092,4.6,16.7,MO
+Maryland Heights,26930,3.5,25.7,MO
+Lamar,4303,1.9,36.3,MO
+Crystal City,4726,2.5,33.2,MO
+Gladstone,27382,4.2,24.1,MO
+Bowling Green,5577,5.7,15.4,MO
+Ava,2883,3.5,28.8,MO
+Columbia,123586,3.6,28.2,MO
+Monett,8984,3.2,30.5,MO
+Harrisonville,10113,3.6,29.5,MO
+Jefferson City,42856,3.5,29.8,MO
+Malden,3943,6.3,14.5,MO
+University City,34438,3.1,33.3,MO
+Washington,13964,2.4,37.7,MO
+Hazelwood,25234,3.9,29.1,MO
+Shrewsbury,6108,3.1,33.9,MO
+Fulton,12856,2.3,38.9,MO
+Cuba,3302,1.5,44.2,MO
+Breckenridge Hills,4612,4.3,28.4,MO
+Mountain Grove,4659,5.6,21.2,MO
+Perryville,8495,4.8,26.4,MO
+Brentwood,7991,1.9,44.4,MO
+Warrensburg,20355,3.8,34,MO
+Bolivar,10966,2.7,40.4,MO
+Neosho,12057,2.4,43.6,MO
+Northwoods,4404,5.7,25.2,MO
+Fredericktown,4014,5.7,25.7,MO
+Charleston,5599,6.6,20.5,MO
+Pevely,5883,5.8,28.2,MO
+Camdenton,4106,2.4,48,MO
+Sugar Creek,3303,4.5,38.4,MO
+Carrollton,3508,9.4,11.4,MO
+Sullivan,7156,3.1,49.2,MO
+Cape Girardeau,39303,4.9,39.1,MO
+Rolla,20385,5.9,33.5,MO
+West Plains,12277,3.6,47.7,MO
+Richmond Heights,8342,2.6,53.3,MO
+Buffalo,3057,4.6,42.2,MO
+Moberly,13750,8.7,18.4,MO
+Desloge,4861,3.1,51.4,MO
+Union,11710,4.4,45.5,MO
+Clinton,8897,5.5,39.9,MO
+El Dorado Springs,3568,2.5,57.5,MO
+Lebanon,14622,3.9,50,MO
+Richmond,5636,5.5,42.6,MO
+Raytown,29173,5.2,44.4,MO
+Sikeston,16129,6,39.9,MO
+Des Peres,8601,1.3,67.8,MO
+Woodson Terrace,4032,6.2,40.2,MO
+Grandview,25256,6.8,36.6,MO
+Independence,117368,4.4,52.1,MO
+St. Robert,6006,4.8,53.1,MO
+Ferguson,20663,6.2,45.8,MO
+Hannibal,17545,5.8,51.1,MO
+Potosi,2623,3,69,MO
+Osage Beach,4582,5,58.1,MO
+Warrenton,8283,7.5,44.5,MO
+Nevada,8116,5.4,58.2,MO
+Kennett,10326,4.8,63.3,MO
+Bridgeton,11663,5.8,58.3,MO
+Sedalia,21590,8.5,43.7,MO
+Poplar Bluff,17074,5,68.1,MO
+Bellefontaine Neighbors,10597,9.4,43.6,MO
+Aurora,7478,9.9,46.7,MO
+Bel-Ridge,2661,11.6,43.6,MO
+Cassville,3311,6,77.6,MO
+Hayti,2644,10.2,57.5,MO
+St. Clair,4702,11.3,54.4,MO
+Caruthersville,5640,12.4,47.9,MO
+Maplewood,8130,5.9,86.1,MO
+Pagedale,3292,14.9,34.3,MO
+Vinita Park,11003,13.1,53.8,MO
+Kansas City,493115,15.9,43.1,MO
+North Kansas City,4552,9.7,84.8,MO
+Riverview,2772,17.3,41.1,MO
+Springfield,168537,13.2,70.2,MO
+Branson,11589,7.3,105.6,MO
+St. Louis,306875,18,59.1,MO
+Madison,25832,0.533333,8.8,MS
+Brandon,24283,0.966667,8.66667,MS
+Clinton,25137,0.15,10.25,MS
+Horn Lake,27238,0.966667,25.2,MS
+Southaven,54772,1.23333,28.3333,MS
+Jackson,166024,0,47.3,MS
+Vicksburg,22298,0,51.1,MS
+Ocean Springs,17726,2,33.2,MS
+Gautier,18501,3.4,31,MS
+Meridian,37500,4.1,39.4,MS
+Biloxi,46148,3.2,55.8,MS
+Pascagoula,21654,3.4,61.2,MS
+Laurel,18486,5.6,47.1,MS
+Gulfport,72402,5.3,50.6,MS
+Glendive,5132,1.8,14.7,MT
+Deer Lodge,2902,3.83333,24.3333,MT
+Whitefish,7801,1.56667,21.0667,MT
+Columbia Falls,5456,1.4,21.3667,MT
+Dillon,4281,3.1,6.56667,MT
+Miles City,8496,1.66667,18.6,MT
+Bozeman,48101,2.76667,23.6667,MT
+Laurel,6800,1.93333,22.4333,MT
+Belgrade,8724,2.7,22.2667,MT
+Glasgow,3325,3.33333,11.6667,MT
+Lewistown,5899,4.6,13.1,MT
+Kalispell,23700,3,28.5,MT
+Sidney,6490,6.5,13.7,MT
+Havre,9821,4,32.2,MT
+Hamilton,4794,4.4,35.5,MT
+Livingston,7608,6,27.9,MT
+Missoula,74300,4.5,47.4,MT
+Billings,110397,5.4,47.8,MT
+Polson,4928,8.1,35.7,MT
+Cut Bank,3013,8.3,38.2,MT
+Helena,31898,6.1,53.1,MT
+Beulah,2366,0,1.05,ND
+Lincoln,3288,1,5.63333,ND
+Stanley,3956,0.533333,2.9,ND
+Harvey,2883,0.533333,2,ND
+Rugby,1715,2.26667,10.7,ND
+New Town,2679,1.06667,16.2333,ND
+Lisbon,2626,0.766667,7.33333,ND
+West Fargo,2063,1.4,18,ND
+Wahpeton,37385,1.7,13.8,ND
+NA,7836,1.46667,24.7,ND
+Grafton,4216,1.9,23.2,ND
+Dickinson,22878,2.4,21.9,ND
+Minot,48829,2.7,20.7,ND
+Valley City,6423,2.5,22.7,ND
+Jamestown,15378,2.6,22.2,ND
+Grand Forks,57662,2.6,24.5,ND
+Watford City,7931,4.5,15.4,ND
+Bismarck,74644,3,27.2,ND
+Devils Lake,7314,2.3,38.6,ND
+Mandan,22743,3.6,30.3,ND
+Fargo,124906,4.2,31.5,ND
+Williston,27390,5.2,28.3,ND
+Seward,7209,0.25,8.85,NE
+Schuyler,6210,0.633333,2.03333,NE
+Lexington,9996,1.65,17.25,NE
+La Vista,17177,1.05,15.1,NE
+Blair,8103,1.15,14.3,NE
+Columbus,23257,1.1,18.6,NE
+Alliance,8122,1.85,13.9,NE
+Gering,8291,0.566667,4.53333,NE
+Norfolk,24458,1.43333,20.0667,NE
+Ralston,7535,2.4,26.7,NE
+Chadron,5621,1.6,16.7,NE
+Papillion,19588,2,18.7,NE
+Plattsmouth,6444,2.2,17.5,NE
+Bellevue,53683,2.1,18.3,NE
+Fremont,26465,2.2,20.2,NE
+York,7875,0.8,30.5,NE
+McCook,7518,2.8,17.2,NE
+Sidney,6602,2.4,20.1,NE
+Kearney,34261,2.5,23.4,NE
+Beatrice,12244,2.7,23.9,NE
+South Sioux City,12845,1.9,30.3,NE
+Hastings,24963,2,33.2,NE
+Crete,7185,5,16.3,NE
+Lincoln,288589,3.6,28.8,NE
+Scottsbluff,16029,3.4,30.3,NE
+Nebraska City,7316,4,30.2,NE
+Grand Island,51768,4.7,29.1,NE
+North Platte,23774,4.1,42.3,NE
+Omaha,469351,5.6,34.8,NE
+Danville,4595,0.533333,4.53333,NH
+Sandown,6501,0.233333,3.16667,NH
+Atkinson,6970,0.266667,3.73333,NH
+Hollis,7851,0.533333,5.03333,NH
+Windham,14811,0.333333,4.4,NH
+New Boston,5706,0.633333,3.46667,NH
+Weare,8990,1,5.83333,NH
+Hopkinton,5680,0.0666667,6.1,NH
+Durham,16813,0.766667,4.2,NH
+Hampstead,8696,0.633333,6.33333,NH
+Bow,7860,0.433333,4.43333,NH
+Newton,4995,0.8,4.5,NH
+Merrimack,25683,0.133333,6.8,NH
+Barrington,9122,0.766667,5.7,NH
+Nottingham,5130,0.6,4.16667,NH
+Kingston,6308,0.766667,3,NH
+Brentwood,4740,0.4,5.23333,NH
+Auburn,5564,0.5,7.5,NH
+Brookline,5351,0.7,2.8,NH
+Stratham,7484,0.633333,5.33333,NH
+Milford,15497,0.5,6.1,NH
+Enfield,4536,0.9,4.4,NH
+Epsom,4707,0.8,5.1,NH
+Loudon,5523,0.5,6.9,NH
+Rye,5501,0.9,5.1,NH
+Raymond,10485,1,5.2,NH
+Litchfield,8535,0.7,6.6,NH
+Deerfield,4536,0.7,7.3,NH
+Chester,5201,1,5.8,NH
+Bedford,22640,0.5,8.4,NH
+Henniker,4948,1.2,5.1,NH
+Pelham,13795,0.9,7,NH
+Hanover,11519,0.7,8.3,NH
+Exeter,15305,1,7.4,NH
+New Ipswich,5302,1.3,5.8,NH
+Fremont,4821,1.2,6.8,NH
+Newmarket,9160,1.6,5.2,NH
+Amherst,11232,0.5,11.3,NH
+Goffstown,17978,1.3,7.5,NH
+Rindge,6235,0.8,10.7,NH
+Hudson,25232,1,9.7,NH
+Londonderry,26627,1.5,7.3,NH
+North Hampton,4510,0.9,10.4,NH
+Peterborough,6536,0.8,11.8,NH
+Derry,33724,1.3,9.3,NH
+Dover,31600,1.1,11.2,NH
+Milton,4636,1.1,11.4,NH
+Berlin,10263,1.6,10,NH
+Wakefield,5708,1.8,9.3,NH
+Alton,5353,1.7,9.7,NH
+Wolfeboro,6286,2.4,6.8,NH
+Nashua,88596,1.4,12.9,NH
+Farmington,6902,1,15.5,NH
+Hooksett,14283,1.3,14.5,NH
+Hampton,15679,2.2,10.1,NH
+Salem,29297,1,16.2,NH
+Franklin,8621,2.3,9.6,NH
+Gilford,7216,1.1,16.5,NH
+Northfield,4864,2.5,9.9,NH
+Charlestown,4988,3.4,5,NH
+Jaffrey,5232,3.1,7.1,NH
+Epping,7114,2.1,12.9,NH
+Portsmouth,22038,1.6,15.5,NH
+Plymouth,6722,1.8,15.3,NH
+Pembroke,7157,2.9,9.5,NH
+Newport,6347,1.9,15.8,NH
+Lebanon,13578,1.6,17.4,NH
+Meredith,6446,2.3,13.7,NH
+Seabrook,8941,1.8,17.3,NH
+Plaistow,7773,0.9,22.9,NH
+Belmont,7329,1.6,20.2,NH
+Hillsborough,5936,3,13,NH
+Conway,10153,1.8,20.1,NH
+Littleton,5872,1.2,23.8,NH
+Barnstead,4674,4.3,9.6,NH
+Concord,43071,2.4,19.7,NH
+Keene,22870,2,24.5,NH
+Haverhill,4557,3.1,19.5,NH
+Somersworth,11920,2.5,26.8,NH
+Claremont,12930,4.5,19.1,NH
+Laconia,16658,2.4,33.3,NH
+Rochester,30947,3.8,29.1,NH
+Manchester,111422,5.9,25.8,NH
+Kinnelon,10157,0.0666667,2.16667,NJ
+Bergenfield,10080,0.333333,3.4,NJ
+Mount Olive Township,27684,0.133333,3.33333,NJ
+Tenafly,28994,0.266667,4.53333,NJ
+Chatham Township,14742,0.233333,3.8,NJ
+Bernards Township,10288,0.1,3.63333,NJ
+Dumont,26813,0.0333333,3.66667,NJ
+Sparta Township,17825,0.233333,4.3,NJ
+Washington Township,18694,0.3,3.5,NJ
+Warren Township,18484,0.08,0.54,NJ
+"Monroe Township, Middlesex County",15951,0.166667,3.1,NJ
+New Milford,45597,0.0333333,1.16667,NJ
+Woolwich Township,16701,0.166667,3.3,NJ
+Mahwah Township,12636,0.166667,4.36667,NJ
+Hopatcong,26501,0.2,4.93333,NJ
+Clinton Township,14183,0.566667,5.06667,NJ
+Glen Rock,12824,0.1,4.23333,NJ
+Robbinsville Township,11937,0.1,6,NJ
+Hasbrouck Heights,14710,0.233333,4.7,NJ
+Jefferson Township,12163,0.3,5.03333,NJ
+Hillsdale,21071,0.4,4,NJ
+Vernon Township,10484,0.2,3.5,NJ
+Raritan Township,22057,0.233333,7.43333,NJ
+Montgomery Township,22092,0.166667,4.53333,NJ
+New Providence,23515,0.266667,4.13333,NJ
+Oakland,13283,0.0333333,4.63333,NJ
+Ringwood,13102,0.566667,5.03333,NJ
+Berkeley Heights Township,12303,0.3,3.9,NJ
+Waldwick,13646,0.233333,0.2,NJ
+Randolph Township,10019,0.166667,5.43333,NJ
+Madison,25552,0.2,5.6,NJ
+Hopewell Township,15832,0.333333,4.8,NJ
+Readington Township,18000,0.233333,4.96667,NJ
+Franklin Lakes,15941,0.233333,4.96667,NJ
+River Edge,11191,0.2,5.33333,NJ
+Harrison Township,11611,0.4,6.23333,NJ
+Roxbury Township,12915,0.166667,5.33333,NJ
+Denville Township,23010,0.133333,6.7,NJ
+Wyckoff Township,16737,0.366667,8.23333,NJ
+Lincoln Park,17161,0.266667,5.13333,NJ
+Morris Township,10308,0.266667,5.7,NJ
+Plainsboro Township,22183,0.366667,6.66667,NJ
+Branchburg Township,23243,0.333333,5.23333,NJ
+Manalapan Township,14577,0.433333,5.43333,NJ
+Florham Park,40150,0.466667,4.63333,NJ
+Manchester Township,11602,0.4,5.86667,NJ
+Middletown Township,42939,0.4,7,NJ
+Ridgewood,65469,0.233333,5.2,NJ
+Verona,25429,0.166667,6.7,NJ
+NA,13437,NA,6.96667,NJ
+NA,NA,NA,6.1,NJ
+Pequannock Township,15177,0.2,6.1,NJ
+Ridgefield,11329,0.3,6,NJ
+Cranford Township,24353,0.3,6,NJ
+West Caldwell Township,10912,0.2,6.2,NJ
+Barnegat Township,22777,0.6,5.3,NJ
+West Milford Township,26560,0.4,5.9,NJ
+Hillsborough Township,39796,0.4,6,NJ
+Colts Neck Township,9944,0.8,5.1,NJ
+South Brunswick Township,46340,0.5,6,NJ
+Summit,22125,0.3,6.5,NJ
+Ramsey,15126,0.1,7,NJ
+East Greenwich Township,10504,0.4,6.5,NJ
+Cliffside Park,25001,0.6,6,NJ
+Jackson Township,56706,0.5,6.3,NJ
+Westwood,11219,1,5.1,NJ
+Westfield,30011,0.1,7.2,NJ
+Cedar Grove Township,12566,0.3,6.8,NJ
+Waterford Township,10641,0.7,6,NJ
+East Windsor Township,27401,0.7,6.2,NJ
+Princeton,31856,0.3,7,NJ
+Maywood,9763,0.4,7,NJ
+Scotch Plains Township,24423,0.4,7,NJ
+Stafford Township,27141,0.6,6.7,NJ
+Point Pleasant,18474,0.8,6.2,NJ
+Bridgewater Township,45050,0.4,7.3,NJ
+Wanaque,11960,0.9,5.9,NJ
+Palisades Park,20888,0.8,6.2,NJ
+Marlboro Township,40338,0.6,6.7,NJ
+Parsippany-Troy Hills Township,52447,0.6,6.9,NJ
+Holmdel Township,16621,0.2,7.8,NJ
+Howell Township,52672,0.7,6.7,NJ
+Old Bridge Township,66321,0.4,7.4,NJ
+Roselle Park,13698,0.4,7.6,NJ
+Montville Township,21396,0.2,8.1,NJ
+Fort Lee,37729,0.6,7.2,NJ
+"Springfield Township, Union County",17762,0.2,8.1,NJ
+Lyndhurst Township,22384,0.5,7.5,NJ
+Sayreville,45062,1,6.7,NJ
+Nutley Township,28596,0.9,6.9,NJ
+Middlesex Borough,13704,0.8,7.3,NJ
+Florence Township,12748,1,7,NJ
+Hawthorne,18874,0.1,9.4,NJ
+Piscataway Township,57342,0.9,7.4,NJ
+Metuchen,14262,0.4,9,NJ
+East Hanover Township,11084,0.2,9.6,NJ
+Ridgefield Park,13028,1,7.6,NJ
+North Arlington,15868,0.3,9.3,NJ
+Haddonfield,11253,0.5,8.9,NJ
+Little Ferry,10895,0.6,8.6,NJ
+Aberdeen Township,18378,0.6,8.9,NJ
+South River,16159,1.2,7.5,NJ
+Fair Lawn,33413,0.6,9.1,NJ
+Lacey Township,28654,0.6,9,NJ
+Berkeley Township,41331,0.6,9.1,NJ
+Wall Township,25955,0.2,10.1,NJ
+Little Falls Township,14306,1.1,7.9,NJ
+Lakewood Township,102915,1.3,7.6,NJ
+North Bergen Township,63166,1.6,6.9,NJ
+Bordentown Township,12323,1.1,8,NJ
+Tinton Falls,17754,0.3,10.3,NJ
+Rahway,30113,1.1,8.1,NJ
+Livingston Township,29820,0.8,9.3,NJ
+Wallington,11676,0.4,10.3,NJ
+Rutherford,18617,1,8.8,NJ
+Pompton Lakes,11062,1.4,8,NJ
+West Windsor Township,28277,0.4,10.5,NJ
+Lower Township,21617,1.6,7.5,NJ
+Hanover Township,14583,0.3,11,NJ
+Delran Township,16579,0.5,10.6,NJ
+"Franklin Township, Somerset County",66624,0.7,10.1,NJ
+Little Egg Harbor Township,21087,0.2,11.4,NJ
+Hammonton,14311,0.6,10.4,NJ
+Rockaway Township,25328,0.2,11.6,NJ
+Medford Township,23558,2,7.5,NJ
+Teaneck Township,40939,1.1,10.2,NJ
+Beachwood,11146,0.5,11.7,NJ
+Evesham Township,45354,0.7,11.2,NJ
+Lodi,24720,1.1,10.3,NJ
+Highland Park,13989,0.6,11.9,NJ
+Hazlet Township,19970,1.2,10.4,NJ
+Woodland Park,12799,0.8,11.6,NJ
+Edgewater,12318,1.1,11.1,NJ
+Moorestown Township,20510,0.6,12.2,NJ
+Saddle Brook Township,14037,0.1,13.7,NJ
+Somerville,12326,1.3,10.6,NJ
+Dover,17982,1.4,10.4,NJ
+Mantua Township,14772,0.5,12.9,NJ
+Bound Brook,10360,1.3,11,NJ
+Freehold Borough,11873,1.3,10.9,NJ
+Brick Township,74712,0.9,12.1,NJ
+Edison Township,101309,1.2,11.3,NJ
+Guttenberg,11602,2.4,8.5,NJ
+Morristown,18860,1.6,10.7,NJ
+East Brunswick Township,48342,0.7,13.1,NJ
+Clark Township,16079,0.2,14.1,NJ
+Bloomfield,50777,1,12.7,NJ
+Montclair,38893,1,12.9,NJ
+"Washington Township, Gloucester County",47024,1.4,11.8,NJ
+Bellmawr,11312,0.7,14,NJ
+Toms River Township,92191,0.6,14.3,NJ
+Burlington Township,22857,1.5,12,NJ
+Bayonne,66824,1.7,11.6,NJ
+Freehold Township,34896,1.2,12.9,NJ
+"Monroe Township, Gloucester County",36498,1.3,12.7,NJ
+"Franklin Township, Gloucester County",16225,0.6,14.5,NJ
+Galloway Township,36467,2,10.9,NJ
+Fairview,14428,2.4,10,NJ
+West Deptford Township,20889,0.9,13.9,NJ
+Voorhees Township,29071,1.4,12.9,NJ
+West New York,54095,2.6,10.5,NJ
+Carteret,23921,1.9,12.3,NJ
+Englewood,28988,2.9,9.7,NJ
+Winslow Township,38382,1.7,13.3,NJ
+West Orange,48071,1.9,12.8,NJ
+Red Bank,12128,1.7,13.4,NJ
+Weehawken Township,15567,1.5,14.3,NJ
+Gloucester Township,63198,1.2,15,NJ
+Roselle,21787,2.1,12.9,NJ
+Union Township,58861,0.8,16.2,NJ
+Woodbridge Township,100884,1.1,15.4,NJ
+Maplewood Township,24635,0.9,16,NJ
+Kearny,42339,0.9,16,NJ
+East Rutherford,9941,1.4,14.9,NJ
+Clifton,85732,1.1,15.8,NJ
+South Plainfield,24238,0.9,16.4,NJ
+Mount Laurel Township,41629,1.2,16,NJ
+Millburn Township,20250,0.4,18.2,NJ
+Cinnaminson Township,16630,0.8,17.2,NJ
+North Brunswick Township,42205,1.3,16.2,NJ
+Lumberton Township,12253,0.8,17.3,NJ
+North Plainfield,21834,1.8,15.5,NJ
+Pennsville Township,12378,0.5,19.1,NJ
+Haddon Township,14500,1.3,17,NJ
+"Lawrence Township, Mercer County",32644,0.9,18.3,NJ
+South Orange Village,16880,1.3,17.4,NJ
+Belleville,36075,1.7,16.3,NJ
+Hackensack,44926,2.6,14.4,NJ
+Elmwood Park,20277,1.6,16.9,NJ
+Hoboken,55096,2.2,15.6,NJ
+Wayne Township,54340,1.2,18.1,NJ
+Glassboro,19938,1.9,16.4,NJ
+Maple Shade Township,18772,2,16.2,NJ
+Pine Hill,10431,2.4,15.5,NJ
+Perth Amboy,52347,3.2,13.8,NJ
+"Hamilton Township, Mercer County",87889,1.3,19.3,NJ
+Totowa,10666,1.1,20.5,NJ
+"Ocean Township, Monmouth County",26947,0.7,21.7,NJ
+Willingboro Township,32124,3.5,14.8,NJ
+Ewing Township,36142,1.9,19,NJ
+Union City,69950,3.3,15.4,NJ
+Garfield,32203,2.5,18.2,NJ
+Egg Harbor Township,43276,1.4,20.8,NJ
+Keansburg,9766,3.4,16.4,NJ
+Manville,10308,1.7,20.8,NJ
+Collingswood,13843,2.2,20.2,NJ
+Plainfield,50820,3.8,16.1,NJ
+Pleasantville,20799,4.4,14.7,NJ
+Harrison,18058,2.3,20.7,NJ
+Ocean City,11138,0.4,25.4,NJ
+Somers Point,10436,1.3,23.6,NJ
+East Orange,64625,5.2,14,NJ
+Phillipsburg,14395,3.1,20.5,NJ
+Pemberton Township,27212,3.3,20.1,NJ
+Middle Township,18358,2.8,21.5,NJ
+Eatontown,12364,2.4,22.4,NJ
+Hillside Township,22078,1.9,24.5,NJ
+Jersey City,270175,4.6,17.7,NJ
+Secaucus,20482,1.5,25.7,NJ
+Ventnor City,10182,1.7,25.4,NJ
+Long Branch,30750,4,20.8,NJ
+Burlington City,9817,3.8,21.5,NJ
+Gloucester City,11167,3,24.1,NJ
+Cherry Hill Township,70578,1.3,28.7,NJ
+Pennsauken Township,35420,2.9,25.7,NJ
+Passaic,70435,5.8,18.4,NJ
+Linden,42806,2.9,26.3,NJ
+New Brunswick,56577,5.5,21.4,NJ
+"Hamilton Township, Atlantic County",26380,2.2,32.5,NJ
+Newark,282258,7.3,20.1,NJ
+Irvington,54220,6.5,23.6,NJ
+Neptune Township,27825,3.8,30.6,NJ
+Paramus,26744,0.9,39.9,NJ
+Deptford Township,30137,1.6,38.3,NJ
+Lindenwold,17204,6.5,26.4,NJ
+Paterson,146893,7.3,24.3,NJ
+Orange City,30449,7.4,25.4,NJ
+Vineland,60330,4.3,33.5,NJ
+Elizabeth,129080,6.9,31,NJ
+Atlantic City,38271,7.2,30.9,NJ
+Bridgeton,24386,8.3,29.5,NJ
+Millville,27837,4.6,43.7,NJ
+Trenton,83753,11.6,29.5,NJ
+Asbury Park,15717,11.1,41.5,NJ
+Camden County Police Department,73140,16.4,30.3,NJ
+Los Alamos,8577,0.566667,8.3,NM
+Anthony,18883,1.3,6.26667,NM
+Grants,9313,1.675,3.25,NM
+Rio Rancho,8982,3.5,19.3667,NM
+Lovington,97394,2,20.1333,NM
+Bosque Farms,11175,1.4,25.45,NM
+Raton,3789,5.6,15.9333,NM
+Edgewood,5960,1.86667,32.5333,NM
+Aztec,3911,2.3,25.5,NM
+Truth or Consequences,6538,5.66667,28.4,NM
+Ruidoso,5875,4.06667,28.8667,NM
+Alamogordo,7718,3.3,28.4667,NM
+Portales,31332,3.46667,32.2667,NM
+Carlsbad,11768,3.93333,34.2333,NM
+Las Cruces,29158,4.8,36.4333,NM
+Santa Fe,102203,3.25,41.15,NM
+Las Vegas,84176,3.73333,38.7,NM
+Hobbs,13084,8.26667,30.6333,NM
+Bernalillo,38320,6.23333,44.0667,NM
+NA,9841,9.73333,39.2,NM
+Bloomfield,7922,16,13.8,NM
+Roswell,47678,8.3,42.1,NM
+Socorro,8363,7.1,49.6,NM
+Farmington,45364,13.1,39,NM
+Los Lunas,15568,12.1,43.7,NM
+Deming,14094,10,52.1,NM
+Taos,5662,5.1,77.2,NM
+Albuquerque,560235,13.6,61.8,NM
+Gallup,21980,15.4,68.9,NM
+Belen,7061,22.8,51.3,NM
+Boulder City,16112,5,9.1,NV
+Carlin,2319,15.1,9.5,NV
+Elko,20764,4.6,21.3,NV
+Henderson,309586,1.9,19.6,NV
+Las Vegas Metropolitan Police Department,1644390,6.1,28.4,NV
+Lovelock,1775,6.2,22,NV
+Mesquite,19055,1.7,15.6,NV
+North Las Vegas,246951,9.7,21.1,NV
+Reno,252341,6.5,24,NV
+Sparks,102354,5,23.8,NV
+West Wendover,4290,9.79,17.9,NV
+Winnemucca,7832,1.2,23.1,NV
+Lewisboro,12823,0,0.1,NY
+Sleepy Hollow Village,10267,0.3,0.85,NY
+Kirkland,8355,0.0666667,2.03333,NY
+Highlands Town,8328,0.133333,0.9,NY
+Briarcliff Manor,8044,0.0666667,2.46667,NY
+Stillwater,7302,0.133333,3.3,NY
+Malverne,8626,0.233333,2.63333,NY
+Plattekill,10235,0.733333,4.33333,NY
+New Castle,18197,0.1,3,NY
+Bedford,18034,0.3,2.7,NY
+Northport,7362,0.433333,5.6,NY
+Harrison Town,28741,0,4,NY
+Chester,8053,0.633333,1.63333,NY
+Irvington,6631,0.366667,2.73333,NY
+Whitestown,9175,0.1,3.1,NY
+Tuckahoe,6677,0.233333,4.86667,NY
+Kent,13326,0.133333,4.2,NY
+Eden,7667,0.233333,4.93333,NY
+Stony Point,15667,0.4,4.43333,NY
+Glen Cove,27574,0.1,2.375,NY
+Rye Brook Village,9622,0,4.8,NY
+Floral Park Village,16131,0.5,2.9,NY
+Rye,16050,0.4,3.5,NY
+Eastchester Town,20452,0.2,4.4,NY
+Goshen Town,8703,0.2,4.8,NY
+East Fishkill Town,29623,0.3,4.6,NY
+Carmel Town,34382,0.5,3.8,NY
+Long Beach,33801,0.9,2.4,NY
+East Aurora-Aurora Town,13900,0.1,5.7,NY
+Tarrytown Village,11617,0.6,3.5,NY
+Mamaroneck Town,12336,0,6.1,NY
+Hyde Park Town,21046,0.4,4.3,NY
+Pleasantville Village,7352,0.3,5.2,NY
+Canton Village,6510,0.5,4.5,NY
+North Castle Town,12454,0.5,4.4,NY
+Yorktown Town,37101,0.4,5,NY
+Marlborough Town,8663,0.6,4.3,NY
+Montgomery Town,9122,0.9,3.3,NY
+Scarsdale Village,18214,0.1,6.8,NY
+Baldwinsville Village,7976,0.3,6.4,NY
+Cairo Town,6404,0.5,5.6,NY
+Lynbrook Village,19745,0.6,5.3,NY
+Schodack Town,11747,0.9,4.1,NY
+Warwick Town,18450,0.5,6.5,NY
+Ramapo Town,95068,0.8,5.7,NY
+Cicero Town,28992,0.4,7.5,NY
+Port Chester Village,29814,0.7,6.2,NY
+Mamaroneck Village,19496,0.7,6.5,NY
+Fishkill Town,21529,0.5,7.5,NY
+Dobbs Ferry Village,11182,0.3,8.3,NY
+Blooming Grove Town,11888,0.7,6.8,NY
+Ossining Village,25452,0.6,7.4,NY
+Mount Pleasant Town,26506,0.5,7.8,NY
+Rockville Centre Village,24960,0.8,7.2,NY
+Hastings-on-Hudson Village,8030,0.2,9.6,NY
+Lloyd Town,10510,0.9,7.1,NY
+Port Washington,19555,0.3,9.6,NY
+East Hampton Town,19992,0.6,8.8,NY
+Ogden Town,20288,0.4,9.6,NY
+Webster Town and Village,45023,0.8,8,NY
+Deerpark Town,7759,0.8,8.1,NY
+Macedon Town and Village,8960,0.3,10.3,NY
+Hudson Falls Village,7071,1.4,6.1,NY
+Monroe Village,8665,0.5,10.2,NY
+Pelham Village,7036,0.9,8.5,NY
+Crawford Town,9217,0.8,9.1,NY
+Geneseo Village,8184,0.5,10.5,NY
+Potsdam Village,9723,0.5,10.7,NY
+Lancaster Town,37776,0.6,10.7,NY
+Lewiston Town and Village,15922,0.8,9.7,NY
+New Rochelle,80340,1.2,8.3,NY
+Hamburg Village,9735,0.8,10,NY
+Coeymans Town,7416,0.9,9.6,NY
+Camillus Town and Village,24462,0.6,11.2,NY
+Manlius Town,24417,0.7,10.6,NY
+Amityville Village,9526,0.8,10.4,NY
+Walden Village,6727,1.2,9.1,NY
+Fallsburg Town,12207,1.2,8.9,NY
+Southold Town,20092,0.8,10.8,NY
+Rensselaer City,9249,1.2,9.4,NY
+Southampton Town,51231,1,10.2,NY
+Horseheads Village,6464,0,14.7,NY
+Orchard Park Town,29760,0.9,11.1,NY
+Hornell,8161,0.5,13.7,NY
+North Greenbush Town,12216,0.7,12.8,NY
+Kenmore Village,15178,0.9,12.2,NY
+New Paltz Town and Village,14075,1.4,10.3,NY
+Freeport Village,43597,1.6,9.7,NY
+Evans Town,16220,1.4,10.9,NY
+Brockport Village,8290,1.7,10,NY
+Bethlehem Town,35704,0.8,13.9,NY
+Glenville Town,21670,0.9,13.5,NY
+Amsterdam,17737,1.4,11.3,NY
+Glens Falls,14403,1.7,10.4,NY
+Garden City Village,22749,0.4,15.7,NY
+New Windsor Town,28137,1.4,11.7,NY
+Peekskill,24365,2.1,9.2,NY
+Fredonia Village,10475,0.7,15.2,NY
+Clarkstown Town,81994,0.9,14.7,NY
+Scotia Village,7700,1.3,13.9,NY
+West Seneca Town,45721,1.4,13.7,NY
+North Tonawanda,30325,1.5,13.2,NY
+Amherst Town,121343,1.2,14.6,NY
+Depew Village,15159,0.8,16.5,NY
+Tonawanda Town,57256,1.6,13.3,NY
+Brighton Town,36470,0.9,16.8,NY
+Beacon,14241,1.8,13.3,NY
+Vestal Town,28223,0.6,18.5,NY
+East Rochester Village,6580,1.7,14.6,NY
+Niskayuna Town,22486,1,17.3,NY
+Ulster Town,12600,1,18.4,NY
+Hamburg Town,46490,0.9,19.1,NY
+Cohoes,16979,2.7,11.5,NY
+Dunkirk,11755,2,14.5,NY
+Rome,32298,1.5,16.7,NY
+Cortland,18631,1.5,17,NY
+Yonkers,202827,3.5,8.7,NY
+Plattsburgh City,19651,1.8,15.9,NY
+Guilderland Town,34260,0.8,20.1,NY
+Oneonta City,14073,2.3,13.6,NY
+Geddes Town,10177,0.7,21.1,NY
+Riverhead Town,33812,1.5,17.8,NY
+Tonawanda,14868,1.8,16.5,NY
+Johnstown,8265,1.6,18.1,NY
+Wallkill Town,29123,1.6,18.6,NY
+Saratoga Springs,28237,2.2,16.6,NY
+Irondequoit Town,50212,1.8,18.4,NY
+Seneca Falls Town,8670,0.8,23.1,NY
+Geneva,12841,2.4,17.2,NY
+Colonie Town,79842,1,23.2,NY
+Spring Valley Village,32909,3.6,12.2,NY
+Solvay Village,6307,2.5,17.1,NY
+East Greenbush Town,16331,0.7,24.7,NY
+Canandaigua,10252,2.3,18.9,NY
+DeWitt Town,25268,1.3,23.1,NY
+Greece Town,96650,2,21.1,NY
+Port Jervis,8599,2.8,19.1,NY
+Ilion Village,7736,2.7,21.1,NY
+Kingston,23077,3,20.7,NY
+Lackawanna,17904,3.9,17.6,NY
+Hempstead Village,56059,5.7,10.5,NY
+Middletown,27885,3.9,18.3,NY
+Oswego City,17370,2.1,26.2,NY
+New Hartford Town and Village,20232,0.2,34.2,NY
+Mount Vernon,68889,5.1,14.2,NY
+Rotterdam Town,29882,1.2,30.4,NY
+Ithaca,31145,2.3,26.2,NY
+Newburgh Town,31200,1.1,31.3,NY
+Elmira,27556,2.5,25.5,NY
+Gates Town,28717,2,28.7,NY
+Watervliet,10115,3.6,22.2,NY
+New York,8523171,5.4,15,NY
+Cheektowaga Town,77648,2.4,27.8,NY
+Fulton City,11244,0.7,35.2,NY
+Woodbury Town,11114,0.6,37.4,NY
+Niagara Town,8014,2.1,31.4,NY
+Newark Village,8864,3.3,28,NY
+Olean,13615,3.2,29.6,NY
+Corning,10643,4.9,22.9,NY
+Batavia,14565,4.3,25.4,NY
+Monticello Village,6414,5.5,22,NY
+Norwich,6656,4.7,25.5,NY
+Poughkeepsie,30580,7.1,16.2,NY
+Gloversville,14860,5.6,24.4,NY
+Auburn,26570,5.2,27,NY
+Lakewood-Busti,7260,0.1,48.9,NY
+Ogdensburg,10629,3,37.2,NY
+Troy,49491,5.7,28.5,NY
+Endicott Village,12754,5.5,31.1,NY
+Oneida,10940,4.8,34.5,NY
+Utica,60413,6.3,31.7,NY
+Johnson City Village,14418,4.4,41.3,NY
+Jamestown,29384,7.7,27.8,NY
+Syracuse,143129,7,30.9,NY
+Watertown,25525,6.9,35.4,NY
+Rochester,207701,7.8,33.9,NY
+Albany,98322,8.4,32,NY
+Schenectady,65550,9.5,32.1,NY
+Newburgh,28282,11.6,23.2,NY
+Binghamton,44876,7.3,42.2,NY
+Niagara Falls,48225,8.7,40.7,NY
+Buffalo,258219,10.4,38.2,NY
+Broadview Heights,19236,0.05,0.5,OH
+Sagamore Hills,10956,0,1.475,OH
+Olmsted Township,13425,0.1,3.06667,OH
+Poland Township,11888,0.233333,4.16667,OH
+Rocky River,20253,0.2,3.6,OH
+North Ridgeville,34025,0.4,4.3,OH
+Clearcreek Township,15765,0.433333,4.6,OH
+Brunswick Hills Township,10418,0.366667,3.5,OH
+Montville Township,11831,0.133333,4.4,OH
+Seven Hills,11662,0.3,4.76667,OH
+Hudson,22242,0.233333,4.96667,OH
+"Hamilton Township, Warren County",23330,0.166667,1.3,OH
+Springboro,18789,0.433333,5.83333,OH
+North Royalton,30324,0.166667,1.33333,OH
+Brecksville,13652,0.366667,3.7,OH
+Mayfield Heights,18648,0.25,4.025,OH
+Brunswick,34954,0.633333,5.63333,OH
+New Albany,11192,0.366667,10.7333,OH
+Mason,33583,0.266667,9.53333,OH
+Berea,18838,0.5,7.73333,OH
+Twinsburg,18983,0.6,5.7,OH
+Loveland,12876,0.4,7.9,OH
+New Franklin,14157,0.3,8.5,OH
+Powell,13455,0.4,8.1,OH
+Hilliard,37184,0.9,6.5,OH
+Solon,22948,0.4,9.2,OH
+Dublin,48570,0.6,8.5,OH
+Dover,12752,0.9,7.6,OH
+Clayton,13209,0.4,10.2,OH
+Montgomery,10807,0.6,9,OH
+Aurora,16047,0.6,9.2,OH
+Upper Arlington,35572,0.3,11,OH
+American Township,12094,0.2,11.9,OH
+"Madison Township, Franklin County",19241,1,7.7,OH
+"Goshen Township, Clermont County",16177,0.7,9.5,OH
+Perrysburg,21585,0.4,11.1,OH
+Perrysburg Township,12935,0.6,10.3,OH
+Fairview Park,16248,1,8.6,OH
+Shawnee Township,12061,1,8.6,OH
+Centerville,23757,0.3,12.3,OH
+New Philadelphia,17445,0.4,12.2,OH
+Harrison,11513,0.2,13.5,OH
+Vermilion,10436,0.4,12.6,OH
+North Olmsted,31653,0.4,12.5,OH
+"Miami Township, Clermont County",42493,0.8,10.5,OH
+Strongsville,44819,0.3,14.3,OH
+Medina,26128,1,10.4,OH
+Wickliffe,12734,0.7,12.2,OH
+Bowling Green,32017,0.7,12.1,OH
+Streetsboro,16411,0.6,13.1,OH
+Riverside,25083,1,11.4,OH
+Lyndhurst,13519,1,11.4,OH
+"Madison Township, Lake County",15626,0.7,14.3,OH
+Stow,34762,0.7,14.7,OH
+Parma,78968,1.6,10.7,OH
+Struthers,10193,1.1,13.8,OH
+Lakewood,50078,1.2,13.5,OH
+Mentor,47118,0.9,15,OH
+Pickerington,20716,1.4,12.7,OH
+Amherst,12100,0.9,15.5,OH
+Kent,30065,1.2,14,OH
+Kettering,55038,1,15.2,OH
+Gahanna,35596,0.9,16.5,OH
+North Canton,17265,1.1,15.5,OH
+Wadsworth,23744,1.1,15.6,OH
+Tallmadge,17550,1.1,16.5,OH
+Norton,12003,0.9,17.9,OH
+Norwalk,16800,0.8,18.5,OH
+Ashland,20446,1,18,OH
+Delaware,39944,1.6,15,OH
+"Union Township, Clermont County",48187,0.7,19.7,OH
+Willoughby,22949,1.3,16.8,OH
+Westerville,40225,1.1,17.8,OH
+Macedonia,12056,0.2,22.5,OH
+Eastlake,18111,0.4,22,OH
+Athens,25356,1.2,17.9,OH
+Howland Township,16449,0.6,21.3,OH
+Brimfield Township,10330,0.5,22.5,OH
+University Heights,12981,1.6,16.7,OH
+Austintown,35029,1.2,19,OH
+Oxford,23038,1,20.1,OH
+Bedford,12587,2.1,14.5,OH
+West Chester Township,62063,1,20.6,OH
+Blue Ash,12227,1.1,20.2,OH
+Bellefontaine,13137,0.9,21.5,OH
+Defiance,16620,1.5,18.8,OH
+Tiffin,17492,0.1,26.2,OH
+Cleveland Heights,44413,2.1,16,OH
+Cuyahoga Falls,49201,1.2,21.1,OH
+Troy,25960,1.3,20.6,OH
+Lebanon,20696,2,17.6,OH
+Conneaut,12616,1.5,20.3,OH
+Beavercreek,47203,0.8,24.3,OH
+Liberty Township,11456,2.2,17.5,OH
+Marietta,13618,1.8,19.5,OH
+Beachwood,11681,0.9,24.7,OH
+Vandalia,15023,2.1,19,OH
+Monroe,16310,0.9,25,OH
+Pierce Township,11669,0.9,26.3,OH
+Sylvania Township,29574,1.7,22.2,OH
+Bedford Heights,10574,1.9,21.1,OH
+South Euclid,21539,1.4,24,OH
+Fairfield,42568,2,21.4,OH
+Maumee,13720,1.3,24.8,OH
+Huber Heights,37969,1.5,24.1,OH
+Grove City,41833,1,27.6,OH
+Bexley,13893,0.9,28.6,OH
+Alliance,21723,2,23.7,OH
+Fairfield Township,22789,0.8,29.9,OH
+West Carrollton,12893,2.8,20.2,OH
+Miamisburg,19954,2.5,22.2,OH
+Massillon,32361,2.3,23.1,OH
+Englewood,13474,1,29.7,OH
+Richmond Heights,10414,3.6,17.2,OH
+Fairborn,33604,3.2,20,OH
+Findlay,41351,2.2,25.2,OH
+Reynoldsburg,38126,2.3,24.7,OH
+Mount Vernon,16607,1.2,30.7,OH
+Greenville,12707,3.8,17.8,OH
+Cambridge,10369,0,38.2,OH
+"Jackson Township, Stark County",40416,2.1,27.5,OH
+"Miami Township, Montgomery County",29065,1.5,30.9,OH
+Niles,18370,2.3,27.5,OH
+Oregon,19922,1.6,31.6,OH
+Marion,35885,2.8,26.2,OH
+Urbana,11337,1.9,32,OH
+Washington Court House,14210,1.6,34.4,OH
+Xenia,26691,2.7,29.6,OH
+Bucyrus,11741,2.6,30.2,OH
+Ironton,10666,2.3,31.9,OH
+Van Wert,10631,2.8,30,OH
+Salem,11710,1.9,35.4,OH
+Wooster,26688,3.3,29.9,OH
+Sidney,20537,2.6,33.5,OH
+Piqua,21056,2.1,38.3,OH
+Barberton,26060,3.6,32,OH
+Norwood,19976,2.8,36.9,OH
+East Cleveland,17127,6.5,18.2,OH
+Sandusky,24700,2.9,37.2,OH
+Brooklyn,10759,0,52.6,OH
+Circleville,13993,3.1,37.9,OH
+Fremont,16125,0,54,OH
+Lancaster,40498,2.9,41.7,OH
+Euclid,47048,6.2,26,OH
+Newark,49687,3.1,43.6,OH
+Columbus,892576,4.9,35.3,OH
+Zanesville,25371,4.7,37.3,OH
+"Springfield Township, Summit County",14572,3.2,45.8,OH
+Heath,10774,2.3,50.7,OH
+Wilmington,12386,1.4,56.8,OH
+Steubenville,17913,3.1,53.5,OH
+Hamilton,62059,5.1,43.3,OH
+Youngstown,64282,6.7,35.5,OH
+Warren,39280,6.2,38.2,OH
+Trotwood,24380,6.8,36.6,OH
+Mansfield,45941,5.2,45.4,OH
+Lima,36948,6.5,45,OH
+Portsmouth,20473,5.8,49.9,OH
+Akron,197690,8.6,36.2,OH
+Toledo,275023,8.5,37.2,OH
+Springfield,59016,5.7,53.2,OH
+Cincinnati,301952,8.4,45.4,OH
+Whitehall,19024,6.3,56.5,OH
+Dayton,140094,9.2,45.1,OH
+Chillicothe,21441,4.9,75.6,OH
+Canton,70605,12,53.7,OH
+Cleveland,384666,14.5,44.1,OH
+Elgin,3279,0.3,1.46667,OK
+Piedmont,8080,0.633333,3.73333,OK
+Lone Grove,5090,2.03333,14.4667,OK
+Cleveland,3164,1.36667,6.76667,OK
+Pocola,4072,2.23333,8.63333,OK
+Hennessey,2223,1.2,8.1,OK
+Verdigris,4580,0.6,11.1667,OK
+Antlers,2300,2.3,11.9333,OK
+Spiro,2164,0.933333,7.23333,OK
+Wynnewood,2218,1.2,10.1667,OK
+Guymon,11546,1.7,13.8333,OK
+Hinton,3247,0.5,8.7,OK
+Union City,2125,0.833333,11.4333,OK
+Tishomingo,3077,1.3,12.7333,OK
+Healdton,2708,3.16667,14.2,OK
+Blanchard,8886,0.7,12.3,OK
+New Cordell,2757,3.13333,16.2667,OK
+Alva,5112,1,12.1667,OK
+Mustang,21809,1.33333,10.8667,OK
+Hobart,3476,1.33333,15.7667,OK
+Jenks,23473,1.1,13.1,OK
+Hominy,3412,0.9,14.7,OK
+Collinsville,7098,1.3,13.7,OK
+Vinita,5348,0.7,16.5,OK
+Sayre,4508,1.6,12.9,OK
+Fort Gibson,4021,1.7,12.2,OK
+Watonga,2848,1.8,12.3,OK
+Bixby,27654,1.2,15.2,OK
+Holdenville,5514,1.3,15.2,OK
+Fairview,2623,2.3,10.3,OK
+Edmond,93557,1.4,15.2,OK
+Heavener,3272,2.4,10.4,OK
+Elk City,11544,0.6,20,OK
+Jones,3159,1.6,15.2,OK
+Nichols Hills,3912,0.5,21,OK
+Tonkawa,3040,2,14.5,OK
+Mangum,2746,2.9,9.8,OK
+Choctaw,12724,1.7,16.5,OK
+Mannford,3195,3.4,7.8,OK
+Perry,4908,1.6,17.1,OK
+McLoud,4708,2.5,12.5,OK
+Cache,2864,2.1,15,OK
+Coweta,9706,2.1,15.9,OK
+Seminole,7237,1.5,18.7,OK
+Chandler,3127,1.9,16.9,OK
+Calera,2338,2.6,13.7,OK
+Newcastle,10266,0.8,23.4,OK
+Kiefer,2010,2,17.4,OK
+Nicoma Park,2492,0.8,23.7,OK
+Yukon,27452,1.7,19.1,OK
+Broken Arrow,109663,1.4,20.8,OK
+Drumright,2832,1.1,23,OK
+El Reno,19272,2.2,17.7,OK
+Noble,6772,2.2,18.3,OK
+Walters,2399,1.7,21.3,OK
+Moore,62453,1.7,21,OK
+Prague,2415,1.7,21.5,OK
+Kingfisher,4912,2,20.8,OK
+Weatherford,11981,2.1,20.9,OK
+Roland,3794,2.1,21.1,OK
+Blackwell,6684,3,16.6,OK
+Owasso,37220,1.7,23,OK
+Altus,18712,2.3,20.6,OK
+Nowata,3635,2.2,21.7,OK
+Henryetta,5628,1.6,25.2,OK
+Bristow,4214,1.7,24.9,OK
+Harrah,6504,2.3,21.7,OK
+Perkins,2842,0.7,31,OK
+Marlow,4410,1.1,29.3,OK
+Wagoner,8986,2.8,20.9,OK
+Sapulpa,20948,2,25.3,OK
+Stillwater,50445,3.3,19,OK
+Stroud,2747,1.1,30.9,OK
+Marietta,2751,2.9,21.8,OK
+Dewey,3477,2.9,22.4,OK
+Jay,2532,2,27.3,OK
+Spencer,4009,3.7,18.7,OK
+Glenpool,14273,4.6,15.1,OK
+Tuttle,7318,3.1,22.8,OK
+Sand Springs,20056,0.9,34.1,OK
+Skiatook,8020,2.4,27.4,OK
+Duncan,22351,1.7,31,OK
+Pawhuska,3349,3.9,20.3,OK
+Sallisaw,8427,1.9,30.6,OK
+Woodward,12323,2.8,26.7,OK
+The Village,9475,3,26.2,OK
+Tecumseh,6628,2.7,27.5,OK
+Norman,124577,2.7,27.8,OK
+Newkirk,2207,4.5,19,OK
+Bethany,19448,2.5,29.7,OK
+Claremore,18748,2.5,29.8,OK
+Lexington,2150,3.7,24.2,OK
+Madill,3957,1,38.4,OK
+Sulphur,5005,3.2,27.8,OK
+Stigler,2742,3.6,25.9,OK
+Grove,7122,1.8,35.2,OK
+Lindsay,2818,2.5,33,OK
+Enid,50214,3.4,28.4,OK
+Chickasha,16314,3.9,26.7,OK
+Guthrie,11519,3.4,29.4,OK
+Davis,2861,2.8,32.5,OK
+Midwest City,57710,3.1,31.1,OK
+Eufaula,2898,3.8,28,OK
+Tahlequah,16877,1.4,40.6,OK
+Atoka,3086,2.3,36,OK
+Bartlesville,36473,2.8,33.3,OK
+Cushing,7687,2.9,33.4,OK
+Wilburton,2615,3.4,30.6,OK
+Pawnee,2128,4.7,25.8,OK
+Wewoka,3300,4.5,26.7,OK
+Chouteau,2076,3.4,33.2,OK
+Checotah,3138,3.5,35.7,OK
+Frederick,3603,4.2,33,OK
+Clinton,9163,6.3,22.2,OK
+Miami,13162,4.2,33.4,OK
+Pryor Creek,9369,7,22.3,OK
+Warr Acres,10372,4.1,37.2,OK
+Ada,17339,4.8,36.9,OK
+Okemah,3190,5,38.9,OK
+Purcell,6470,4.9,39.3,OK
+Durant,18043,2.9,50.5,OK
+Poteau,8913,4,46.2,OK
+Pauls Valley,6180,3.7,48.1,OK
+Okmulgee,11919,5.2,46,OK
+Muldrow,3203,8.7,29.7,OK
+Ponca City,24066,7,39.5,OK
+Ardmore,24817,6.4,43.6,OK
+Stilwell,4007,5.5,51.7,OK
+Idabel,6860,4.7,56,OK
+Lawton,93140,9,35.8,OK
+Oklahoma City,652936,8.7,40.3,OK
+Catoosa,7006,6.1,55,OK
+Del City,21859,7.9,48.6,OK
+McAlester,17999,6.4,57.3,OK
+Muskogee,37659,10,40.8,OK
+Broken Bow,4069,4.7,69.3,OK
+Anadarko,6598,10.8,41.2,OK
+Tulsa,403147,10.7,54.3,OK
+Shawnee,31422,13.5,51.4,OK
+West Linn,26934,0.3,2.9,OR
+Lake Oswego,39557,0.566667,12.1333,OR
+Monmouth,10457,1.3,15.4333,OR
+La Grande,13186,1.3,23,OR
+Independence,10280,2.16667,16.9667,OR
+St. Helens,13800,2,19.2333,OR
+Newberg-Dundee,27122,1.4,10.5,OR
+Silverton,10477,1.3,20.4667,OR
+Milwaukie,20873,1.53333,19.5667,OR
+Forest Grove,24560,2.06667,18.8667,OR
+Bend,97403,1.46667,21.5667,OR
+Beaverton,98616,1.66667,17.6,OR
+Canby,17914,1.76667,12.5,OR
+Keizer,39727,1.93333,21.2,OR
+Central Point,18402,2.1,26.4,OR
+Hillsboro,109121,2.66667,19.4,OR
+Corvallis,58491,1.4,28.0667,OR
+Tualatin,27671,1.83333,27.8,OR
+Cornelius,12580,2.76667,20.6333,OR
+Tigard,53880,2.13333,28.3,OR
+Ashland,21269,1.8,33,OR
+The Dalles,15740,2.1,29.6,OR
+Baker City,9779,1.9,33.1,OR
+Pendleton,16681,2.6,27,OR
+McMinnville,34669,2.4,30.7,OR
+Dallas,16561,2.7,29.7,OR
+Hermiston,17517,2.4,33.3,OR
+Redmond,30597,2.4,36.1,OR
+Newport,10684,2.8,32.4,OR
+Oregon City,36918,3.6,23.5,OR
+Springfield,62786,2.9,33.8,OR
+Cottage Grove,10241,2.6,40.5,OR
+Grants Pass,37814,3.6,35.5,OR
+Eugene,170771,3.9,32.2,OR
+Klamath Falls,22242,4.1,33.5,OR
+Coos Bay,16343,2.8,47.4,OR
+Gresham,111797,4.2,34.2,OR
+Prineville,10184,4.2,36.4,OR
+Woodburn,26031,4.3,37,OR
+Salem,172022,4.2,41.7,OR
+Roseburg,22366,2.6,59.8,OR
+Medford,82800,4.9,53.9,OR
+Ontario,10958,5.1,52.7,OR
+Portland,657260,5.2,54.6,OR
+Luzerne Township,5940,0,0,PA
+"Scott Township, Lackawanna County",4753,0.0666667,0,PA
+Cornwall,4326,0.3,0.166667,PA
+"Adams Township, Cambria County",5581,0,0.666667,PA
+East Marlborough Township,7416,0,3.13333,PA
+Upper Yoder Township,5093,0.2,0.45,PA
+Reading Township,5837,0.2,0.775,PA
+"Jackson Township, Luzerne County",4631,0.0666667,0.5,PA
+Fox Chapel,5297,0.133333,3.8,PA
+South Park Township,13332,0.15,0.925,PA
+South Heidelberg Township,7378,0.15,3.325,PA
+"Butler Township, Schuykill County",5625,0,0.933333,PA
+"Upper Providence Township, Delaware County",10478,0.133333,0.566667,PA
+Kiskiminetas Township,4496,0.533333,2.6,PA
+"Spring Township, Centre County",7905,0.133333,0.666667,PA
+Bedminster Township,7241,0.333333,3.53333,PA
+Indiana Township,7195,0.233333,3.46667,PA
+Willistown Township,10983,0.075,1.675,PA
+Buckingham Township,20311,0.0333333,4.1,PA
+Franklin Park,14706,0.133333,3.86667,PA
+Turtle Creek,5192,0.4,2.3,PA
+"Adams Township, Butler County",14105,0.2,3.3,PA
+South Fayette Township,15788,0.1,3.7,PA
+Silver Spring Township,18078,0.2,3.7,PA
+West Deer Township,11973,0.1,4,PA
+Franconia Township,13343,0.2,3.5,PA
+"Millcreek Township, Lebanon County",5714,0,4.4,PA
+East Vincent Township,7232,0,4.6,PA
+Upper Allen Township,20123,0.3,3.4,PA
+"Middlesex Township, Butler County",5636,0.4,3.4,PA
+"Schuylkill Township, Chester County",8658,0.2,3.8,PA
+South Londonderry Township,8427,0.1,4.3,PA
+Towamencin Township,18443,0.7,2.4,PA
+Solebury Township,8585,0.3,3.5,PA
+Northampton Township,39289,0.3,3.7,PA
+Cecil Township,12633,0.2,4.3,PA
+Upper Uwchlan Township,11506,0,4.9,PA
+Swoyersville,4949,0.6,2.8,PA
+Upper Saucon Township,17121,0.1,4.6,PA
+Ligonier Township,6400,1.3,0.8,PA
+Clarion,5316,0.6,3.2,PA
+Wright Township,5611,0,5.2,PA
+Upper Gwynedd Township,15958,0.6,3.3,PA
+Whitehall,13703,0.7,3,PA
+Bellefonte,6325,0.2,4.7,PA
+Murrysville,19759,0.2,4.7,PA
+Lower Salford Township,15440,0.5,3.9,PA
+"Penn Township, Westmoreland County",19297,1.6,0.1,PA
+McCandless,28475,0.2,4.9,PA
+"Fairview Township, Luzerne County",4485,0,5.6,PA
+Upper Makefield Township,8479,0.6,3.5,PA
+Lititz,9448,0.8,2.6,PA
+West Vincent Township,5572,0.2,5,PA
+Northwest Lancaster County Regional,20029,0.2,5,PA
+Northern Lancaster County Regional,36089,0.6,3.8,PA
+New Hanover Township,13201,0.2,5.2,PA
+New Britain Township,11252,0.3,5,PA
+Ferguson Township,19551,0.4,4.5,PA
+West Cocalico Township,7469,0.9,2.7,PA
+"Conemaugh Township, Somerset County",6865,0.9,2.9,PA
+"Brecknock Township, Berks County",4640,0.6,3.9,PA
+Punxsutawney,5764,0.9,3.1,PA
+Northern Regional,35447,0.2,5.7,PA
+Hampden Township,30399,0.3,5.1,PA
+Hampton Township,18318,0.8,3.7,PA
+"Newtown Township, Bucks County",22880,0.2,5.6,PA
+Kennett Township,8317,0.2,5.5,PA
+Pennridge Regional,11013,0.5,4.8,PA
+East Coventry Township,6778,0.1,5.9,PA
+East Pikeland Township,7345,0.5,4.6,PA
+"Warwick Township, Bucks County",14618,0.8,3.7,PA
+East Fallowfield Township,7584,1.2,2.5,PA
+Pleasant Hills,8113,0,6.8,PA
+East Pennsboro Township,21750,0.5,5.2,PA
+Neshannock Township,9223,0.5,5.1,PA
+Buffalo Valley Regional,12660,0.3,5.9,PA
+Lower Windsor Township,7574,0.8,4.4,PA
+East Brandywine Township,8765,0.8,4.3,PA
+Upper Southampton Township,15038,0.4,5.8,PA
+Collegeville,5134,0,7.2,PA
+Elizabeth Township,13087,0.7,4.8,PA
+South Lebanon Township,9935,0.3,6.2,PA
+"Douglass Township, Montgomery County",10644,0.8,4.7,PA
+Plumstead Township,14244,0.8,4.6,PA
+Central Bucks Regional,15584,0.6,5.3,PA
+Upper St. Clair Township,19758,0.4,6,PA
+Kingston Township,6898,1.3,2.9,PA
+Amity Township,13076,0.3,6.4,PA
+Swarthmore,6266,0.6,5.3,PA
+Chartiers Township,7937,0.4,6.2,PA
+North Middleton Township,11682,0.5,5.7,PA
+Sugarcreek,4969,0.6,5.4,PA
+Upper Macungie Township,24995,0.3,6.6,PA
+Earl Township,7243,0.3,6.6,PA
+West Lampeter Township,16092,0.6,5.8,PA
+Lower Makefield Township,32768,0.3,6.7,PA
+Moore Township,9343,0.4,6.3,PA
+West Earl Township,8503,0.4,6.6,PA
+Jessup,4397,1.1,3.9,PA
+Hatboro,7446,0.9,4.6,PA
+Camp Hill,7946,0.3,7,PA
+Peters Township,22136,0.5,6.1,PA
+Horsham Township,26615,0.3,7.1,PA
+Grove City,7969,1.1,4.1,PA
+Lower Frederick Township,4884,0.6,5.9,PA
+Blair Township,4503,0.7,5.8,PA
+Forks Township,15545,0.5,6.3,PA
+Evans City-Seven Fields Regional,4488,0.2,7.4,PA
+Dallas Township,9259,0.8,5.5,PA
+Western Berks Regional,4833,1.2,3.9,PA
+Baldwin Borough,19586,0.9,5.3,PA
+Birdsboro,5167,0.6,6.4,PA
+Southern Chester County Regional,14974,1.1,4.7,PA
+East Cocalico Township,10569,0.8,6,PA
+East Petersburg,4526,0.4,7.1,PA
+"Penn Township, Butler County",4916,0.2,7.9,PA
+"Newtown Township, Delaware County",13571,0.4,7.4,PA
+Northampton,9884,0.2,8,PA
+Uwchlan Township,19044,0.8,5.8,PA
+State College,58781,0.3,7.6,PA
+Patton Township,16142,0.3,7.7,PA
+Shippensburg,5584,0.2,8.2,PA
+Upper Nazareth Township,6947,0.9,5.9,PA
+Warrington Township,24582,0.7,6.4,PA
+"Bethel Township, Delaware County",9219,0.7,6.7,PA
+"Tunkhannock Township, Wyoming County",6147,0.5,7.3,PA
+Castle Shannon,8153,0.7,6.5,PA
+Whitemarsh Township,17966,0.5,7.5,PA
+Clarks Summit,6210,0.5,7.6,PA
+"Carroll Township, York County",6440,0.3,8.2,PA
+White Oak,7646,0.9,6.1,PA
+Newport Township,5386,0.6,7.4,PA
+Jeannette,9127,1.1,5.6,PA
+Tredyffrin Township,29575,0.4,8,PA
+Olyphant,5026,2,2.6,PA
+Southwestern Regional,17789,1.3,5.1,PA
+Whitpain Township,19326,0.3,8.5,PA
+Blakely,6201,1,6.3,PA
+Eastern Adams Regional,7379,1.2,5.4,PA
+New Cumberland,7323,0.5,7.8,PA
+East Whiteland Township,12085,0.2,8.9,PA
+"Washington Township, Westmoreland County",7103,1.3,5.3,PA
+West Mifflin,19773,1.5,4.7,PA
+West Manheim Township,8497,0.4,8.6,PA
+New Sewickley Township,7249,0.7,7.4,PA
+Robeson Township,7432,1.2,5.7,PA
+Bethel Park,32417,0.3,8.7,PA
+Buffalo Township,7294,1.5,4.7,PA
+Lower Heidelberg Township,6071,1.8,3.6,PA
+Lower Providence Township,27051,1.2,5.7,PA
+Mount Lebanon,32239,0.7,7.5,PA
+Shaler Township,28039,0.7,7.5,PA
+"Manor Township, Lancaster County",21090,1.1,6.1,PA
+"Butler Township, Luzerne County",9788,0.8,7.3,PA
+Lower Saucon Township,10824,0.9,7,PA
+West Hills Regional,10032,0.6,8.2,PA
+Westtown-East Goshen Regional,32253,1.2,6,PA
+Lower Moreland Township,13204,0.3,9.2,PA
+"Washington Township, Northampton County",5228,0.8,7.7,PA
+Lower Burrell,11155,0.8,7.5,PA
+Greene County Regional Police Department,4492,0.2,9.6,PA
+Radnor Township,31935,1,7,PA
+"Conewago Township, Adams County",7184,0.8,7.5,PA
+Economy,9205,0.2,9.7,PA
+O'Hara Township,8724,1.5,5.4,PA
+Cranberry Township,31154,0.3,9.7,PA
+Upper Leacock Township,8963,0.8,7.9,PA
+Northern York County Regional,69814,0.5,8.9,PA
+Carlisle,19335,0.9,7.5,PA
+Brighton Township,8297,1.8,4.5,PA
+Easttown Township,10668,1.6,5.2,PA
+"Cumberland Township, Adams County",6236,1.9,4.2,PA
+Bern Township,7025,0.7,8.4,PA
+Northern Berks Regional,13366,0.6,8.8,PA
+Tiadaghton Valley Regional,7586,2,4.1,PA
+South Abington Township,8904,1,7.5,PA
+Aston Township,16708,0.4,9.8,PA
+"Springfield Township, Bucks County",5045,1.2,6.9,PA
+Doylestown Township,17430,0.9,8.1,PA
+South Williamsport,6109,1.3,6.5,PA
+Royersford,4777,0.6,9,PA
+Nazareth,5706,0.7,8.8,PA
+West Shore Regional,7745,1.5,5.8,PA
+North Sewickley Township,5406,0.7,8.7,PA
+North Huntingdon Township,30414,0.5,9.6,PA
+Warminster Township,32395,0.8,8.7,PA
+Jefferson Hills Borough,11309,1.8,5.3,PA
+Hellam Township,8645,1.4,6.7,PA
+Moon Township,25758,0.8,9,PA
+"Upper Providence Township, Montgomery County",24445,0.4,10.2,PA
+Edinboro,5902,0.7,9.7,PA
+"Allegheny Township, Westmoreland County",8093,0.9,9,PA
+Mifflin County Regional,16941,1.3,7.6,PA
+Canonsburg,8815,1.5,7,PA
+Norwood,5896,0.7,9.8,PA
+Littlestown,4489,1.8,6,PA
+North Strabane Township,14703,1.8,5.8,PA
+"Shenango Township, Lawrence County",7253,0.8,9.4,PA
+Hilltown Township,15467,0.6,10.1,PA
+Vandergrift,4917,3.3,1,PA
+West Hempfield Township,16598,1.1,8.6,PA
+Jenkins Township,4475,0.9,9.4,PA
+Bradford Township,4724,2.3,4.4,PA
+"Spring Township, Berks County",27528,0.8,9.9,PA
+Southern Regional York County,11515,1.3,8.1,PA
+Findlay Township,5867,1.5,7.3,PA
+"Exeter Township, Berks County",25956,0.9,9.5,PA
+Northeastern Regional,11878,0.6,10.7,PA
+Nether Providence Township,13770,0.9,9.8,PA
+Hatfield Township,21048,1,9.2,PA
+Cambria Township,5768,1.2,8.7,PA
+West Brandywine Township,7495,1.5,7.9,PA
+Salisbury Township,13977,0.6,11,PA
+Conshohocken,8081,0.6,10.9,PA
+Vernon Township,5432,0.4,11.8,PA
+Haverford Township,49422,0.5,11.4,PA
+Millersville,8380,1.2,8.9,PA
+Old Forge,7885,1.1,9.1,PA
+Pequea Township,5022,1.4,8.4,PA
+"Scott Township, Allegheny County",16567,1.1,9.5,PA
+"Penn Township, York County",16511,1.3,8.7,PA
+Ridley Township,31190,0.9,10.4,PA
+Lower Gwynedd Township,11543,0.3,12.6,PA
+Forest Hills,6331,0.8,10.7,PA
+Bushkill Township,8528,3,2.9,PA
+Carbondale,8386,1.7,7.8,PA
+Donora,4584,2,6.8,PA
+West Mead Township,5082,1.8,7.5,PA
+Lansdale,16633,0.9,10.6,PA
+Hopewell Township,12711,1.7,7.7,PA
+Montgomery Township,26299,0.3,12.9,PA
+Plum,27274,2.4,5.5,PA
+Hollidaysburg,5763,3.1,2.9,PA
+"Scott Township, Columbia County",5016,0.2,13.2,PA
+Elizabethtown,11591,1.8,7.6,PA
+Cumru Township,15387,0.8,11,PA
+"Springfield Township, Montgomery County",19751,1.2,9.8,PA
+Duryea,4857,1.9,7.6,PA
+Green Tree,4966,1.2,9.9,PA
+Sewickley,4381,1.4,9.4,PA
+Susquehanna Regional,8455,2.1,6.9,PA
+"Lehigh Township, Northampton County",10479,1.7,8.3,PA
+Lower Allen Township,19539,0.7,11.8,PA
+Lower Swatara Township,8904,1.8,8.1,PA
+Palmer Township,21512,0.6,12.3,PA
+East Hempfield Township,24694,1.3,9.9,PA
+North Londonderry Township,8523,0.1,14.1,PA
+Slatington,4322,0.5,13,PA
+Telford,4849,1.9,8.2,PA
+West Goshen Township,23160,1.5,9.6,PA
+St. Marys City,12279,1.1,11.2,PA
+Archbald,6947,2,7.9,PA
+York Area Regional,55386,2,8,PA
+Dormont,8347,2,8,PA
+Kutztown,5066,1.6,9.7,PA
+Ohio Township,6874,0.4,13.7,PA
+Hummelstown,4648,2.2,7.7,PA
+Sayre,6410,2.5,6.6,PA
+Bridgeville,5005,1.2,11.2,PA
+Collier Township,8324,0.5,13.7,PA
+Wilkins Township,6184,0.2,14.9,PA
+Marple Township,23872,0.2,14.9,PA
+"Fairview Township, York County",17555,2.2,7.8,PA
+Logan Township,12364,1.3,11.1,PA
+Souderton,7063,2.4,7.2,PA
+North Fayette Township,14935,0.4,14.3,PA
+West Pittston,4741,1.7,9.9,PA
+Granville Township,5000,0,15.8,PA
+Middletown Township,45185,0.7,13.5,PA
+New Holland,5507,1.3,11.6,PA
+Bethlehem Township,23983,0.8,13.5,PA
+Shillington,5289,0.8,13.6,PA
+Upper Pottsgrove Township,5617,2.3,8.2,PA
+Brentwood,9364,2.2,8.5,PA
+Monaca,5492,1.5,11.3,PA
+Emmaus,11490,0.6,14.3,PA
+Ridley Park,7045,2,9.7,PA
+Smith Township,4367,3.2,5.7,PA
+Valley Township,7869,2.5,8.1,PA
+Ambler,6532,1.4,12.2,PA
+North Versailles Township,12127,2.9,7,PA
+"Washington Township, Franklin County",14671,0.8,14.6,PA
+"Middlesex Township, Cumberland County",7499,1.3,12.8,PA
+Oakmont,6466,1.4,12.7,PA
+"Falls Township, Bucks County",33854,1.2,13.2,PA
+Newberry Township,15749,1.4,12.7,PA
+Limerick Township,19144,0.4,16.1,PA
+"Cumberland Township, Greene County",6221,1,14.3,PA
+"Carroll Township, Washington County",5481,3.8,4.4,PA
+Slate Belt Regional,12451,2.8,8,PA
+Meadville,12917,1.6,12.2,PA
+Phoenixville,17012,1.9,11.3,PA
+Kennett Square,6192,1.6,12.4,PA
+Manheim Township,40395,1.2,13.8,PA
+"Susquehanna Township, Dauphin County",25197,1.8,11.7,PA
+"Richland Township, Bucks County",13388,1.3,13.4,PA
+Hamburg,4427,2.9,7.9,PA
+Ephrata Township,10465,1,14.8,PA
+Ephrata,13956,1.6,12.5,PA
+Lower Merion Township,59262,0.5,16.4,PA
+Bangor,5222,2.5,9.8,PA
+Hellertown,5840,2.9,8.4,PA
+Montoursville,4420,0.9,15.4,PA
+West View,6578,0.6,16.7,PA
+North Cornwall Township,7868,1.4,14.2,PA
+Dunmore,12933,1.8,13.1,PA
+Oil City,9769,1.8,12.9,PA
+"Millcreek Township, Erie County",53422,2.6,10.6,PA
+Lower Paxton Township,49296,1.8,13.5,PA
+Oxford,5648,2.5,11.2,PA
+"Abington Township, Montgomery County",55631,0.8,17.1,PA
+California,6738,2.7,10.7,PA
+Nanticoke,10253,1.5,15,PA
+Mechanicsburg,9021,0.9,17.2,PA
+Central Berks Regional,13309,1.5,15.1,PA
+North Coventry Township,8012,0.2,19.5,PA
+Colebrookdale District,6014,1.2,16.3,PA
+Lock Haven,9218,2.2,12.8,PA
+Palmyra,7556,2.5,11.6,PA
+Upper Moreland Township,24182,0.9,17.3,PA
+Catasauqua,6619,1.5,15.3,PA
+Exeter,5580,2.2,13.1,PA
+Darby Township,9282,2,13.5,PA
+"Derry Township, Dauphin County",25131,1.6,15.1,PA
+Perkasie,8561,1.6,15,PA
+Prospect Park,6496,3.1,10,PA
+Tarentum,4401,3,10.5,PA
+Ellwood City,7445,1.3,16.1,PA
+West Caln Township,9087,4.5,5.3,PA
+Chippewa Township,7995,0.3,20.3,PA
+Ross Township,30541,0.7,19.1,PA
+Waynesboro,10920,1.2,17.3,PA
+Pocono Mountain Regional,42712,1.9,14.7,PA
+Schuylkill Haven,5116,1.8,15.4,PA
+West Chester,20299,1.8,15.2,PA
+Mount Joy,8332,3.1,10.8,PA
+Middletown,9319,4.5,6,PA
+Old Lycoming Township,4927,0.4,20.3,PA
+Kingston,12836,1.8,15.7,PA
+Carnegie,7888,1.4,17.2,PA
+Bloomsburg Town,14145,2.5,13.7,PA
+Lower Pottsgrove Township,12128,3.2,11.2,PA
+Huntingdon,6946,3.2,11.7,PA
+"Springfield Township, Delaware County",24259,0.5,20.9,PA
+Bristol,9618,3.2,11.6,PA
+North Lebanon Township,12042,2.4,14.6,PA
+Sandy Township,10475,3,12.8,PA
+Easton,27158,2.5,14.3,PA
+Columbia,10436,1.8,16.9,PA
+Franklin,6081,2,16.4,PA
+West Norriton Township,15708,2,16.5,PA
+Jenkintown,4442,2.3,15.8,PA
+Plains Township,9725,2,17.3,PA
+Tamaqua,6698,1.8,17.9,PA
+Bristol Township,53684,1.8,18.1,PA
+Downingtown,7933,1.1,20.4,PA
+Brookhaven,8042,2.4,16.3,PA
+Pittston,7689,2.1,17.3,PA
+Swissvale,8713,2.4,16.4,PA
+Titusville,5286,1.3,20.2,PA
+"Robinson Township, Allegheny County",13673,1.5,19.9,PA
+Kennedy Township,8183,2.6,16.4,PA
+Gettysburg,7637,3.9,11.7,PA
+Bensalem Township,60588,1.2,21.3,PA
+Monroeville,27628,2.3,17.4,PA
+Palmerton,5289,2.5,16.8,PA
+DuBois,7409,2,18.4,PA
+Danville,4621,3,14.9,PA
+Bridgeport,4596,3.3,14.1,PA
+Lehighton,5277,1.7,19.7,PA
+West Whiteland Township,18393,0.7,23.4,PA
+"Lancaster Township, Lancaster County",17272,2.1,18.5,PA
+Avalon,4569,3.9,12,PA
+Hazleton,24637,4.7,9.3,PA
+Glenolden,7163,1.5,20.5,PA
+Morrisville,8557,1.2,22,PA
+Colonial Regional,17966,0.3,24.9,PA
+Rostraver Township,11023,0.7,23.6,PA
+Somerset,5899,2.7,16.8,PA
+Tyrone,5210,3.5,14.2,PA
+Bethlehem,75809,2.7,16.9,PA
+South Whitehall Township,19918,0.7,24.2,PA
+Upper Chichester Township,17002,2.5,17.8,PA
+Lower Southampton Township,19230,3.5,14.5,PA
+Moosic,5745,4.4,12.9,PA
+Pottsville,13529,3.3,16.8,PA
+Caln Township,14316,2.7,19,PA
+East Lampeter Township,17133,0.5,26.7,PA
+Aliquippa,8946,5.6,9.1,PA
+Muhlenberg Township,20303,1.1,24.8,PA
+"Allegheny Township, Blair County",6573,5.6,9.1,PA
+Altoona,43840,3.8,15.6,PA
+Norristown,34531,4,14.8,PA
+Upper Darby Township,82931,5.3,10.5,PA
+Jim Thorpe,4613,4.1,14.7,PA
+Wyomissing,10454,1.2,24.8,PA
+Lebanon,25816,3.2,18.2,PA
+East Norriton Township,14085,3.1,19,PA
+Latrobe,7896,3,19.5,PA
+Erie,96758,3.1,19.4,PA
+"Plymouth Township, Montgomery County",17756,1.5,25.2,PA
+Penn Hills,41143,4.1,16.4,PA
+Lansdowne,10650,2.4,22.3,PA
+Berwick,10030,3.7,18,PA
+Crafton,6223,1.3,26.5,PA
+"Butler Township, Butler County",16542,1.5,26.1,PA
+Media,5367,6,10.6,PA
+Bellevue,8130,2.6,22.5,PA
+Pocono Township,10855,2.7,22.2,PA
+Williamsport,28331,2.5,22.8,PA
+Glassport,4351,2.1,24.4,PA
+Quakertown,8824,4.3,16.7,PA
+"Hanover Township, Luzerne County",10843,3.8,18.9,PA
+Fountain Hill,4721,1.5,27.5,PA
+Cheltenham Township,37501,1.9,26.5,PA
+Annville Township,4968,7,8.9,PA
+Stroud Area Regional,34887,1.9,27.1,PA
+West Manchester Township,18833,1.4,29.3,PA
+Clairton,6587,3.5,22.2,PA
+Manheim,4890,3.3,23.1,PA
+Greensburg,14217,4.1,20.5,PA
+Charleroi Regional,6519,4,20.9,PA
+Allentown,121743,3.4,23.2,PA
+Coal Township,10329,5.5,15.8,PA
+Whitehall Township,27679,0.8,32.4,PA
+Stowe Township,6179,4.4,20.1,PA
+"Lawrence Township, Clearfield County",7581,4.1,21.6,PA
+Athens Township,5079,2.6,27.2,PA
+Folcroft,6615,4.8,19.3,PA
+Hermitage,15531,1.2,32,PA
+West Hazleton,4466,4.7,20.2,PA
+Springettsbury Township,26833,1.6,31.5,PA
+"Richland Township, Cambria County",11940,0.6,35.2,PA
+Clifton Heights,6709,5.5,18,PA
+Butler,13017,3.1,26.7,PA
+Greenville,5472,5.5,18.3,PA
+Chambersburg,20962,2.9,27.5,PA
+Edwardsville,4687,4.7,21.8,PA
+Eastern Pike Regional,4604,2.6,29.1,PA
+Beaver Falls,9588,4.2,24,PA
+Upper Merion Township,30673,0.7,36,PA
+Hanover,15653,3.1,27.9,PA
+Lewistown,8188,4.4,23.6,PA
+Coraopolis,5510,4.5,23.4,PA
+Spring Garden Township,13120,3.9,25.8,PA
+Center Township,11439,3.3,28.3,PA
+New Brighton,8807,4.3,26.5,PA
+Wilkes-Barre,40710,5.2,23.7,PA
+Selinsgrove,5962,8.2,13.3,PA
+Indiana,13039,9,10.7,PA
+Sunbury,9469,9.5,9.2,PA
+West York,4578,3.1,31.7,PA
+Warren,9088,6.4,20.9,PA
+South Strabane Township,9467,2,37.5,PA
+Swatara Township,26532,3.5,32.6,PA
+Plymouth,5789,7.3,19.9,PA
+Steelton,5944,6.6,22.4,PA
+Shenandoah,4779,9.6,11.7,PA
+Taylor,5889,6.5,22.9,PA
+Milton,6819,9.7,12.8,PA
+New Castle,21910,5.6,27.2,PA
+Reading,88466,7,22.4,PA
+Corry,6311,6.7,24.9,PA
+Sharon,13154,4.9,31.5,PA
+Pittsburgh,302544,5.8,30.2,PA
+Mount Carmel,5618,10.7,13.2,PA
+New Kensington,12377,5.7,30.9,PA
+Lancaster,59761,7,26.4,PA
+Clearfield,5874,6.1,31.7,PA
+Connellsville,7331,4.9,36,PA
+Monessen,7287,10.3,18.9,PA
+Sharon Hill,5705,6.8,31.6,PA
+Scranton,77827,10.4,19.3,PA
+Collingdale,8793,7.3,30.7,PA
+"Washington, Washington County",13505,7.5,31,PA
+Dickson City,5761,4.2,42.7,PA
+Yeadon,11512,7.5,33.4,PA
+Shamokin,7020,8.1,31.5,PA
+Bradford,8244,10.2,25.2,PA
+York,44170,10.2,25.7,PA
+Farrell,4651,10.3,25.8,PA
+Philadelphia,1586916,9.1,31,PA
+Pottstown,22792,8.6,33,PA
+Harrisburg,49147,10.8,25.5,PA
+Duquesne,5544,10.5,29.4,PA
+Johnstown,20877,11.5,29.7,PA
+"Union Township, Lawrence County",4921,3.3,58.7,PA
+Arnold,4868,9.7,38.2,PA
+Ambridge,6679,13.3,27.2,PA
+McKeesport,20915,15.3,24.2,PA
+Darby,10702,13.9,32.3,PA
+Chester,34087,13.9,33.8,PA
+Uniontown,9751,13.9,46.7,PA
+McKees Rocks,5929,16.9,47.2,PA
+Bristol,22131,0.666667,5.03333,RI
+South Kingstown,30816,0.466667,7.03333,RI
+North Kingstown,26101,0.633333,9.9,RI
+Cumberland,35018,0.7,8.66667,RI
+Smithfield,21746,0.7,9.7,RI
+North Providence,32475,1.26667,10.3667,RI
+East Providence,47526,1.36667,11.5333,RI
+Westerly,22537,0.8,15.9667,RI
+Coventry,34814,0.5,6.875,RI
+Johnston,29317,1.46667,13.1333,RI
+Cranston,81059,1.5,14.1,RI
+Lincoln,21900,0.8,17.6,RI
+Warwick,80380,0.9,17.1,RI
+West Warwick,28464,2.3,10.8,RI
+Central Falls,19293,4.3,15.2,RI
+Newport,24863,3.4,24.1,RI
+Pawtucket,71892,4.5,26.2,RI
+Woonsocket,41707,5.9,21.5,RI
+Providence,180169,4.5,31.5,RI
+Isle of Palms,4396,0.166667,20.1333,SC
+Port Royal,13227,2.46667,20.2,SC
+Mount Pleasant,89733,1.63333,15.3,SC
+Bluffton,22578,1.86667,14.3333,SC
+Tega Cay,10763,0.666667,20.2,SC
+Edgefield,4756,1.4,10.3,SC
+Hanahan,26060,2.43333,16.0667,SC
+Mauldin,25418,2.1,17.7333,SC
+Fort Mill,18618,2.26667,19.1667,SC
+Central,5180,0.525,15.175,SC
+Clover,6234,2.56667,23.9,SC
+Walhalla,4327,2.33333,20.9333,SC
+Ridgeland,4072,2.13333,27.1333,SC
+Belton,4402,2.4,45.0667,SC
+Goose Creek,43545,3.33333,22.2667,SC
+Charleston,137092,2.93333,22.9,SC
+Simpsonville,22641,2.73333,33.9,SC
+Saluda,3636,4.96667,15.7667,SC
+Fountain Inn,8846,3.23333,20.8333,SC
+Surfside Beach,4511,1.63333,46.4,SC
+North Augusta,23161,1.9,38.6,SC
+Summerville,51565,2.7,33.7,SC
+Travelers Rest,5183,0.6,47.5,SC
+Lexington,21680,3.6,30.5,SC
+Williamston,4216,3.8,30.8,SC
+Seneca,8371,4.8,25.7,SC
+Honea Path,3782,2.1,43.4,SC
+Woodruff,4253,3.5,35,SC
+Greer,31722,4.2,36.1,SC
+Rock Hill,74049,4.9,37.7,SC
+Irmo,12413,5.2,36,SC
+Abbeville,5059,6.5,28.7,SC
+Hardeeville,6561,6.9,27.3,SC
+Moncks Corner,11484,5.9,35.6,SC
+Greenville,69608,5.3,40.4,SC
+Conway,24784,5.7,38.7,SC
+Beaufort,13920,5.8,41.7,SC
+Lyman,3557,8.4,28.1,SC
+Bennettsville,7898,8.1,33.7,SC
+Easley,21203,5,59.1,SC
+Forest Acres,10375,4.8,63,SC
+Mullins,4350,6,56.8,SC
+Cayce,14238,7.9,46.4,SC
+Columbia,133540,7.4,50.6,SC
+York,8203,8.7,44.7,SC
+Newberry,10293,8.8,44.4,SC
+Clinton,8498,10.1,40,SC
+Sumter,39898,9.2,46.9,SC
+North Charleston,112840,9.2,58.2,SC
+Chester,5394,12.1,42.1,SC
+Union,7748,9.4,59.5,SC
+Gaffney,12816,8.1,70.8,SC
+Laurens,8868,9.7,62.5,SC
+Florence,37819,9.6,65.1,SC
+Georgetown,8819,11.1,58.1,SC
+Lake City,6668,11.2,57.6,SC
+Cheraw,5611,10.3,68.8,SC
+West Columbia,17368,10.4,74.4,SC
+Darlington,5960,11.2,69.3,SC
+Camden,7215,12.9,60.7,SC
+Orangeburg,12820,13.3,58.5,SC
+Barnwell,4385,12.5,65.5,SC
+Manning,3958,8.3,92.5,SC
+Batesburg-Leesville,5380,17.1,47.4,SC
+Greenwood,23265,16.8,68.5,SC
+Marion,6416,15.3,81.7,SC
+Hartsville,7608,15,86.5,SC
+Myrtle Beach,33687,14,105.5,SC
+Brandon,10107,0.366667,3.9,SD
+Lead,2957,1,4.8,SD
+Summerset,2690,0.266667,14.1,SD
+Sisseton,2395,1.76667,7.86667,SD
+Madison,7441,1.1,10.9333,SD
+Beresford,1944,1.5,10,SD
+Tea,5725,1.63333,13.3333,SD
+Brookings,24206,1.63333,14,SD
+North Sioux City,2821,0.266667,18.6667,SD
+Hot Springs,3426,2.13333,15.3,SD
+Canton,3481,2.3,16.9,SD
+Winner,2832,4.6,8.5,SD
+Watertown,22323,3,17.1,SD
+Vermillion,10804,2.4,20,SD
+Belle Fourche,5544,2.3,22.4,SD
+Huron,13193,4.2,16.8,SD
+Sturgis,6949,3,23.6,SD
+Box Elder,9761,4.4,17.9,SD
+Aberdeen,28713,4.3,21,SD
+Spearfish,11763,2.1,31.9,SD
+Flandreau,2332,3.9,24.4,SD
+Sioux Falls,180335,4.4,29.3,SD
+Yankton,14523,5.2,26.1,SD
+Pierre,14050,5,27,SD
+Rapid City,75290,6.5,29.1,SD
+Mitchell,15653,5.2,36.6,SD
+Chamberlain,2388,8,25.5,SD
+Church Hill,6664,1,3.63333,TN
+Coopertown,4552,0.966667,4.9,TN
+Signal Mountain,8602,0.733333,4.83333,TN
+Bean Station,3094,1.93333,11.8667,TN
+Belle Meade,2917,0.1,9.66667,TN
+Loudon,5815,0.933333,11.4333,TN
+Oakland,8107,0.666667,9.33333,TN
+Brentwood,43507,0.7,9.33333,TN
+Atoka,9305,1.53333,10.3333,TN
+Pleasant View,4449,0.466667,11.2333,TN
+Tiptonville,4304,2.1,8.03333,TN
+Spring Hill,41354,1.53333,9.7,TN
+Collegedale,12189,0.533333,14.5333,TN
+Whiteville,4500,2.06667,5.9,TN
+Medina,4313,2.13333,9.66667,TN
+Mount Carmel,5345,1.9,8.63333,TN
+Huntingdon,3807,1.56667,23.5,TN
+Franklin,80825,1.83333,13.4,TN
+Germantown,39179,0.933333,13.6,TN
+Jonesborough,5446,NA,NA,TN
+South Pittsburg,3031,1.6,12.9,TN
+McKenzie,5392,1.5,14.1,TN
+Nolensville,8545,1.9,14.6,TN
+Kingston,5794,2.9,10.7,TN
+Fairview,8898,1.7,15.7,TN
+Maryville,28961,1.6,16.6,TN
+Hendersonville,58437,1.9,15.6,TN
+Millersville,6914,3.2,10.7,TN
+Collierville,50985,1.6,17,TN
+Greenbrier,6899,3.5,9.7,TN
+Erwin,5840,2.9,12.3,TN
+Mount Juliet,36397,2,17.3,TN
+Gallatin,38450,3.1,14,TN
+Lafayette,5318,1.9,20.5,TN
+Waverly,4093,2.2,19.3,TN
+White Bluff,3535,4.2,11.3,TN
+Oliver Springs,3256,1.5,22.1,TN
+Dandridge,2981,1,24.5,TN
+Soddy-Daisy,13804,1.4,22.9,TN
+Portland,12887,2.8,17.6,TN
+Livingston,4016,2.7,17.9,TN
+White House,11818,3,17,TN
+Mount Pleasant,4924,3.9,14,TN
+Dayton,7365,1.8,23.8,TN
+Bartlett,59407,3.2,18.8,TN
+Martin,10418,2.6,23.5,TN
+Etowah,3461,4.9,14.7,TN
+Henderson,6234,4.3,18,TN
+Centerville,3557,3.9,19.7,TN
+Lenoir City,9284,2.8,24.6,TN
+Harriman,6132,2.3,26.9,TN
+Jasper,3317,5.1,15.7,TN
+Munford,6090,4.4,18.6,TN
+Camden,3500,1.4,30.9,TN
+Newbern,3334,3.9,22.2,TN
+La Vergne,36167,4.3,22.7,TN
+Trenton,4043,4.9,22.5,TN
+Smithville,4783,3.8,27.4,TN
+Red Bank,11768,4.4,25.2,TN
+Lewisburg,11967,6.7,18,TN
+Algood,4517,2.9,33.9,TN
+Paris,10088,4.5,28.1,TN
+Somerville,3213,7.5,17.1,TN
+Oak Ridge,29067,5.6,25.3,TN
+Murfreesboro,140702,4.4,31.4,TN
+Goodlettsville,17000,4.6,31.4,TN
+Milan,7640,6.4,25,TN
+Lebanon,33181,5.6,28.3,TN
+Sparta,4951,2.6,41.4,TN
+Tullahoma,19321,5.5,32,TN
+Bristol,26863,5.6,31.9,TN
+East Ridge,21135,4.7,35.4,TN
+Clarksville,156264,6.7,28.9,TN
+Johnson City,66795,4.1,39.3,TN
+Columbia,38802,6.3,32.1,TN
+La Follette,6722,3.9,42.4,TN
+Hohenwald,3671,6.8,30.8,TN
+Humboldt,8110,5.7,35.4,TN
+Shelbyville,21708,7,30.3,TN
+Cookeville,33785,4.2,42,TN
+Oneida,3673,4.9,39.5,TN
+Winchester,8504,6.3,34.1,TN
+Greeneville,14867,4.4,42.8,TN
+Manchester,10719,5.8,37.4,TN
+McMinnville,13668,6.3,35.8,TN
+Lexington,7673,5.6,40,TN
+Madisonville,4754,4.6,45.9,TN
+Clinton,10137,5.5,42.5,TN
+Springfield,16896,8.6,31.4,TN
+Ashland City,4641,2.8,54.7,TN
+Elizabethton,13657,4.5,49.8,TN
+Fayetteville,7024,8.3,36.2,TN
+Bolivar,4954,10.3,28.3,TN
+Selmer,4445,9,33.5,TN
+Sevierville,16999,5.4,49,TN
+Gatlinburg,4192,3.8,55.6,TN
+Dunlap,5111,6.7,46.8,TN
+Ripley,7977,8.8,38.7,TN
+Rogersville,4264,5.4,52.5,TN
+Lawrenceburg,10807,6.2,51.4,TN
+Knoxville,188653,8,46.8,TN
+Morristown,29884,8.1,46.4,TN
+Crossville,11535,8.2,46.6,TN
+Alcoa,10506,7.8,49.1,TN
+Dickson,15637,8.5,48.4,TN
+Kingsport,53465,7.6,52.4,TN
+Jackson,66848,10,42.9,TN
+Pulaski,7650,7.7,52.7,TN
+Metropolitan Nashville Police Department,686492,11.1,40.1,TN
+Brownsville,9490,11.2,40.6,TN
+Rockwood,5417,6.6,58.7,TN
+Sweetwater,5873,8.7,52.3,TN
+Millington,11016,9.2,53.2,TN
+Cleveland,44954,9.2,55.9,TN
+Chattanooga,180397,10.5,60.6,TN
+Dyersburg,16382,12.5,57.6,TN
+Athens,13627,8.7,76.5,TN
+Pigeon Forge,6291,8.7,77.3,TN
+Newport,6770,8.9,78.9,TN
+Savannah,6968,11.6,71,TN
+Memphis,652226,19.4,64.1,TN
+Fulshear,13790,0.333333,5.9,TX
+Hutto,26924,0.7,5.36667,TX
+San Elizario,9161,0.133333,1.03333,TX
+Trophy Club,13090,0.433333,6.13333,TX
+Fairview,9220,0.166667,6.06667,TX
+Colleyville,27262,0.233333,5.66667,TX
+Fair Oaks Ranch,9516,0.366667,5,TX
+West University Place,15759,0.433333,8,TX
+Memorial Villages,12402,0.3,7.33333,TX
+Murphy,21084,0.366667,6.23333,TX
+Fate,13003,0.4,2.075,TX
+Horizon City,19978,0.633333,6.43333,TX
+Prairie View,6526,1.26667,4.13333,TX
+Keller,48439,0.533333,6.16667,TX
+Highland Village,16805,0.566667,8.16667,TX
+Heath,8938,0.7,6.26667,TX
+Sachse,26839,0.533333,10.5333,TX
+Melissa,10107,0.733333,6.56667,TX
+Flower Mound,78542,0.566667,8.63333,TX
+Corinth,21352,1.2,10,TX
+University Park,25516,0.4,12.1333,TX
+Whitehouse,8406,1.325,3.9,TX
+Canyon,15608,0.6,3.45,TX
+Friendswood,40419,0.8,7.96667,TX
+Manvel,11097,0.866667,10.0333,TX
+Wylie,51051,0.966667,8.36667,TX
+"Lakeview, Harrison County",6388,0.3,2.83333,TX
+Leander,53637,1.1,10.6,TX
+Southlake,32639,0.533333,12.8,TX
+Woodway,8878,1.3,11.7667,TX
+Socorro,34327,1.33333,8.4,TX
+Crystal City,7279,2.03333,8.56667,TX
+Georgetown,74709,1.16667,10.0333,TX
+Cibolo,30768,1.06667,9.76667,TX
+Coppell,42415,0.666667,12.5333,TX
+River Oaks,7743,1.03333,15.4667,TX
+Little Elm,50547,1.16667,6.93333,TX
+Elgin,9918,2.35,11.6,TX
+Mansfield,70851,1.06667,11.5333,TX
+Lockhart,13944,2.03333,18.6667,TX
+Forney,21464,1.06667,14.7,TX
+Fredericksburg,11490,0.9,13.5667,TX
+Celina,10559,1.23333,9.5,TX
+Midlothian,26346,1.03333,14.0333,TX
+Frisco,187889,0.9,14.4,TX
+Lakeway,15722,1.3,11.5333,TX
+Allen,103168,0.966667,12.0667,TX
+Floresville,7750,2.4,20.3667,TX
+Missouri City,75628,1.73333,13.4333,TX
+Monahans,7611,1.93333,13.3333,TX
+Deer Park,34155,0.9,14.4,TX
+Helotes,9456,0.6,16.3,TX
+Royse City,13104,1.5,9.8,TX
+Cedar Park,79087,1.2,12.2,TX
+Anna,13579,1.2,12.8,TX
+McKinney,189555,1.5,10.4,TX
+Santa Fe,13600,1.3,12.6,TX
+Pearland,124179,1,14.8,TX
+Lumberton,12948,1.4,11.8,TX
+Lago Vista,6923,1.7,10,TX
+Bridge City,8208,1.3,13,TX
+Roma,11506,2.2,7.1,TX
+Hewitt,14556,1.2,14,TX
+Rockwall,45183,0.9,16.6,TX
+Seabrook,13958,1.8,10.3,TX
+Buda,18028,1.1,15.4,TX
+Graham,8656,2.3,6.7,TX
+Sugar Land,89919,0.9,17.1,TX
+Bellaire,19076,1.4,13.9,TX
+Kennedale,8587,1.2,15.5,TX
+League City,108275,1,16.8,TX
+Angleton,19650,1.6,12.3,TX
+Kyle,46155,1.7,11.7,TX
+Alamo Heights,8629,1.3,15.2,TX
+Del Rio,36007,0.6,20.6,TX
+Benbrook,23924,1.2,17.2,TX
+La Porte,35591,1.8,12.8,TX
+Highland Park,9302,0.4,23.1,TX
+Sulphur Springs,16111,2.3,9.7,TX
+Mission,85368,1.1,18.7,TX
+Watauga,24757,1.9,12.9,TX
+Joshua,8019,1.6,15.3,TX
+Carrollton,138216,1.4,17.1,TX
+Plano,289897,1.4,17.1,TX
+Rowlett,63863,1.8,14.3,TX
+Jersey Village,7974,0.9,20.9,TX
+The Colony,43697,2.3,10.9,TX
+Seagoville,16981,0.7,22.6,TX
+Dumas,14790,1.5,17.5,TX
+Round Rock,127354,1.2,19.6,TX
+Prosper,22570,2.8,8.3,TX
+Robinson,11774,2.1,13.2,TX
+Stephenville,21400,1.4,18.9,TX
+Bonham,10203,1.7,17.1,TX
+Waxahachie,36225,2,14.5,TX
+Richardson,119480,1.1,21.1,TX
+Ingleside,10453,1.3,19.7,TX
+Sealy,6544,2.1,13.9,TX
+Pearsall,10525,1.3,19.9,TX
+Weatherford,31389,1.8,16.2,TX
+Roanoke,8489,2.5,11.7,TX
+Princeton,10749,1.8,17,TX
+North Richland Hills,71498,1.5,19.4,TX
+Gatesville,12377,1.9,16.9,TX
+Boerne,17008,1.6,20,TX
+Bridgeport,6691,3.3,7.6,TX
+Portland,17547,1.4,21.4,TX
+White Settlement,18082,1.8,18.7,TX
+Crowley,15777,1.1,24,TX
+McAllen,144363,0.8,26.7,TX
+Schertz,41383,2.3,16.2,TX
+Alvin,26798,2.1,17.4,TX
+Hidalgo,14133,3.1,10.4,TX
+Euless,55731,1.6,21.3,TX
+Lake Jackson,27568,1.8,20.1,TX
+Jacinto City,10675,1.6,21.7,TX
+Galena Park,11000,2.6,14.2,TX
+Eagle Pass,29329,1.9,20.5,TX
+Azle,12741,2,19.9,TX
+Ennis,19367,2.3,17.7,TX
+Bedford,49841,1.8,21.2,TX
+Burnet,6410,3.6,8.4,TX
+Glenn Heights,13375,2.6,15.6,TX
+Grapevine,55130,1.6,23.4,TX
+Selma,11742,2,20.4,TX
+Dickinson,20600,2.1,19.9,TX
+Alton,17805,3.2,12.2,TX
+College Station,116565,2,20.8,TX
+New Braunfels,82739,2.9,14.5,TX
+Farmers Branch,38495,1.7,24.1,TX
+Cleburne,30317,2.5,17.9,TX
+Burleson,47612,2.8,16.3,TX
+Nederland,17563,2.7,17.6,TX
+Red Oak,13095,1.7,25.7,TX
+Kerrville,23532,2.9,17,TX
+Harker Heights,31710,2,23.6,TX
+Grand Prairie,196535,2.5,19.8,TX
+Silsbee,6734,2.7,19.2,TX
+Irving,243940,2.1,23.6,TX
+Keene,6487,4.2,8.5,TX
+Snyder,11337,3,17.5,TX
+Huntsville,41651,3.2,16,TX
+Kaufman,7428,2.2,24,TX
+Cedar Hill,49253,1.7,28,TX
+Midland,140072,2.9,19.7,TX
+Lewisville,107560,2.6,22.3,TX
+Pharr,80814,2.9,19.6,TX
+Dalhart,8401,2.7,21.5,TX
+Belton,22248,2.6,23,TX
+Bee Cave,7253,2.2,25.6,TX
+Lampasas,7992,2.6,22.9,TX
+El Paso,688442,3.7,15.1,TX
+Greenville,27713,3,20.9,TX
+Rio Grande City,14617,4,13.3,TX
+Freeport,12185,4.1,13.1,TX
+Commerce,9307,3.4,18.1,TX
+Conroe,87544,2.5,24.9,TX
+Decatur,6826,2.5,25.2,TX
+Hitchcock,8038,3.2,19.8,TX
+Andrews,13845,4,14.4,TX
+Taylor,17225,2.9,22.5,TX
+Perryton,8675,3.5,18.9,TX
+Burkburnett,11221,2.9,23.8,TX
+Plainview,20569,2.9,24.5,TX
+Liberty,9334,3.5,19.7,TX
+Port Neches,12881,4.3,13.8,TX
+Rosenberg,38541,4.1,16,TX
+Marble Falls,6579,1.4,35.9,TX
+Lake Dallas,8084,4.6,12.6,TX
+Kirby,8807,3.3,22,TX
+Denton,139262,3.2,23.2,TX
+Denison,24623,3.7,19,TX
+Garland,239577,2.8,26.9,TX
+Seguin,29487,3,25.3,TX
+Brownfield,9698,4.2,16.2,TX
+El Campo,11764,3.7,20.5,TX
+DeSoto,54201,3.4,22.8,TX
+Kilgore,14978,2.8,27.3,TX
+Universal City,20825,3,26.2,TX
+Katy,18965,2.6,29.5,TX
+Temple,75706,3.1,25.6,TX
+Haltom City,44708,3.1,25.8,TX
+Laredo,264214,3.4,24.1,TX
+Richmond,12130,3.8,21,TX
+Clute,11695,3.3,24.8,TX
+Brenham,17116,3.8,21.4,TX
+La Feria,7384,4.2,18.7,TX
+Live Oak,16230,2.6,31.1,TX
+Dayton,8070,3,28.6,TX
+Hondo,9375,2.9,29.3,TX
+San Marcos,66157,4,21.4,TX
+Sherman,42448,3.5,25.2,TX
+Killeen,148007,3.9,22.5,TX
+Copperas Cove,32754,4.4,19.2,TX
+Nacogdoches,33703,3,29,TX
+Manor,10102,4.1,21.8,TX
+Gladewater,6402,3.7,24.4,TX
+Groves,15722,4.5,19.5,TX
+Beeville,12951,3.1,30.1,TX
+Mineral Wells,14729,3.5,26.9,TX
+Bryan,85152,3.9,24.3,TX
+Kingsville,25383,3.2,29.7,TX
+San Juan,37398,4.1,22.9,TX
+Navasota,7677,4.4,21.1,TX
+Brownsville,184461,3.8,26.2,TX
+Hurst,39292,2.4,36.2,TX
+Uvalde,16375,2.2,37.9,TX
+Hillsboro,8422,2.4,36.8,TX
+Athens,12704,4.3,22.5,TX
+South Houston,17619,4.1,24,TX
+Pasadena,154101,4.4,22.5,TX
+Wharton,8754,3.5,29.2,TX
+Los Fresnos,7947,5.3,16.6,TX
+Lancaster,39772,4.3,24.7,TX
+Rockport,10734,2,41.3,TX
+Carthage,6555,4,27.3,TX
+Tyler,106159,3.9,29.5,TX
+Wichita Falls,104738,3.7,30.9,TX
+Victoria,67766,4.1,27.8,TX
+Pleasanton,10627,2.8,38.2,TX
+Vernon,10259,4.5,26.2,TX
+Edinburg,92391,3.3,35.2,TX
+Longview,81660,4,30.7,TX
+Brownwood,18772,4.2,29.3,TX
+San Angelo,101084,3.7,33.5,TX
+San Benito,24559,2.6,41.5,TX
+Forest Hill,13037,4.1,30.9,TX
+Terrell,18104,4,32.1,TX
+Arlington,400920,4.4,29.4,TX
+Mount Pleasant,16291,3.9,34.1,TX
+Borger,12675,3.2,39.4,TX
+Austin,973344,3.8,34.6,TX
+Jacksonville,14960,5.1,25.1,TX
+Leon Valley,11598,2.9,42.2,TX
+Jasper,7602,2.8,43.5,TX
+Seminole,7725,6.7,14.5,TX
+Sweetwater,10530,4.7,29.2,TX
+Abilene,122480,4.8,28.8,TX
+Gainesville,16478,5.8,22,TX
+Fort Worth,893756,5,28.5,TX
+Mesquite,144558,4,36.2,TX
+Texas City,49044,4.8,30.4,TX
+Baytown,77539,3.9,37.5,TX
+Granbury,10228,2.4,48.3,TX
+Lufkin,35937,3.7,39,TX
+Willis,6515,6.1,21.6,TX
+Weslaco,40856,4,39,TX
+Big Spring,28001,5.4,28.4,TX
+Galveston,50896,5.2,30.2,TX
+Richland Hills,8089,4.7,35,TX
+Bay City,17517,4.2,39.2,TX
+Fort Stockton,8365,7.8,12.9,TX
+Duncanville,39618,5.4,31.6,TX
+Hereford,14812,6.5,23.5,TX
+Converse,24185,7.1,19.9,TX
+Marshall,23146,5.9,29.7,TX
+Harlingen,65525,4.2,42.6,TX
+Mercedes,16869,4.8,38.3,TX
+Corsicana,23660,5.7,32.3,TX
+Lamesa,9183,4.7,40.7,TX
+Cleveland,8171,4.7,42.5,TX
+Port Arthur,55643,7,26,TX
+Pampa,17412,5.9,37.5,TX
+Waco,138091,6.4,35.1,TX
+La Marque,17107,4.3,52.8,TX
+Texarkana,37460,4.6,51.1,TX
+Alice,18925,4.8,49.6,TX
+Balch Springs,25565,7,34.5,TX
+San Antonio,1539328,6.3,39.9,TX
+Henderson,13241,6.5,39,TX
+Addison,15839,4.5,55.1,TX
+Dallas,1362465,7.6,32.5,TX
+Odessa,119545,8.8,25.1,TX
+Corpus Christi,328614,7.6,36.4,TX
+Paris,24736,8.8,29.3,TX
+Aransas Pass,8280,5.8,53.5,TX
+Alamo,19840,6.6,48,TX
+Levelland,13646,9.1,31.2,TX
+Raymondville,10959,9.7,29,TX
+Webster,11194,4.2,69.1,TX
+Amarillo,201082,8.1,41.9,TX
+Hempstead,7969,10.9,25.3,TX
+Pecos,10094,12.3,16.2,TX
+"Houston,",2344966,10.3,40.1,TX
+Beaumont,119368,10.6,37.8,TX
+Lubbock,257372,10,45.6,TX
+Bastrop,9050,10.4,43,TX
+Bellmead,10587,12.9,62,TX
+Humble,16122,9,96.9,TX
+Highland/Alpine (Lone Peak),29969,0.166667,6.63333,UT
+Spanish Fork,40095,0.4,10.9667,UT
+Kaysville,32404,0.6,8.66667,UT
+Syracuse,30301,0.7,10.1,UT
+North Ogden,19771,0.4,12.4333,UT
+Saratoga Springs,31786,0.666667,7.4,UT
+Pleasant Grove,39641,0.566667,6.83333,UT
+Farmington,25006,0.6,15.2,UT
+Lehi,65125,1,12.4667,UT
+Clinton,22179,0.6,15.7333,UT
+Payson,20079,0.533333,18.9333,UT
+American Fork/Cedar Hills,40366,0.6,20.9,UT
+Bountiful,44317,1.03333,15.7667,UT
+Roy,38834,1.26667,15.0333,UT
+Orem,99221,0.7,21.4667,UT
+Springville,33824,0.666667,19.9333,UT
+Hurricane,17676,1.23333,17.4667,UT
+Washington,27705,1.36667,18.3333,UT
+Logan,51508,1.1,15.4667,UT
+South Jordan,74321,0.8,21.7667,UT
+Clearfield,31558,1.9,14.6,UT
+North Salt Lake,21190,1.3,19.1,UT
+Brigham City,19362,1.4,18.7,UT
+Provo,117986,1.8,17.7,UT
+Centerville,18013,1.3,21.1,UT
+Cottonwood Heights,34054,1.3,23.1,UT
+Layton,78052,1.7,20,UT
+St. George,86202,2.3,16.1,UT
+Draper,48518,1.7,20.1,UT
+Sandy,97057,1.6,26.9,UT
+Cedar City,32242,2.2,23.3,UT
+West Jordan,115392,2.6,26.3,UT
+Tooele,35065,3,32.6,UT
+Ogden,87616,4.8,36.7,UT
+West Valley,137132,6.9,35.8,UT
+Murray,49675,4.3,60.9,UT
+Salt Lake City,202633,7.3,61.8,UT
+South Salt Lake,25160,9.6,71.4,UT
+Broadway,3908,0.533333,6.06667,VA
+Bridgewater,6125,0.3,3,VA
+Lexington,7098,1.03333,7.13333,VA
+Berryville,4361,0.433333,9.1,VA
+Vienna,16660,0.366667,9,VA
+Purcellville,10090,0.866667,5.1,VA
+Blacksburg,44853,0.8,7.96667,VA
+Buena Vista,6272,0.65,8.5,VA
+Manassas Park,16882,1.4,8.6,VA
+Falls Church,14884,1.13333,13.8,VA
+Tazewell,4185,1.6,12.6,VA
+Poquoson,12011,1.63333,12.6667,VA
+Herndon,24697,1.63333,12.5333,VA
+Smithfield,8392,1.43333,14.6,VA
+Abingdon,7949,1.3,18.6,VA
+Williamsburg,15191,1.5,13.1667,VA
+Orange,5016,1.73333,13.3667,VA
+Leesburg,56030,1.95,13.35,VA
+Fairfax City,24259,1.13333,16.1667,VA
+Covington,5462,1.73333,19.1667,VA
+Big Stone Gap,5215,0.6,21.1,VA
+Virginia Beach,451001,1.2,17.2,VA
+Dumfries,5265,1.7,14.1,VA
+Salem,25942,0.9,19.4,VA
+Alexandria,162588,1.6,15.3,VA
+Culpeper,18671,1.7,15.9,VA
+Strasburg,6643,2.3,12.3,VA
+Harrisonburg,54869,2,15.2,VA
+Wytheville,7969,0.6,24.3,VA
+Farmville,7778,1.3,20.8,VA
+Vinton,8077,1.1,22.3,VA
+Warrenton,9912,1.2,21.7,VA
+Woodstock,5232,1.7,18.5,VA
+Manassas,41888,2.5,15.2,VA
+Front Royal,15356,2.1,18.2,VA
+Radford,17797,2.9,13.3,VA
+Waynesboro,22470,2.2,21.2,VA
+Christiansburg,22444,1.9,23.7,VA
+Staunton,24584,1.9,24.7,VA
+Luray,4806,1.5,28.5,VA
+Lynchburg,81603,3.4,19.9,VA
+Suffolk,90817,2.8,25.8,VA
+Richlands,5256,3,25.9,VA
+South Hill,4345,2.8,27.8,VA
+Winchester,28128,3.3,24.6,VA
+Rocky Mount,4762,2.5,30,VA
+Charlottesville,48585,3.6,23.9,VA
+Bristol,16613,2.5,30.9,VA
+Chesapeake,242310,4,21.4,VA
+Pulaski,8720,3.1,29.6,VA
+Norton,3914,2.3,35.3,VA
+Bedford,6532,3.1,30.5,VA
+Hopewell,22562,4.4,24.5,VA
+Bluefield,4624,1.3,47.1,VA
+Ashland,7876,4.7,25.3,VA
+Colonial Heights,17857,2.8,37.9,VA
+Fredericksburg,28919,3.7,34.5,VA
+Franklin,8100,3.1,43,VA
+Martinsville,13025,4.1,36.2,VA
+Newport News,178734,5.3,28.8,VA
+Norfolk,244347,4.6,34.6,VA
+Marion,5615,5.2,32.6,VA
+South Boston,7721,3.6,43.4,VA
+Emporia,5184,5,37,VA
+Galax,6559,4.1,44.5,VA
+Richmond,229927,5.2,38.3,VA
+Roanoke,100042,4.3,44.3,VA
+Danville,40781,5.3,40,VA
+Petersburg,31568,7.1,29,VA
+Portsmouth,94218,7.9,52.8,VA
+Castleton,4995,0,0,VT
+Hinesburg,4577,0.225,1.75,VT
+Shelburne,7817,0.266667,6.3,VT
+Barre Town,7693,1.06667,10.2333,VT
+Middlebury,8613,0.433333,11.5,VT
+Swanton,6560,0.525,2.8,VT
+Essex,21803,0.6,13.8,VT
+Colchester,17313,1.13333,15.6667,VT
+Milton,11024,0.933333,9.13333,VT
+Morristown,5450,0.966667,11.8667,VT
+Williston,9778,0.7,19.7,VT
+Northfield,6006,2.7,7.7,VT
+Montpelier,7434,0.9,21.7,VT
+St. Johnsbury,7158,2.1,13.7,VT
+Hartford,9567,2.6,13.3,VT
+Springfield,8864,1.8,20.9,VT
+Burlington,42212,2.7,19.8,VT
+South Burlington,19318,1.7,29.6,VT
+Bennington,14900,2.1,27.9,VT
+Winooski,7233,3.9,16.7,VT
+Rutland,15300,3.9,25,VT
+Brattleboro,11410,3.5,40.1,VT
+Barre,8605,8.4,27.5,VT
+St. Albans,6777,5.8,63.6,VT
+Snoqualmie,13947,0.166667,13.3333,WA
+West Richland,15012,0.8,9.8,WA
+Camas,23865,0.7,13.1,WA
+Mercer Island,26641,0.3,18.8333,WA
+Oak Harbor,23330,1.5,9.66667,WA
+Bainbridge Island,24739,0.9,11.3,WA
+Grandview,11163,1.33333,18.2333,WA
+Mill Creek,21234,1.26667,19.3667,WA
+Enumclaw,11882,1.03333,20.9667,WA
+Pullman,33896,1.13333,15.4,WA
+Lynden,14612,0.833333,12.3,WA
+Lake Forest Park,13504,0.833333,19.0333,WA
+Sedro Woolley,11953,0.933333,31.2667,WA
+Ferndale,14439,1.26667,21.2667,WA
+Kirkland,89805,0.933333,23.1333,WA
+Edgewood,11510,1.46667,23.3667,WA
+Washougal,15949,1.96667,13.6667,WA
+East Wenatchee,15097,1.23333,30.4333,WA
+Lake Stevens,33491,1.83333,13.1,WA
+Battle Ground,21002,1.53333,17.3667,WA
+Bothell,46387,1.4,21.9,WA
+Edmonds,42565,1.5,19.8,WA
+Issaquah,38606,0.8,35.1,WA
+Bonney Lake,21192,1.6,21.3,WA
+Mukilteo,21638,1.7,20,WA
+Redmond,65827,1.4,28.2,WA
+Bellevue,146913,1.3,29.2,WA
+Anacortes,17130,1.8,22.2,WA
+Mountlake Terrace,21549,1.8,25,WA
+Pasco,74582,2.2,17.8,WA
+University Place,33743,2.1,21.3,WA
+Kennewick,82687,1.9,25.7,WA
+Lacey,50844,1.9,27,WA
+Richland,57450,2.2,22.3,WA
+Ellensburg,20616,2,29.2,WA
+Marysville,70204,2.4,22.1,WA
+Sunnyside,16468,2.2,25.6,WA
+Bellingham,90208,2.3,37.1,WA
+Cheney,12715,3.4,16,WA
+Wenatchee,34169,2.9,24.9,WA
+Mount Vernon,35550,2.8,36.8,WA
+Longview,37720,2.9,35.8,WA
+Lynnwood,38620,2.6,42.6,WA
+Arlington,19394,3.1,34.1,WA
+Monroe,19003,3.6,24.1,WA
+Tumwater,23405,3.6,30,WA
+Des Moines,31460,3.5,34.7,WA
+Puyallup,41572,2.6,56.2,WA
+Everett,111091,3.4,42.2,WA
+Moses Lake,23763,3.4,44.1,WA
+Spokane Valley,99020,3.5,42.1,WA
+Renton,102749,3.2,47.8,WA
+Walla Walla,32906,3.9,36.3,WA
+Kent,129870,3.5,45.8,WA
+Vancouver,177580,4.6,33,WA
+Yakima,93959,4.5,35.6,WA
+Kelso,12164,4.3,40,WA
+Auburn,82381,4.4,40.5,WA
+Olympia,52312,4.7,38.6,WA
+Port Orchard,14269,4.7,44.4,WA
+Federal Way,97762,4.7,45.8,WA
+Port Angeles,19992,5.3,41.2,WA
+Centralia,17299,5.1,45.9,WA
+Aberdeen,16404,5.2,50.8,WA
+Lakewood,60694,6.5,46.4,WA
+Seattle,742759,6.8,51.5,WA
+Tacoma,215687,8.7,52.7,WA
+Spokane,218222,8,70.7,WA
+Tukwila,20288,7.3,167.6,WA
+Oconomowoc Town,8692,0.2,1.43333,WI
+Mukwonago Town,8146,0.633333,2,WI
+Bayside,4375,0,6.6,WI
+Geneva Town,5032,0.133333,7.46667,WI
+Town of East Troy,4058,0.733333,3.56667,WI
+Cedarburg,11469,0.2,6,WI
+Hobart-Lawrence,14667,0.366667,4.26667,WI
+Muskego,25118,0.266667,6.96667,WI
+Delavan Town,5322,0.733333,8,WI
+Grand Rapids,7385,0.133333,7.4,WI
+Kewaskum,4139,0.2,9.53333,WI
+Hartland,9302,0.366667,7.66667,WI
+Fox Valley Metro,22006,0.666667,5.93333,WI
+Cross Plains,4331,0.566667,8.73333,WI
+Sturtevant,6966,0.333333,6.1,WI
+Cottage Grove,7024,0.833333,5.66667,WI
+Evansville,5379,0.4,8.76667,WI
+Oconomowoc,16850,0.175,4.575,WI
+Twin Lakes,6077,1.1,8.16667,WI
+West Salem,5055,1.2,7.43333,WI
+Mequon,24311,0.2,9.9,WI
+Sheboygan Falls,7945,0.3,9.7,WI
+Edgerton,5602,0.4,9.1,WI
+Oregon,10549,0.4,9.2,WI
+Holmen,9993,0.7,6.9,WI
+Caledonia,25047,0.8,6,WI
+Elm Grove,6205,0.5,9.3,WI
+Lake Mills,5925,1.5,2.4,WI
+Campbell Township,4366,0.7,8.5,WI
+New Berlin,39763,0.4,10.9,WI
+Sturgeon Bay,8889,0.7,8.8,WI
+Kronenwetter,7813,1.3,4.6,WI
+Saukville,4415,0.5,11.3,WI
+Mayville,4862,0.6,10.3,WI
+Menomonee Falls,37712,0.6,10.8,WI
+Colby-Abbotsford,4085,1.5,4.4,WI
+Deforest,10557,0.9,9.3,WI
+Delafield,7588,0.4,12.7,WI
+Summit,4947,1.2,7.1,WI
+Waupun,11260,1.1,8.2,WI
+Grafton,11662,0.6,11.7,WI
+East Troy,4333,0.9,9.9,WI
+Waunakee,14000,1.4,6.6,WI
+Franklin,36251,0.4,14.5,WI
+McFarland,8544,1.1,9.6,WI
+Fox Crossing,19323,1,9.8,WI
+Mount Horeb,7462,1.1,9.5,WI
+Jackson,7156,1,10.3,WI
+Berlin,5365,0.6,13.4,WI
+Port Washington,11831,1.6,6.2,WI
+Milton,5585,1.1,10.4,WI
+Sauk Prairie,4611,0.2,16.9,WI
+Whitefish Bay,13933,0.7,13.7,WI
+Fox Point,6671,1.2,10.2,WI
+Ripon,7823,1.2,10.6,WI
+De Pere,25199,1.5,8.1,WI
+Whitewater,14561,1.6,7.1,WI
+Minocqua,4380,1.6,7.5,WI
+Reedsburg,9518,0.8,13.1,WI
+Oconto,4421,0.5,16.1,WI
+Everest Metropolitan,17392,1.1,11.4,WI
+Waukesha,72672,1.3,10.3,WI
+Monroe,10575,1,12,WI
+Mukwonago,8034,0.7,14.2,WI
+Kaukauna,16172,1.5,8.3,WI
+Burlington,11039,1.4,9.8,WI
+Pewaukee Village,8172,1,12.6,WI
+Plymouth,8554,1.2,11.2,WI
+Beloit Town,7688,0.9,13.4,WI
+Hales Corners,7640,1,12.7,WI
+Rothschild,5334,1.7,8.2,WI
+Marshall Village,3988,2.5,2.3,WI
+Mosinee,4003,1.2,11.5,WI
+Bloomfield,6323,1.7,7.9,WI
+Elkhorn,9934,1.3,11.4,WI
+Prescott,4273,2.1,5.6,WI
+Plover,12853,1.1,13.6,WI
+Hartford,15183,1.1,13.4,WI
+Cudahy,18290,1.3,12.1,WI
+Richland Center,4968,1.4,11.7,WI
+Slinger,5476,1.8,9.5,WI
+St. Francis,9459,1.5,12.2,WI
+Marinette,10561,0.9,17.2,WI
+Watertown,23628,1.9,9.3,WI
+Greendale,14181,0.8,17.7,WI
+Viroqua,4461,1.3,14.1,WI
+Germantown,20014,0.4,21.1,WI
+River Falls,15578,1,16.6,WI
+Onalaska,18841,0.3,22,WI
+Altoona,7827,1.5,13.4,WI
+Sparta,9681,2.1,10.3,WI
+Marshfield,18309,0.7,20.9,WI
+Verona,13490,1.4,15.3,WI
+Beaver Dam,16394,1.5,14.6,WI
+Chippewa Falls,14084,1.8,12.4,WI
+North Fond du Lac,5079,1.8,13,WI
+Stevens Point,26233,1.5,14.9,WI
+Sun Prairie,33390,0.8,20.2,WI
+Brookfield,38065,0.7,21.4,WI
+New London,7083,2.5,8.8,WI
+Mount Pleasant,26571,0.9,21.4,WI
+Dodgeville,4734,1.3,18.6,WI
+Fort Atkinson,12495,2,13.5,WI
+Brookfield Township,6295,1.6,17.5,WI
+Oshkosh,66736,1.7,16.6,WI
+Oak Creek,36643,1.3,20.2,WI
+Jefferson,8021,1.6,17.6,WI
+West Bend,31651,1.8,16.7,WI
+South Milwaukee,20972,1.7,17.5,WI
+Stoughton,13149,1.7,18.1,WI
+Merrill,9091,2.1,15.3,WI
+Menomonie,16450,1.7,18.6,WI
+Pleasant Prairie,20911,1.7,18.7,WI
+New Richmond,9052,2,16.9,WI
+Appleton,74931,2.2,15.4,WI
+Columbus,5037,3.8,4.2,WI
+Portage,10496,2.4,14.9,WI
+Prairie du Chien,5618,1.6,20.8,WI
+Tomah,9394,1.4,22.7,WI
+Middleton,19970,2.6,13.8,WI
+Wauwatosa,48562,1.1,25.7,WI
+Medford,4294,1.4,24,WI
+Platteville,12642,2.5,16.5,WI
+Lake Geneva,7907,1.6,22.4,WI
+Mauston,4390,3.6,7.7,WI
+Ashwaubenon,17316,0.8,30.5,WI
+Two Rivers,11077,3.2,12.3,WI
+Manitowoc,32557,2.2,20.3,WI
+Greenfield,36850,1.7,24.4,WI
+Hudson,13848,1.4,27.7,WI
+Shorewood,13368,1.3,28,WI
+Lake Hallie,6742,0,38.6,WI
+Wausau,38682,3.1,16.2,WI
+Menasha,17788,2.5,20.6,WI
+Kenosha,99948,3.4,15,WI
+Fitchburg,30151,2.9,19.3,WI
+Delavan,9938,2.1,25.3,WI
+Fond du Lac,42777,2.4,23.7,WI
+Baraboo,12178,2,29.4,WI
+Wisconsin Rapids,17725,1.5,33.8,WI
+Sheboygan,48195,3.8,17.1,WI
+Eau Claire,68923,2.9,24.5,WI
+Rhinelander,7535,2.8,25.5,WI
+Grand Chute,22865,2.3,29.9,WI
+Janesville,64471,2.6,27.9,WI
+Clintonville,4332,1.6,35.5,WI
+Waupaca,5859,2.4,32.3,WI
+Rice Lake,8332,3,28.7,WI
+Green Bay,105281,4.6,17.1,WI
+West Allis,59887,3.3,27.9,WI
+Madison,258455,4,26,WI
+La Crosse,51901,2.8,37.1,WI
+Beloit,36746,4.7,26.6,WI
+Shawano,8936,3.8,33.6,WI
+Ashland,7770,4,32.7,WI
+Racine,77373,5.6,21.5,WI
+Superior,26054,2.9,42.8,WI
+Monona,8183,1.1,60.5,WI
+Antigo,7720,3.2,45.5,WI
+Town of Madison,6942,7.2,21.3,WI
+Brown Deer,11963,4.3,45.8,WI
+Glendale,12710,4.2,75.9,WI
+Milwaukee,595619,14.1,29.7,WI
+West Milwaukee,4152,12.3,104.5,WI
+Weirton,18542,0.933333,10,WV
+Charles Town,6060,1.7,14.1333,WV
+Ranson,5292,0.933333,1.7,WV
+Oak Hill,8264,1.83333,26.1333,WV
+Bridgeport,8708,1.93333,27.1333,WV
+St. Albans,10161,1.9,18.4,WV
+Morgantown,30855,2.7,16.2,WV
+Fairmont,18430,3.4,14.2,WV
+Buckhannon,5516,0.7,31.9,WV
+Moundsville,8417,2,25.2,WV
+Vienna,10306,2.2,34.1,WV
+Martinsburg,17428,3.2,31,WV
+Nitro,6509,3.8,39.8,WV
+Wheeling,26855,8.5,12,WV
+Bluefield,9789,9.4,10.5,WV
+South Charleston,12357,3.8,46.7,WV
+Dunbar,7262,6.1,41.2,WV
+Charleston,47470,7,60.1,WV
+Beckley,16234,9.1,51.5,WV
+Green River,12025,1.8,9.3,WY
+Worland,5148,1.06667,12.6333,WY
+Laramie,32509,1.03333,12.9,WY
+Douglas,6386,3.46667,14.7333,WY
+Sheridan,17919,0.733333,19.1667,WY
+Evanston,11797,1.13333,22.3,WY
+Rock Springs,23405,3.23333,17.8667,WY
+Cody,9935,1.5,17.4333,WY
+Gillette,30659,1.63333,20.1333,WY
+Powell,6458,2.66667,20.5,WY
+Lander,7542,0,34.1,WY
+Casper,58200,2,28,WY
+Torrington,6699,5.2,10.9,WY
+Riverton,11076,2.3,30,WY
+Rawlins,8806,4.2,19.4,WY
+Cheyenne,64178,3.2,39.9,WY

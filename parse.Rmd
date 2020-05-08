@@ -114,6 +114,9 @@ df1 <- bind_rows(
 coul = brewer.pal(8, "Set1") 
 coul = colorRampPalette(coul)(47)
 
+df1 %>% 
+  write_csv('safewise_dataset.csv')
+
 df1 %>%
   mutate(
     label = case_when(

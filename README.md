@@ -2,7 +2,9 @@
 
 ![text](image.png)
 
-This data was obtained from [Safewise](https://www.safewise.com), from their Safest Cities of 2020 blog. E.g., [Colorado's page](https://www.safewise.com/blog/safest-cities-colorado/).
+This data was obtained from [Safewise](https://www.safewise.com), from their Safest Cities of 2020 
+blog. E.g., [Colorado's page](https://www.safewise.com/blog/safest-cities-colorado/). This dataset 
+is meant to help determine the safest – and least safe? – cities in the United States.
 
 ## Notes
 

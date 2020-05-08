@@ -6,6 +6,7 @@ This data was obtained from [Safewise](https://www.safewise.com), from their Saf
 
 ## Notes
 
+- The violent crime and population crime data (both per 1000 residents) are means from 2018-2020.
 - The number of cities included in the top portion with more imformation seems to be somewhat random.
 - Some states don't have city-level data, data is only for the whole state. These include: North Carolina and Iowa.
 - Some states aren't included at all: Hawaii.

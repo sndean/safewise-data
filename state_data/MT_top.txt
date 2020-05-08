@@ -1,0 +1,111 @@
+
+
+#1
+
+Glendive
+
++1
+Glendive, Montana
+Population 5,132
+Median Income $50,995
+VC Rate 2020, 2019, 2018 2.1, 1.5, 1.8
+PC Rate 2020, 2019, 2018 7.0, 17.8, 19.3
+
+#2
+
+Deer Lodge
+
++7
+Deer Lodge, Montana
+Population 2,902
+Median Income $37,985
+VC Rate 2020, 2019, 2018 2.4, 3.0, 6.1
+PC Rate 2020, 2019, 2018 6.2, 25.6, 41.2
+
+#3
+
+Whitefish
+
++1
+Whitefish, Montana
+Population 7,801
+Median Income $49,870
+VC Rate 2020, 2019, 2018 1.2, 1.6, 1.9
+PC Rate 2020, 2019, 2018 16.7, 20.3, 26.2
+
+#4
+
+Columbia Falls
+
+-1
+Columbia Falls, Montana
+Population 5,456
+Median Income $44,257
+VC Rate 2020, 2019, 2018 1.5, 1.5, 1.2
+PC Rate 2020, 2019, 2018 15.4, 25.9, 22.8
+
+#5
+
+Dillon
+
++9
+Dillon, Montana
+Population 4,281
+Median Income $36,201
+VC Rate 2020, 2019, 2018 3.7, 4.9, 0.7
+PC Rate 2020, 2019, 2018 6.1, 4.4, 9.2
+
+#6
+
+Miles City
+
+-5
+Miles City, Montana
+Population 8,496
+Median Income $51,503
+VC Rate 2020, 2019, 2018 2.0, 1.0, 2.0
+PC Rate 2020, 2019, 2018 18.7, 18.3, 18.8
+
+#7
+
+Bozeman
+
+0
+Bozeman, Montana
+Population 48,101
+Median Income $49,217
+VC Rate 2020, 2019, 2018 2.2, 2.8, 3.3
+PC Rate 2020, 2019, 2018 18.4, 24.5, 28.1
+
+#8
+
+Laurel
+
+-3
+Laurel, Montana
+Population 6,800
+Median Income $50,778
+VC Rate 2020, 2019, 2018 2.2, 2.2, 1.4
+PC Rate 2020, 2019, 2018 20.0, 26.3, 21.0
+
+#9
+
+Belgrade
+
+-1
+Belgrade, Montana
+Population 8,724
+Median Income $57,321
+VC Rate 2020, 2019, 2018 2.3, 2.9, 2.9
+PC Rate 2020, 2019, 2018 21.1, 21.6, 24.1
+
+#10
+
+Glasgow
+
++2
+Glasgow, Montana
+Population 3,325
+Median Income $61,484
+VC Rate 2020, 2019, 2018 4.2, 4.1, 1.7
+PC Rate 2020, 2019, 2018 12.9, 15.4, 6.7

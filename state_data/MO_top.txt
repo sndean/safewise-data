@@ -1,0 +1,217 @@
+
+
+Battlefield
+
++5
+Battlefield, Missouri
+Population 6,218
+Median Income $63,065
+VC Rate 2020, 2019, 2018 0.2, 0.3, 0.5
+PC Rate 2020, 2019, 2018 6.6, 20.2, 15.0
+
+#2
+
+Cottleville
+
++38
+Cottleville, Missouri
+Population 5,670
+Median Income $98,611
+VC Rate 2020, 2019, 2018 0.9, 1.2, 0.4
+PC Rate 2020, 2019, 2018 2.6, 4.8, 6.6
+
+#3
+
+Glendale
+
++11
+Glendale, Missouri
+Population 5,881
+Median Income $131,250
+VC Rate 2020, 2019, 2018 0.5, 0.5, 0.3
+PC Rate 2020, 2019, 2018 5.4, 8.3, 10.8
+
+#4
+
+Byrnes Mill
+
++3
+Byrnes Mill, Missouri
+Population 3,016
+Median Income $67,353
+VC Rate 2020, 2019, 2018 0.7, 0.3, 0.7
+PC Rate 2020, 2019, 2018 5.6, 5.1, 3.1
+
+#5
+
+Ballwin
+
++4
+Ballwin, Missouri
+Population 30,151
+Median Income $88,913
+VC Rate 2020, 2019, 2018 0.3, 0.4, 0.4
+PC Rate 2020, 2019, 2018 8.1, 5.6, 7.7
+
+#6
+
+Clever
+
++45
+Population 2,743
+Median Income $50,327
+VC Rate 2020, 2019, 2018 0.7, 1.5, 2.7
+PC Rate 2020, 2019, 2018 6.2, 5.2, 5.4
+
+#7
+
+Bonne Terre
+
++10
+Bonne Terre, Missouri
+Population 7,305
+Median Income $50,654
+VC Rate 2020, 2019, 2018 1.1, 0.7, 2.2
+PC Rate 2020, 2019, 2018 6.3, 2.5, 9.3
+
+#8
+
+Town and Country
+
++3
+Town and Country, Missouri
+Population 11,154
+Median Income $164,649
+VC Rate 2020, 2019, 2018 0.2, 0.4, 0.4
+PC Rate 2020, 2019, 2018 11.8, 11.7, 12.2
+
+#9
+
+Fayette
+
+-1
+Fayette, Missouri
+Population 2,713
+Median Income $43,006
+VC Rate 2020, 2019, 2018 0.7, 0.4, 1.5
+PC Rate 2020, 2019, 2018 9.2, 14.5, 22.2
+
+#10
+
+Webster Groves
+
++26
+Webster Groves, Missouri
+Population 22,873
+Median Income $88,619
+VC Rate 2020, 2019, 2018 1.1, 1.2, 1.0
+PC Rate 2020, 2019, 2018 7.2, 7.3, 11.8
+
+#11
+
+Platte City
+
+-12
+Platte City, Missouri
+Population 4,979
+Median Income $55,985
+VC Rate 2020, 2019, 2018 0.8, 0.2, 1.2
+PC Rate 2020, 2019, 2018 10.0, 15.7, 17.3
+
+#12
+
+Rock Hill
+
+-12
+Rock Hill, Missouri
+Population 4,599
+Median Income $66,311
+VC Rate 2020, 2019, 2018 0.7, 0.2, 1.7
+PC Rate 2020, 2019, 2018 11.5, 9.1, 13.1
+
+#13
+
+Ellisville
+
++22
+Ellisville, Missouri
+Population 9,842
+Median Income $67,198
+VC Rate 2020, 2019, 2018 1.0, 1.2, 0.9
+PC Rate 2020, 2019, 2018 10.4, 13.5, 15.0
+
+#14
+
+Ladue
+
+-4
+Ladue, Missouri
+Population 8,625
+Median Income $203,250
+VC Rate 2020, 2019, 2018 0.6, 0.5, 0.5
+PC Rate 2020, 2019, 2018 13.0, 12.7, 10.7
+
+#15
+
+California
+
+-18
+California, Missouri
+Population 4,425
+Median Income $37,500
+VC Rate 2020, 2019, 2018 0.7, 0.0, 3.2
+PC Rate 2020, 2019, 2018 12.4, 13.5, 14.7
+
+#16
+
+Higginsville
+
++17
+Population 4,606
+Median Income $52,507
+VC Rate 2020, 2019, 2018 0.7, 1.1, 0.9
+PC Rate 2020, 2019, 2018 12.6, 11.9, 16.2
+
+#17
+
+Louisiana
+
++66
+Louisiana, Missouri
+Population 3,282
+Median Income $35,697
+VC Rate 2020, 2019, 2018 0.6, 2.1, 3.3
+PC Rate 2020, 2019, 2018 13.1, 14.7, 17.4
+
+#18
+
+Licking
+
++30
+Licking, MIssouri
+Population 3,094
+Median Income $24,559
+VC Rate 2020, 2019, 2018 1.3, 1.3, 2.9
+PC Rate 2020, 2019, 2018 9.7, 18.6, 13.2
+
+#19
+
+Wright City
+
+-13
+Wright City, Missouri
+Population 3,777
+Median Income $56,550
+VC Rate 2020, 2019, 2018 1.6, 0.3, 0.9
+PC Rate 2020, 2019, 2018 8.2, 13.7, 15.9
+
+#20
+
+Savannah
+
++4
+Savannah, Missouri
+Population 5,202
+Median Income $45,557
+VC Rate 2020, 2019, 2018 1.2, 0.8, 0.6
+PC Rate 2020, 2019, 2018 11.0, 11.5, 7.4

@@ -1,0 +1,56 @@
+
+
+#1
+
+Madison
+
+0
+Madison, Mississippi
+Population 25,832
+Median Income $103,121
+VC Rate 2020, 2019, 2018 0.7, 0.4, 0.5
+PC Rate 2020, 2019, 2018 9.3, 9.5, 7.6
+
+#2
+
+Brandon
+
+0
+Brandon, Mississippi
+Population 24,283
+Median Income $72,529
+VC Rate 2020, 2019, 2018 1.2, 1.1, 0.6
+PC Rate 2020, 2019, 2018 7.7, 9.3, 9.0
+
+#3
+
+Clinton
+
+New
+Clinton, Mississippi
+Population 25,137
+Median Income $57,667
+VC Rate 2020, 2019, 2018 0.6, 0.0, Not available
+PC Rate 2020, 2019, 2018 21.4, 19.6, Not available
+
+#4
+
+Horn Lake
+
+-1
+Horn Lake, Mississippi
+Population 27,238
+Median Income $47,300
+VC Rate 2020, 2019, 2018 1.0, 1.2, 0.7
+PC Rate 2020, 2019, 2018 23.9, 25.8, 25.9
+
+#5
+
+Southaven
+
+-1
+Southaven, Mississippi
+Population 54,772
+Median Income $60,093
+VC Rate 2020, 2019, 2018 1.2, 1.4, 1.1
+PC Rate 2020, 2019, 2018 29.8, 27.4, 27.8

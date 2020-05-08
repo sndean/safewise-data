@@ -1,0 +1,214 @@
+
+
+#1
+
+Lewisboro
+
+0
+Population 12,823
+Median Income $141,477
+VC Rate 2020, 2019, 2018 0.0, 0.0, 0.0
+PC Rate 2020, 2019, 2018 0.0, 0.1, 0.2
+
+#2
+
+Sleepy Hollow Village
+
+New
+Sleepy Hollow Village, New York
+Population 10,267
+Median Income $58,672
+VC Rate 2020, 2019, 2018 0.0, Not available, 0.6
+PC Rate 2020, 2019, 2018 0.1, Not available, 1.6
+
+#3
+
+Kirkland
+
+0
+Population 8,355
+Median Income $60,542
+VC Rate 2020, 2019, 2018 0.0, 0.0, 0.2
+PC Rate 2020, 2019, 2018 0.7, 2.4, 3.0
+
+#4
+
+Highlands Town
+
++16
+Population 8,328
+Median Income $80,038
+VC Rate 2020, 2019, 2018 0.1, 0.2, 0.1
+PC Rate 2020, 2019, 2018 0.5, 1.0, 1.2
+
+#5
+
+Briarcliff Manor
+
++17
+Briarcliff Manor, New York
+Population 8,044
+Median Income $144,006
+VC Rate 2020, 2019, 2018 0.0, 0.2, 0.0
+PC Rate 2020, 2019, 2018 2.0, 2.5, 2.9
+
+#6
+
+Stillwater
+
++9
+Population 7,302
+Median Income $74,086
+VC Rate 2020, 2019, 2018 0.3, 0.1, 0.0
+PC Rate 2020, 2019, 2018 1.6, 4.7, 3.6
+
+#7
+
+Malverne
+
+-3
+Population 8,626
+Median Income $114,497
+VC Rate 2020, 2019, 2018 0.2, 0.0, 0.5
+PC Rate 2020, 2019, 2018 2.0, 2.6, 3.3
+
+#8
+
+Plattekill
+
++57
+Population 10,235
+Median Income $60,193
+VC Rate 2020, 2019, 2018 0.0, 0.7, 1.5
+PC Rate 2020, 2019, 2018 3.0, 5.4, 4.6
+
+#9
+
+New Castle
+
+New
+New Castle, New York
+Population 18,197
+Median Income $186,493
+VC Rate 2020, 2019, 2018 0.1, Not available, 0.1
+PC Rate 2020, 2019, 2018 2.9, Not available, 3.1
+
+#10
+
+Bedford
+
++17
+Bedford, New York
+Population 18,034
+Median Income $119,069
+VC Rate 2020, 2019, 2018 0.2, 0.3, 0.4
+PC Rate 2020, 2019, 2018 2.3, 2.1, 3.7
+
+#11
+
+Northport
+
++35
+Population 7,362
+Median Income $112,316
+VC Rate 2020, 2019, 2018 0.0, 0.5, 0.8
+PC Rate 2020, 2019, 2018 3.4, 5.7, 7.7
+
+#12
+
+Harrison Town
+
+-4
+Harrison, New York
+Population 28,741
+Median Income $111,122
+VC Rate 2020, 2019, 2018 0.0, 0.0, 0.0
+PC Rate 2020, 2019, 2018 3.5, 4.1, 4.4
+
+#13
+
+Chester
+
++70
+Chester, New York
+Population 8,053
+Median Income $46,300
+VC Rate 2020, 2019, 2018 0.4, 0.9, 0.6
+PC Rate 2020, 2019, 2018 2.2, 0.9, 1.8
+
+#14
+
+Irvington
+
++25
+Irvington, New York
+Population 6,631
+Median Income $137,500
+VC Rate 2020, 2019, 2018 0.3, 0.5, 0.3
+PC Rate 2020, 2019, 2018 2.6, 2.4, 3.2
+
+#15
+
+Whitestown
+
+-3
+Whitestown, New York
+Population 9,175
+Median Income $55,334
+VC Rate 2020, 2019, 2018 0.2, 0.1, 0.0
+PC Rate 2020, 2019, 2018 3.1, 3.3, 2.9
+
+#16
+
+Tuckahoe
+
+0
+Tuckahoe, New York
+Population 6,677
+Median Income $87,727
+VC Rate 2020, 2019, 2018 0.4, 0.2, 0.1
+PC Rate 2020, 2019, 2018 2.2, 5.1, 7.3
+
+#17
+
+Kent
+
+-8
+Kent, New York
+Population 13,326
+Median Income $87,808
+VC Rate 2020, 2019, 2018 0.1, 0.1, 0.2
+PC Rate 2020, 2019, 2018 3.8, 4.7, 4.1
+
+#18
+
+Eden
+
++42
+Eden, New York
+Population 7,667
+Median Income $60,179
+VC Rate 2020, 2019, 2018 0.0, 0.7, 0.0
+PC Rate 2020, 2019, 2018 4.4, 4.8, 5.6
+
+#19
+
+Stony Point
+
++30
+Stony Point, New York
+Population 15,667
+Median Income $97,522
+VC Rate 2020, 2019, 2018 0.3, 0.6, 0.3
+PC Rate 2020, 2019, 2018 3.3, 4.9, 5.1
+
+#20
+
+Glen Cove
+
++8
+Glen Cove, New York
+Population 27,574
+Median Income $74,767
+VC Rate 2020, 2019, 2018 0.1, 0.3, Not available
+PC Rate 2020, 2019, 2018 4.0, 5.5, Not available

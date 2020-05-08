@@ -1,0 +1,545 @@
+
+
+River Vale Township
+
++12
+River Vale Township, Ney Jersey
+Population 10,157
+Median Income $131,764
+VC Rate 2020, 2019, 2018 0.1, 0.1, 0.0
+PC Rate 2020, 2019, 2018 2.4, 1.5, 2.6
+
+#2
+
+Kinnelon
+
++73
+Kinnelon, New Jersey
+Population 10,080
+Median Income $125,000
+VC Rate 2020, 2019, 2018 0.1, 0.5, 0.4
+PC Rate 2020, 2019, 2018 2.5, 3.4, 4.3
+
+#3
+
+Bergenfield
+
++6
+Bergenfield, New Jersey
+Population 27,684
+Median Income $80,365
+VC Rate 2020, 2019, 2018 0.0, 0.1, 0.3
+PC Rate 2020, 2019, 2018 2.7, 3.7, 3.6
+
+#4
+
+Mount Olive Township
+
++44
+Mount Olive Township, New Jersey
+Population 28,994
+Median Income $88,467
+VC Rate 2020, 2019, 2018 0.2, 0.3, 0.3
+PC Rate 2020, 2019, 2018 2.7, 5.6, 5.3
+
+#5
+
+Tenafly
+
++2
+Tenafly, New Jersey
+Population 14,742
+Median Income $140,923
+VC Rate 2020, 2019, 2018 0.3, 0.1, 0.3
+PC Rate 2020, 2019, 2018 2.5, 4.3, 4.6
+
+#6
+
+Chatham Township
+
+-4
+Chatham Township, New Jersey
+Population 10,288
+Median Income $135,497
+VC Rate 2020, 2019, 2018 0.0, 0.0, 0.3
+PC Rate 2020, 2019, 2018 3.2, 3.7, 4.0
+
+#7
+
+Bernards Township
+
+-3
+Bernards Township, New Jersey
+Population 26,813
+Median Income $126,667
+VC Rate 2020, 2019, 2018 0.1, 0.0, 0.0
+PC Rate 2020, 2019, 2018 3.2, 4.3, 3.5
+
+#8
+
+Dumont
+
++27
+Dumont, New Jersey
+Population 17,825
+Median Income $91,811
+VC Rate 2020, 2019, 2018 0.3, 0.2, 0.2
+PC Rate 2020, 2019, 2018 2.7, 4.9, 5.3
+
+#9
+
+Sparta Township
+
++64
+Sparta Township, New Jersey
+Population 18,694
+Median Income $126,090
+VC Rate 2020, 2019, 2018 0.3, 0.5, 0.1
+PC Rate 2020, 2019, 2018 2.9, 3.5, 4.1
+
+#10
+
+Washington Township
+
++12
+Washington Township-Morris County, New Jersey
+Population 18,484
+Median Income $125,149
+VC Rate 2020, 2019, 2018 0.4, Not Available, Not Available
+PC Rate 2020, 2019, 2018 2.7, Not Available, Not Available
+
+#11
+
+Warren Township
+
++18
+Warren Township, New Jersey
+Population 15,951
+Median Income $144,233
+VC Rate 2020, 2019, 2018 0.2, 0.2, 0.1
+PC Rate 2020, 2019, 2018 3.3, 2.6, 3.4
+
+#12
+
+Monroe Township, Middlesex County
+
+-1
+Monroe Township-Middlesex County, New Jersey
+Population 45,597
+Median Income $70,772
+VC Rate 2020, 2019, 2018 0.1, Not available, Not available
+PC Rate 2020, 2019, 2018 3.5, Not available, Not available
+
+#13
+
+New Milford
+
++3
+New Milford, New Jersey
+Population 16,701
+Median Income $75,071
+VC Rate 2020, 2019, 2018 0.3, 0.1, 0.1
+PC Rate 2020, 2019, 2018 3.1, 4.4, 2.4
+
+#14
+
+Woolwich Township
+
++36
+Woolwich Township, New Jersey
+Population 12,636
+Median Income $117,571
+VC Rate 2020, 2019, 2018 0.0, 0.3, 0.2
+PC Rate 2020, 2019, 2018 4.0, 5.2, 3.9
+
+#15
+
+Mahwah Township
+
++39
+Mahwah Township, New Jersey
+Population 26,501
+Median Income $102,168
+VC Rate 2020, 2019, 2018 0.1, 0.3, 0.2
+PC Rate 2020, 2019, 2018 3.7, 5.5, 5.6
+
+#16
+
+Hopatcong
+
++100
+Population 14,183
+Median Income $85,357
+VC Rate 2020, 2019, 2018 0.4, 0.8, 0.5
+PC Rate 2020, 2019, 2018 3.0, 5.0, 7.2
+
+#17
+
+Clinton Township
+
+-7
+Clinton Township, New Jersey
+Population 12,824
+Median Income $124,583
+VC Rate 2020, 2019, 2018 0.1, 0.1, 0.1
+PC Rate 2020, 2019, 2018 3.9, 5.6, 3.2
+
+#18
+
+Glen Rock
+
++6
+Glen Rock, New Jersey
+Population 11,937
+Median Income $154,615
+VC Rate 2020, 2019, 2018 0.0, 0.2, 0.1
+PC Rate 2020, 2019, 2018 4.1, 7.7, 6.2
+
+#19
+
+Robbinsville Township
+
+-11
+Robbinsville Township, New Jersey
+Population 14,710
+Median Income $114,593
+VC Rate 2020, 2019, 2018 0.1, 0.1, 0.5
+PC Rate 2020, 2019, 2018 4.0, 5.7, 4.4
+
+#20
+
+Hasbrouck Heights
+
++3
+Hasbrouck Heights, New Jersey
+Population 12,163
+Median Income $87,705
+VC Rate 2020, 2019, 2018 0.1, 0.2, 0.6
+PC Rate 2020, 2019, 2018 4.2, 5.0, 5.9
+
+#21
+
+Jefferson Township
+
++23
+Jefferson Township, New Jersey
+Population 21,071
+Median Income $96,298
+VC Rate 2020, 2019, 2018 0.2, 0.3, 0.7
+PC Rate 2020, 2019, 2018 4.0, 4.3, 3.7
+
+#22
+
+Hillsdale
+
+-21
+Hillsdale, New Jersey
+Population 10,484
+Median Income $113,077
+VC Rate 2020, 2019, 2018 0.3, 0.0, 0.3
+PC Rate 2020, 2019, 2018 3.9, 3.3, 3.3
+
+#23
+
+Vernon Township
+
++38
+Vernon Township, New Jersey
+Population 22,057
+Median Income $87,707
+VC Rate 2020, 2019, 2018 0.0, 0.4, 0.3
+PC Rate 2020, 2019, 2018 4.5, 8.6, 9.2
+
+#24
+
+Raritan Township
+
++13
+Raritan Township, New Jersey
+Population 22,092
+Median Income $113,214
+VC Rate 2020, 2019, 2018 0.2, 0.2, 0.1
+PC Rate 2020, 2019, 2018 4.3, 4.2, 5.1
+
+#25
+
+Montgomery Township
+
++17
+Montgomery Township, New Jersey
+Population 23,515
+Median Income $154,375
+VC Rate 2020, 2019, 2018 0.3, 0.3, 0.2
+PC Rate 2020, 2019, 2018 4.1, 4.3, 4.0
+
+#26
+
+New Providence
+
+-23
+New Providence, New Jersey
+Population 13,283
+Median Income $139,071
+VC Rate 2020, 2019, 2018 0.0, 0.0, 0.1
+PC Rate 2020, 2019, 2018 4.9, 4.5, 4.5
+
+#27
+
+Oakland
+
++65
+Oakland, New Jersey
+Population 13,102
+Median Income $117,596
+VC Rate 2020, 2019, 2018 0.5, 0.6, 0.6
+PC Rate 2020, 2019, 2018 3.7, 6.0, 5.4
+
+#28
+
+Ringwood
+
++11
+Ringwood, New Jersey
+Population 12,303
+Median Income $106,880
+VC Rate 2020, 2019, 2018 0.5, 0.2, 0.2
+PC Rate 2020, 2019, 2018 3.9, 3.0, 4.8
+
+#29
+
+Berkeley Heights Township
+
++4
+Berkeley Heights Township, New Jersey
+Population 13,646
+Median Income $139,500
+PC Rate 2020, 2019, 2018 0.3, 0.2, 0.1
+PC Rate 2020, 2019, 2018 4.4, 5.3, 6.6
+
+#30
+
+Waldwick
+
++16
+Waldwick, New Jersey
+Population 10,019
+Median Income $106,750
+VC Rate 2020, 2019, 2018 0.2, 0.3, 0.2
+PC Rate 2020, 2019, 2018 4.7, 6.3, 5.8
+
+#31
+
+Randolph Township
+
+-10
+Randolph Township, New Jersey
+Population 25,552
+Median Income $117,560
+VC Rate 2020, 2019, 2018 0.1, 0.2, 0.2
+PC Rate 2020, 2019, 2018 5.0, 4.5, 4.9
+
+#32
+
+Madison
+
++8
+Madison, New Jersey
+Population 15,832
+Median Income $109,737
+VC Rate 2020, 2019, 2018 0.2, 0.2, 0.2
+PC Rate 2020, 2019, 2018 4.8, 4.1, 6.0
+
+#33
+
+Hopewell Township
+
++29
+Hopewell Township, New Jersey
+Population 18,000
+Median Income $144,539
+VC Rate 2020, 2019, 2018 0.4, 0.4, 0.2
+PC Rate 2020, 2019, 2018 4.2, 5.3, 5.4
+
+#34
+
+Readington Township
+
+-16
+Readington Township, New Jersey
+Population 15,941
+Median Income $121,210
+VC Rate 2020, 2019, 2018 0.1, 0.1, 0.5
+PC Rate 2020, 2019, 2018 5.1, 5.0, 5.9
+
+#35
+
+Franklin Lakes
+
+-23
+Franklin Lakes, New Jersey
+Population 11,191
+Median Income $153,657
+VC Rate 2020, 2019, 2018 0.1, 0.1, 0.5
+PC Rate 2020, 2019, 2018 5.3, 6.5, 6.9
+
+#36
+
+River Edge
+
+-10
+River Edge, New Jersey
+Population 11,611
+Median Income $104,250
+VC Rate 2020, 2019, 2018 0.0, 0.2, 0.4
+PC Rate 2020, 2019, 2018 5.5, 5.4, 5.1
+
+#37
+
+Harrison Township
+
++33
+Harrison Township, New Jersey
+Population 12,915
+Median Income $127,875
+VC Rate 2020, 2019, 2018 0.2, 0.5, 0.5
+PC Rate 2020, 2019, 2018 5.2, 7.8, 7.1
+
+#38
+
+Roxbury Township
+
+-7
+Roxbury Township, New Jersey
+Population 23,010
+Median Income $104,453
+VC Rate 2020, 2019, 2018 0.0, 0.2, 0.3
+PC Rate 2020, 2019, 2018 5.5, 10.1, 9.1
+
+#39
+
+Denville Township
+
+-34
+Denville Township, New Jersey
+Population 16,737
+Median Income $105,135
+VC Rate 2020, 2019, 2018 0.1, 0.1, 0.2
+PC Rate 2020, 2019, 2018 5.4, 5.2, 4.8
+
+#40
+
+Wyckoff Township
+
++31
+Wyckoff Township, New Jersey
+Population 17,161
+Median Income $141,964
+VC Rate 2020, 2019, 2018 0.3, 0.5, 0.3
+PC Rate 2020, 2019, 2018 4.9, 6.2, 6.0
+
+#41
+
+Lincoln Park
+
++22
+Lincoln Park, New Jersey
+Population 10,308
+Median Income $81,661
+VC Rate 2020, 2019, 2018 0.0, 0.4, 0.4
+PC Rate 2020, 2019, 2018 5.8, 6.9, 7.3
+
+#42
+
+Morris Township
+
+-23
+Morris Township, New Jersey
+Population 22,183
+Median Income $143,150
+VC Rate 2020, 2019, 2018 0.3, 0.1, 0.4
+PC Rate 2020, 2019, 2018 5.4, 4.5, 5.8
+
+#43
+
+Plainsboro Township
+
++12
+Plainsboro Township, New Jersey
+Population 23,243
+Median Income $92,967
+VC Rate 2020, 2019, 2018 0.4, 0.3, 0.4
+PC Rate 2020, 2019, 2018 5.1, 5.3, 5.9
+
+#44
+
+Branchburg Township
+
+-14
+Branchburg Township, New Jersey
+Population 14,577
+Median Income $120,968
+VC Rate 2020, 2019, 2018 0.3, 0.2, 0.5
+PC Rate 2020, 2019, 2018 5.5, 4.0, 4.4
+
+#45
+
+Manalapan Township
+
++7
+Population 40,150
+Median Income $110,573
+VC Rate 2020, 2019, 2018 0.3, 0.3, 0.7
+PC Rate 2020, 2019, 2018 5.4, 6.2, 6.0
+
+#46
+
+Florham Park
+
++33
+Population 11,602
+Median Income $105,368
+VC Rate 2020, 2019, 2018 0.3, 0.5, 0.6
+PC Rate 2020, 2019, 2018 5.6, 6.9, 8.5
+
+#47
+
+Manchester Township
+
+-6
+Manchester Township, New Jersey
+Population 42,939
+Median Income $39,826
+VC Rate 2020, 2019, 2018 0.3, 0.3, 0.6
+PC Rate 2020, 2019, 2018 5.5, 5.1, 5.0
+
+#48
+
+Middletown Township
+
++65
+Population 65,469
+Median Income $103,907
+VC Rate 2020, 2019, 2018 0.2, 0.7, 0.3
+PC Rate 2020, 2019, 2018 5.9, 7.6, 6.6
+
+#49
+
+Ridgewood
+
+-11
+Ridgewood, New Jersey
+Population 25,429
+Median Income $162,011
+VC Rate 2020, 2019, 2018 0.2, 0.2, 0.3
+PC Rate 2020, 2019, 2018 6.1, 6.8, 8.0
+
+#50
+
+Verona
+
+-5
+Verona, New Jersey
+Population 13,437
+Median Income $100,503
+VC Rate 2020, 2019, 2018 0.0, 0.3, 0.2
+PC Rate 2020, 2019, 2018 6.6, 5.6, 6.1

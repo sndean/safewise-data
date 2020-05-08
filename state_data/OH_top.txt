@@ -1,0 +1,218 @@
+
+
+#1
+
+Broadview Heights
+
++3
+Broadview Heights, Ohio
+Population 19,236
+Median Income $85,339
+VC Rate 2020, 2019, 2018 0.1, 0.1, Not available
+PC Rate 2020, 2019, 2018 0.9, 1.1, Not available
+
+#2
+
+Sagamore Hills
+
+0
+Sagamore Hills, Ohio
+Population 10,956
+Median Income $69,496
+VC Rate 2020, 2019, 2018 0.0, 0.0, Not available
+PC Rate 2020, 2019, 2018 2.7, 3.2, Not available
+
+#3
+
+Olmsted Township
+
++2
+Olmsted Township, Ohio
+Population 13,425
+Median Income $64,740
+VC Rate 2020, 2019, 2018 0.1, 0.1, 0.1
+PC Rate 2020, 2019, 2018 2.1, 3.8, 3.3
+
+#4
+
+Poland Township
+
++8
+Poland Township, Ohio
+Population 11,888
+Median Income $66,793
+VC Rate 2020, 2019, 2018 0.2, 0.3, 0.2
+PC Rate 2020, 2019, 2018 2.6, 4.4, 5.5
+
+#5
+
+Rocky River
+
+New
+Rocky River, Ohio
+Population 20,253
+Median Income $69,989
+VC Rate 2020, 2019, 2018 0.1, Not available, 0.3
+PC Rate 2020, 2019, 2018 3.2, Not available, 4.0
+
+#6
+
+North Ridgeville
+
++32
+Population 34,025
+Median Income $69,848
+VC Rate 2020, 2019, 2018 0.3, 0.5, 0.4
+PC Rate 2020, 2019, 2018 2.9, 4.2, 5.8
+
+#7
+
+Clearcreek Township
+
++49
+Clearcreek Township, Ohio
+Population 15,765
+Median Income $93,769
+VC Rate 2020, 2019, 2018 0.3, 0.7, 0.3
+PC Rate 2020, 2019, 2018 3.0, 4.8, 6.0
+
+#8
+
+Brunswick Hills Township
+
++2
+Brunswick Hills Township, Ohio
+Population 10,418
+Median Income $78,608
+VC Rate 2020, 2019, 2018 0.4, 0.2, 0.5
+PC Rate 2020, 2019, 2018 2.9, 3.9, 3.7
+
+#9
+
+Montville Township
+
+-6
+Montville Township, Ohio
+Population 11,831
+Median Income $103,264
+VC Rate 2020, 2019, 2018 0.2, 0.0, 0.2
+PC Rate 2020, 2019, 2018 4.1, 5.2, 3.9
+
+#10
+
+Seven Hills
+
++3
+Seven Hills, Ohio
+Population 11,662
+Median Income $77,384
+VC Rate 2020, 2019, 2018 0.3, 0.3, 0.3
+PC Rate 2020, 2019, 2018 4.5, 4.3, 5.5
+
+#11
+
+Hudson
+
++36
+Hudson, Massachusetts
+Population 22,242
+Median Income $128,324
+VC Rate 2020, 2019, 2018 0.0, 0.5, 0.2
+PC Rate 2020, 2019, 2018 5.7, 5.1, 4.1
+
+#12
+
+Hamilton Township, Warren County
+
+New
+Population 23,330
+Median Income $84,882
+VC Rate 2020, 2019, 2018 0.5, Not available, Not available
+PC Rate 2020, 2019, 2018 3.9, Not available, Not available
+
+#13
+
+Springboro
+
++29
+Springboro, Ohio
+Population 18,789
+Median Income $104,063
+VC Rate 2020, 2019, 2018 0.2, 0.5, 0.6
+PC Rate 2020, 2019, 2018 5.4, 6.5, 5.6
+
+#14
+
+North Royalton
+
+New
+North Royalton, Ohio
+Population 30,324
+Median Income $69,236
+VC Rate 2020, 2019, 2018 0.5, Not available, Not available
+PC Rate 2020, 2019, 2018 4.0, Not available, Not available
+
+#15
+
+Brecksville
+
+-7
+Brecksville, Ohio
+Population 13,652
+Median Income $101,060
+VC Rate 2020, 2019, 2018 0.7, 0.1, 0.3
+PC Rate 2020, 2019, 2018 3.2, 3.9, 4.0
+
+#16
+
+Mayfield Heights
+
++37
+Mayfield Heights, Ohio
+Population 18,648
+Median Income $48,936
+VC Rate 2020, 2019, 2018 0.3, 0.7, Not available
+PC Rate 2020, 2019, 2018 6.1, 10.0, Not available
+
+#17
+
+Brunswick
+
++30
+Brunswick, Ohio
+Population 34,954
+Median Income $68,087
+VC Rate 2020, 2019, 2018 0.6, 0.6, 0.7
+PC Rate 2020, 2019, 2018 4.9, 5.6, 6.4
+
+#18
+
+New Albany
+
++6
+New Albany, Ohio
+Population 11,192
+Median Income $187,200
+VC Rate 2020, 2019, 2018 0.2, 0.4, 0.5
+PC Rate 2020, 2019, 2018 7.3, 8.5, 16.4
+
+#19
+
+Mason
+
++3
+Mason, Ohio
+Population 33,583
+Median Income $93,872
+VC Rate 2020, 2019, 2018 0.2, 0.4, 0.2
+PC Rate 2020, 2019, 2018 7.9, 10.7, 10.0
+
+#20
+
+Berea
+
++13
+Population 18,838
+Median Income $57,416
+VC Rate 2020, 2019, 2018 0.5, 0.4, 0.6
+PC Rate 2020, 2019, 2018 6.2, 7.4, 9.6

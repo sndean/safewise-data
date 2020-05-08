@@ -1,0 +1,218 @@
+
+
+#1
+
+Oakland Township
+
++11
+Oakland Township, Michigan
+Population 19,495
+Median Income $118,969
+VC Rate 2020, 2019, 2018 0.2, 0.4, 0.3
+PC Rate 2020, 2019, 2018 1.5, 3.0, 2.6
+
+#2
+
+Iron Mountain
+
++5
+Iron Mountain, Michigan
+Population 7,327
+Median Income $45,575
+VC Rate 2020, 2019, 2018 0.4, 0.3, Not available
+PC Rate 2020, 2019, 2018 1.2, 0.5, Not available
+
+#3
+
+Addison Township
+
++7
+Addison Township, Michigan
+Population 6,598
+Median Income $76,745
+VC Rate 2020, 2019, 2018 0.2, 0.3, 0.8
+PC Rate 2020, 2019, 2018 2.3, 4.0, 8.1
+
+#4
+
+Kinross Township
+
+0
+Kinross Township, Michigan
+Population 7,432
+Median Income $40,856
+VC Rate 2020, 2019, 2018 0.3, 0.1, 0.1
+PC Rate 2020, 2019, 2018 2.2, 2.0, 1.7
+
+#5
+
+Spring Arbor Township
+
++21
+Population 8,044
+Median Income $53,694
+VC Rate 2020, 2019, 2018 0.6, 0.6, 0.9
+PC Rate 2020, 2019, 2018 1.5, 4.1, 3.7
+
+#6
+
+Raisin Township
+
++82
+Raisin Township, Michigan
+Population 7,716
+Median Income $68,350
+VC Rate 2020, 2019, 2018 0.3, 1.7, 0.0
+PC Rate 2020, 2019, 2018 3.4, 2.5, 3.6
+
+#7
+
+Grosse Ile Township
+
+-6
+Grosse Ile Township, Michigan
+Population 10,128
+Median Income $92,674
+VC Rate 2020, 2019, 2018 0.3, 0.0, 0.2
+PC Rate 2020, 2019, 2018 3.4, 2.9, 1.5
+
+#8
+
+Hamburg Township
+
++20
+Population 22,024
+Median Income $77,209
+VC Rate 2020, 2019, 2018 0.5, 0.6, 0.6
+PC Rate 2020, 2019, 2018 3.0, 3.2, 3.7
+
+#9
+
+Argentine Township
+
++15
+Argentine Township, Michigan
+Population 6,526
+Median Income $61,250
+VC Rate 2020, 2019, 2018 0.5, 0.6, 2.3
+PC Rate 2020, 2019, 2018 3.2, 9.2, 3.9
+
+#10
+
+Gaines Township
+
++27
+Population 6,100
+Median Income $57,577
+VC Rate 2020, 2019, 2018 0.5, 0.8, 0.2
+PC Rate 2020, 2019, 2018 3.9, 4.6, 4.0
+
+#11
+
+Rochester
+
++69
+Rochester, Michigan
+Population 13,075
+Median Income $81,650
+VC Rate 2020, 2019, 2018 0.6, 1.6, 0.6
+PC Rate 2020, 2019, 2018 3.7, 5.5, 5.1
+
+#12
+
+Brandon Township
+
++27
+Brandon Township, Michigan
+Population 15,962
+Median Income $68,322
+VC Rate 2020, 2019, 2018 0.8, 0.8, 1.1
+PC Rate 2020, 2019, 2018 3.1, 3.8, 3.3
+
+#13
+
+Milford
+
+-7
+Milford, Michigan
+Population 16,808
+Median Income $74,779
+VC Rate 2020, 2019, 2018 0.6, 0.2, 0.7
+PC Rate 2020, 2019, 2018 4.0, 4.7, 5.1
+
+#14
+
+Adrian Township
+
++22
+Adrian Township, Michigan
+Population 6,264
+Median Income $52,857
+VC Rate 2020, 2019, 2018 1.3, 0.8, Not available
+PC Rate 2020, 2019, 2018 2.1, 2.9, Not available
+
+#15
+
+Flushing Township
+
++32
+Flushing Township, Michigan
+Population 10,179
+Median Income $61,810
+VC Rate 2020, 2019, 2018 0.5, 1.0, 1.1
+PC Rate 2020, 2019, 2018 4.4, 3.7, 3.8
+
+#16
+
+Springfield Township
+
++44
+Springfield Township, Michigan
+Population 14,423
+Median Income $41,705
+VC Rate 2020, 2019, 2018 0.8, 1.2, 0.5
+PC Rate 2020, 2019, 2018 3.7, 4.6, 5.5
+
+#17
+
+Oxford Township
+
++24
+Oxford Township, Michigan
+Population 19,139
+Median Income $70,694
+VC Rate 2020, 2019, 2018 0.6, 0.9, 0.9
+PC Rate 2020, 2019, 2018 4.2, 3.9, 5.9
+
+#18
+
+Commerce Township
+
++2
+Commerce Township, Michigan
+Population 39,023
+Median Income $81,489
+VC Rate 2020, 2019, 2018 0.4, 0.5, 0.5
+PC Rate 2020, 2019, 2018 5.0, 7.4, 9.4
+
+#19
+
+South Lyon
+
+-3
+South Lyon, Michigan
+Population 11,803
+Median Income $63,876
+VC Rate 2020, 2019, 2018 1.0, 0.6, 0.6
+PC Rate 2020, 2019, 2018 3.4, 4.7, 4.2
+
+#20
+
+Independence Township
+
++5
+Independence Township, Michigan
+Population 36,925
+Median Income $76,628
+VC Rate 2020, 2019, 2018 0.4, 0.6, 0.6
+PC Rate 2020, 2019, 2018 5.2, 6.3, 5.1

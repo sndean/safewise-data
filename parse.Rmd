@@ -38,10 +38,18 @@ combine_func <- function(x){
          ), ChangeNames)) %>% 
   mutate(state = x)
 }
+
+combine_func2 <- function(x){
+  as.data.frame(
+  lapply(
+    list(read_tsv(paste('state_data/', x, '_bottom.tsv', sep = ''), col_names = FALSE)#  %>% select(-X1)
+         ), ChangeNames)) %>% 
+  mutate(state = x)
+}
 ```
 
 ```{bash}
-state=('OK')
+state=('NH')
 name=$(grep -A 2 '#' state_data/${state}_top.txt | grep '[A-z]')
 pop=$(grep 'Population' state_data/${state}_top.txt | awk '{print $2}')
 PC=$(grep 'PC' state_data/${state}_top.txt | cut -c26- | awk '{gsub("Not available,", "");sum = 0; for (i = 1; i <= NF; i++) sum += $i; sum /= NF; print sum}')
@@ -71,20 +79,20 @@ df1 <- bind_rows(
   combine_func('MA'),
   combine_func('MD'),
   combine_func('ME'),
-# MI
-# MN
-# MO
-# MS
-# MT
-# ND
-# NE
-# NH
-# NJ
-# NM
-# NV
-# NY
-# OH
-  combine_func('OK'),# OK
+  combine_func('MI'),
+  combine_func('MN'),
+  combine_func('MO'),
+  combine_func('MS'),
+  combine_func('MT'),
+  combine_func('ND'),
+  combine_func('NE'),
+  combine_func('NH'),
+  combine_func('NJ'),
+  combine_func('NM'),
+  combine_func2('NV'),
+  combine_func('NY'),
+  combine_func('OH'),
+  combine_func('OK'),
   combine_func('OR'),
   combine_func('PA'),
   combine_func('RI'),
@@ -104,12 +112,12 @@ df1 <- bind_rows(
 
 ```{r, fig.width=11, fig.height=7}
 coul = brewer.pal(8, "Set1") 
-coul = colorRampPalette(coul)(45)
+coul = colorRampPalette(coul)(47)
 
 df1 %>%
   mutate(
     label = case_when(
-      VC > 20 | PC > 80 ~ paste(name, state, sep = ', '),
+      VC > 20 | PC > 90 ~ paste(name, state, sep = ', '),
       TRUE ~ ''
     )
   ) %>% 
@@ -117,13 +125,15 @@ df1 %>%
   geom_point(aes(VC, PC, size=pop, color=state)) +
   geom_text_repel(aes(VC, PC, label = label),
                   size = 3,
-                  box.padding = unit(0.25, "lines"),
+                  box.padding = unit(0.4, "lines"),
                   point.padding = unit(0.25, "lines"),
                   show.legend = FALSE) +
   theme2 +
   guides(color=guide_legend(ncol=4)) +
   scale_color_manual(values = coul) +
   labs(x='Violent crime (per 1000)', y='Property crime (per 1000)', color='State')
+
+ggsave('image.png', dpi = 300)
 ```
 
 

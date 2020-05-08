@@ -1,0 +1,111 @@
+
+
+#1
+
+Seward
+
+New
+Seward, Nebraska
+Population 7,209
+Median Income $60,589
+VC Rate 2020, 2019, 2018 0.4, Not available, 0.1
+PC Rate 2020, 2019, 2018 9.8, Not available, 7.9
+
+#2
+
+Schuyler
+
+New
+Map of Schuyler, Nebraska
+Population 6,210
+Median Income $53,756
+VC Rate 2020, 2019, 2018 1.9, Not available, Not available
+PC Rate 2020, 2019, 2018 6.1, Not available, Not available
+
+#3
+
+Lexington
+
+New
+Lexington, Nebraska
+Population 9,996
+Median Income $49,881
+VC Rate 2020, 2019, 2018 1.0, Not available, 2.3
+PC Rate 2020, 2019, 2018 14.1, Not available, 20.4
+
+#4
+
+La Vista
+
+New
+La Vista, Nebraska
+Population 17,177
+Median Income $63,034
+VC Rate 2020, 2019, 2018 0.9, Not available, 1.2
+PC Rate 2020, 2019, 2018 15.7, Not available, 14.5
+
+#5
+
+Blair
+
+New
+Blair, Nebraska
+Population 8,103
+Median Income $44,855
+VC Rate 2020, 2019, 2018 1.0, Not available, 1.3
+PC Rate 2020, 2019, 2018 15.8, Not available, 12.8
+
+#6
+
+Columbus
+
+New
+Columbus, Nebraska
+Population 23,257
+Median Income $54,822
+VC Rate 2020, 2019, 2018 1.1, Not available, 1.1
+PC Rate 2020, 2019, 2018 15.4, Not available, 21.8
+
+#7
+
+Alliance
+
+New
+Alliance, Nebraska
+Population 8,122
+Median Income $54,291
+VC Rate 2020, 2019, 2018 1.1, Not available, 2.6
+PC Rate 2020, 2019, 2018 16.0, Not available, 11.8
+
+#8
+
+Gering
+
+New
+Gering, Nebraska
+Population 8,291
+Median Income $56,010
+VC Rate 2020, 2019, 2018 1.7, Not available, Not available
+PC Rate 2020, 2019, 2018 13.6, Not available, Not available
+
+#9
+
+Norfolk
+
+0
+Norfolk, Nebraska
+Population 24,458
+Median Income $46,542
+VC Rate 2020, 2019, 2018 1.2, 1.5, 1.6
+PC Rate 2020, 2019, 2018 18.2, 19.1, 22.9
+
+#10
+
+Ralston
+
+New
+Ralston, Nebraska
+Population 7,535
+Median Income $55,837
+VC Rate 2020, 2019, 2018 1.5, Not available, 3.3
+PC Rate 2020, 2019, 2018 17.3, Not available, 36.1

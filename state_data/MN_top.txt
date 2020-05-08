@@ -1,0 +1,216 @@
+
+
+#1
+
+Kasson
+
++53
+Kasson, Minnesota
+Population 6,444
+Median Income $71,098
+VC Rate 2020, 2019, 2018 0.2, 1.1, 0.8
+PC Rate 2020, 2019, 2018 1.2, 12.5, 10.6
+
+#2
+
+La Crescent
+
++36
+La Crescent, Minnesota
+Population 5,012
+Median Income $55,952
+VC Rate 2020, 2019, 2018 0.4, 1.0, 0.4
+PC Rate 2020, 2019, 2018 4.4, 7.3, 6.2
+
+#3
+
+Orono
+
++13
+Orono, Minnesota
+Population 20,225
+Median Income $130,300
+VC Rate 2020, 2019, 2018 0.3, 0.6, 0.2
+PC Rate 2020, 2019, 2018 5.8, 6.1, 8.4
+
+#4
+
+Elko New Market
+
+0
+Elko New Market, Minnesota
+Population 4,809
+Median Income $118,750
+VC Rate 2020, 2019, 2018 0.4, 0.2, 0.0
+PC Rate 2020, 2019, 2018 4.6, 0.4, 2.7
+
+#5
+
+South Lake Minnetonka
+
++37
+South Lake Minnetonka, Minnesota
+Population 12,731
+Median Income Not available
+VC Rate 2020, 2019, 2018 0.2, 0.9, 0.8
+PC Rate 2020, 2019, 2018 6.9, 9.2, 9.3
+
+#6
+
+Cold Spring/Richmond
+
+-3
+Cold Spring-Richmond, Minnesota
+Population 5,572
+Median Income $49,041
+VC Rate 2020, 2019, 2018 0.4, 0.2, 0.7
+PC Rate 2020, 2019, 2018 6.6, 8.3, 7.4
+
+#7
+
+Minnetrista
+
++14
+Minnetrista, Minnesota
+Population 10,357
+Median Income $148,783
+VC Rate 2020, 2019, 2018 0.4, 0.6, 0.2
+PC Rate 2020, 2019, 2018 8.1, 11.9, 8.7
+
+#8
+
+Dayton
+
++7
+Dayton, Minnesota
+Population 5,970
+Median Income $87,966
+VC Rate 2020, 2019, 2018 0.3, 0.5, 0.0
+PC Rate 2020, 2019, 2018 9.4, 11.8, 8.3
+
+#9
+
+Lake City
+
++11
+Lake City, Minnesota
+Population 5,116
+Median Income $53,300
+VC Rate 2020, 2019, 2018 0.2, 0.6, 0.8
+PC Rate 2020, 2019, 2018 11.5, 8.9, 6.8
+
+#10
+
+Farmington
+
++7
+Farmington, Minnesota
+Population 23,355
+Median Income $88,674
+VC Rate 2020, 2019, 2018 0.6, 0.6, 0.4
+PC Rate 2020, 2019, 2018 7.5, 9.1, 9.6
+
+#11
+
+Medina
+
++1
+Medina, Minnesota
+Population 6,721
+Median Income $138,125
+VC Rate 2020, 2019, 2018 0.3, 0.5, 0.5
+PC Rate 2020, 2019, 2018 11.0, 10.5, 15.9
+
+#12
+
+Jordan
+
++43
+Population 6,375
+Median Income $66,194
+VC Rate 2020, 2019, 2018 0.6, 1.1, 1.1
+PC Rate 2020, 2019, 2018 7.1, 11.0, 8.1
+
+#13
+
+Lino Lakes
+
+-3
+Lino Lakes, Minnesota
+Population 21,577
+Median Income $107,438
+VC Rate 2020, 2019, 2018 0.6, 0.4, 0.5
+PC Rate 2020, 2019, 2018 8.4, 9.2, 9.9
+
+#14
+
+Rosemount
+
++5
+Rosemount, Minnesota
+Population 24,707
+Median Income $94,341
+VC Rate 2020, 2019, 2018 0.6, 0.6, 1.0
+PC Rate 2020, 2019, 2018 7.6, 8.6, 8.1
+
+#15
+
+Lakeville
+
++10
+Population 64,914
+Median Income $102,943
+VC Rate 2020, 2019, 2018 0.6, 0.7, 0.7
+PC Rate 2020, 2019, 2018 8.2, 9.5, 10.0
+
+#16
+
+St. Joseph
+
++13
+Population 7,212
+Median Income $56,754
+VC Rate 2020, 2019, 2018 0.6, 0.7, 0.9
+PC Rate 2020, 2019, 2018 9.6, 8.7, 8.1
+
+#17
+
+Corcoran
+
++7
+Population 5,988
+Median Income $102,708
+VC Rate 2020, 2019, 2018 0.7, 0.7, 0.2
+PC Rate 2020, 2019, 2018 8.7, 6.6, 5.0
+
+#18
+
+Big Lake
+
+-16
+Big Lake, Minnesota
+Population 11,036
+Median Income $73,500
+VC Rate 2020, 2019, 2018 1.0, 0.1, 1.4
+PC Rate 2020, 2019, 2018 4.8, 5.5, 7.3
+
+#19
+
+Chaska
+
++16
+Population 26,962
+Median Income $81,938
+VC Rate 2020, 2019, 2018 0.8, 0.8, 0.6
+PC Rate 2020, 2019, 2018 8.4, 9.7, 11.3
+
+#20
+
+Plymouth
+
++13
+Plymouth, Minnesota
+Population 79,559
+Median Income $91,867
+VC Rate 2020, 2019, 2018 0.6, 0.8, 0.6
+PC Rate 2020, 2019, 2018 11.4, 12.3, 13.1

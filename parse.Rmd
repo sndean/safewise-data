@@ -140,7 +140,50 @@ ggsave('image.png', dpi = 300)
 ```
 
 
+```{r}
+df2 <- df1 %>% 
+  filter(state == 'MD') %>% 
+  mutate(
+    label = case_when(
+      VC > 15 | PC > 50 ~ paste(name, state, sep = ', '),
+      TRUE ~ ''
+    )
+    ) %>% 
+  filter(name == 'Bowie') %>% 
+  mutate(
+    name = "italic('Bowie, MD')"
+  )
 
+
+df1 %>% 
+  filter(state == 'MD') %>% 
+  mutate(
+    label = case_when(
+      (VC > 15 | PC > 50) ~ paste(name, state, sep = ', '),
+      # (name == 'Bowie') ~ name,
+      TRUE ~ ''
+    )
+  ) %>% 
+  ggplot(aes(VC, PC, size=pop)) +
+  geom_point() +
+  geom_point(data = df2, aes(color=name)) +
+  geom_text_repel(aes(label = label),
+                  size = 3,
+                  box.padding = unit(0.4, "lines"),
+                  point.padding = unit(0.25, "lines"),
+                  show.legend = FALSE) +
+  geom_text_repel(data = df2, aes(label = name),
+                  size = 6,
+                  box.padding = unit(0.4, "lines"),
+                  point.padding = unit(0.25, "lines"),
+                  show.legend = FALSE,
+                  parse = TRUE,
+                  nudge_y = 80) +
+  theme2 +
+  scale_color_manual(values=c('blue')) +
+  guides(color=FALSE) +
+  labs(x='Violent crime (per 1000)', y='Property crime (per 1000)', color='State')
+```
 
 
 

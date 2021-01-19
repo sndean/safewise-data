@@ -110,7 +110,7 @@ df1 <- bind_rows(
   )
 ```
 
-```{r, fig.width=11, fig.height=7}
+```{r, fig.width=5.5, fig.height=3.5}
 coul = brewer.pal(8, "Set1") 
 coul = colorRampPalette(coul)(47)
 
@@ -142,25 +142,24 @@ ggsave('image.png', dpi = 300)
 
 ```{r}
 df2 <- df1 %>% 
-  filter(state == 'MD') %>% 
+  filter(state == 'GA') %>% 
   mutate(
     label = case_when(
-      VC > 15 | PC > 50 ~ paste(name, state, sep = ', '),
+      VC > 10 | PC > 70 ~ paste(name, state, sep = ', '),
       TRUE ~ ''
     )
     ) %>% 
-  filter(name == 'Bowie') %>% 
+  filter(name == 'Marietta') %>% 
   mutate(
-    name = "italic('Bowie, MD')"
+    name = "italic('Marietta, GA')"
   )
 
 
 df1 %>% 
-  filter(state == 'MD') %>% 
+  filter(state == 'GA') %>% 
   mutate(
     label = case_when(
-      (VC > 15 | PC > 50) ~ paste(name, state, sep = ', '),
-      # (name == 'Bowie') ~ name,
+      (VC > 10 | PC > 70) ~ paste(name, state, sep = ', '),
       TRUE ~ ''
     )
   ) %>% 
@@ -180,9 +179,11 @@ df1 %>%
                   parse = TRUE,
                   nudge_y = 80) +
   theme2 +
-  scale_color_manual(values=c('blue')) +
+  scale_color_manual(values=c('red')) +
   guides(color=FALSE) +
   labs(x='Violent crime (per 1000)', y='Property crime (per 1000)', color='State')
+
+ggsave('image2.png', dpi = 300)
 ```
 
 
